@@ -1,0 +1,2838 @@
+ID,Header,Release_Year,Aggregate_Rating,Num_Figures
+1,Accurate British Infantry (7200),,47,50
+2,Accurate American Militia (7201),,48,50
+3,Accurate Union Infantry (7202),1991,48,50
+4,Accurate Union Artillery Team (7204),,34,18
+5,Accurate Union Pioneers (7205),,44,31
+6,Accurate Hundred Years War English Men-At-Arms (7206),,45,47
+7,Accurate Hundred Years War Knights Of France (7207),,43,35
+8,Accurate Confederate Artillery Team (7208),,,18
+9,Accurate Confederate Pioneers (7209),,,31
+10,Accurate Waterloo French Cavalry (7212),1969,,11
+11,A Call To Arms British Infantry 1815 (50),1998,41,32
+12,A Call To Arms French Cuirassiers 1815 (51),1999,41,12
+13,A Call To Arms British Infantry World War II (52),,33,32
+14,A Call To Arms French Carabiniers 1815 (53),2001,38,12
+15,A Call To Arms Confederate Infantry 1861 (54),2000,39,32
+16,A Call To Arms Union Infantry 1861 (55),,34,52
+17,A Call To Arms Zulus (56),2001,43,32
+18,A Call To Arms British Infantry Zulu War (57),2001,43,32
+19,A Call To Arms French Infantry 1815 (58),2002,40,32
+20,A Call To Arms Royalist Artillery (59),2002,43,16
+21,A Call To Arms Union Regiments (60),2002,41,32
+22,A Call To Arms Royalist Infantry (61),2003,40,32
+23,A Call To Arms English Civil War Command Set (62),2003,42,32
+24,Airfix Guards Colour Party (01702),1960,41,40
+25,Airfix British Infantry (01703),1973,37,48
+26,Airfix German Infantry (01705),1974,40,48
+27,Airfix Cowboys (01707),1961,29,30
+28,Airfix Indians (01708),1961,25,30
+29,Airfix 8th Army (01709),1974,45,45
+30,Airfix Union Infantry (01712),1962,28,48
+31,Airfix Wagon Train (01715),1962,35,19
+32,Airfix Russian Infantry (01717),1964,34,41
+33,Airfix Japanese Infantry (01718),1964,44,48
+34,Airfix Arabs (Bedouins) (01719),1964,38,22
+35,Airfix Robin Hood (01720),1964,41,39
+36,Airfix US Cavalry (01722),1965,34,12
+37,Airfix WWI French Infantry (01728),1966,44,48
+38,Airfix Tarzan Figures (01733),1968,39,17
+39,Airfix Ancient Britons (01734),1969,41,29
+40,Airfix Waterloo French Cavalry (Cuirassiers) (01736),1969,32,11
+41,Airfix The High Chaparral (01738),1971,33,30
+42,Airfix Washington's Army (01739),1971,37,40
+43,Airfix British Grenadiers (01740),1971,25,40
+44,Airfix Waterloo French Infantry (01744),1972,27,43
+45,Airfix Waterloo British Infantry (01745),1972,37,43
+46,Airfix R.A.F. Personnel (01747),1972,46,37
+47,Airfix U.S.A.F. Personnel (01748),1974,48,42
+48,Airfix Australian Infantry (01750),1976,44,48
+49,Airfix German Paratroops (01753),1976,42,46
+50,Airfix Prussian Infantry 1815 (01756),1979,44,48
+51,Airfix Italian Infantry (01757),1980,42,48
+52,Airfix SAS (01761),,,
+53,Airfix Infantry Combat Group (1703),1960,,48
+54,Airfix German Infantry (1705),1960,22,47
+55,Airfix 8th Army (1709),1961,25,46
+56,Atlantic 7th Cavalry (1004),1975,18,
+57,Atlantic Kit Carson (1008),1975,28,
+58,Atlantic Paratroopers (101),1971,21,
+59,Atlantic Gold Rush (1010),1976,30,
+60,Atlantic General Custer (1011),1976,24,
+61,Atlantic Cow-Boys (1015),1977,28,
+62,Atlantic Artillery (106),1974,,
+63,Atlantic Italian Bersaglieri (115),1971,24,
+64,Atlantic Italian Carabinieri Police (116),1972,26,
+65,Atlantic Commandos 'San Marco' (117),1974,28,
+66,Atlantic Landing Craft Infantry (118),1974,8,
+67,Atlantic Machine-Gunners and Mortars (119),1974,18,
+68,Atlantic Anti-Tank Guns (120),1974,25,
+69,Atlantic Heavy Mortars (122),1974,,
+70,Atlantic The Egyptian Army (1502),1976,38,
+71,Atlantic The Egyptian Cavalry (1503),1976,33,
+72,Atlantic Greek Life in the Acropolis (1508),1977,38,
+73,Atlantic Greek Army (1509),1977,27,
+74,Atlantic Gladiators and Christians (1517),1978,32,
+75,Atlantic German Infantry (81),1975,23,
+76,Atlantic Royal Fusiliers (83),1975,22,
+77,Atlantic Red Army (84),1976,26,
+78,Atlantic Sendai Japanese (85),1976,27,
+79,Atlantic Lenin - Stalin - Russian Revolution (9009),1972,32,
+80,Emhar British WWI Infantry with Tank Crew (7201),2000,43,52
+81,Emhar German WWI Infantry with Tank Crew (7203),2000,44,48
+82,Emhar German WWI Artillery (7204),2000,37,24
+84,Esci British Soldiers (200),1982,45,50
+85,Esci German Soldiers (201),1982,43,50
+86,Esci U.S. Soldiers (202),1982,43,50
+87,Esci Russian Soldiers (203),1982,44,46
+88,Esci Japanese Soldiers (204),1982,45,50
+89,Esci French Soldiers (205),1982,36,49
+90,Esci British 8th Army Soldiers (207),1983,47,50
+91,Esci Italian Mountain Troops (211),1983,46,46
+92,Esci British Infantry (215),1984,37,50
+93,Esci 'Scots Greys' British Cavalry (217),1985,36,12
+94,Esci 'Polish Lancers' French Cavalry (218),1985,33,12
+95,Esci British and French Artillery (219),1985,37,16
+96,Esci Lord Cardigan's 11th Hussars (220),1985,33,12
+97,Esci Russian Infantry and Artillery (221),1985,34,30
+98,Esci Union Infantry (222),1985,44,50
+99,Esci Roman Legion (224),1986,44,40
+100,Esci Barbarian Warriors (225),1986,43,46
+101,Esci Prussian and Austrian Infantry (226),1986,36,50
+102,Esci French Line Infantry (227),1986,36,50
+103,Esci U.S. Elite Forces (228),1986,47,50
+104,Esci North Vietnamese Soldiers and Vietcong (229),1986,47,50
+105,Esci British Light Dragoons (230),1986,41,12
+106,Esci British Artillery (233),1986,36,16
+107,Esci French Artillery (234),1986,37,16
+108,Esci French Cuirassiers (235),1987,42,12
+109,Esci Modern Russian Paratroopers Spetsnaz (240),1988,41,50
+110,Esci NATO Troops (241),1989,46,48
+111,Esci German Paratroopers 'Green Devils' (244),1989,38,50
+112,Gulliver South States Cavalry (3601),1994,43,15
+113,HaT Picts (6005),2002,33,24
+114,HaT Saxons (6006),2002,24,24
+115,HaT Franks (6007),2002,29,24
+116,HaT Visigoths (6008),2002,26,24
+117,HaT WW1 French Infantry (7003),,,
+118,HaT Waterloo Prussian Landwehr (7006),,,
+119,HaT Italian Infantry (7007),,,
+120,HaT Waterloo French Line Infantry (7008),1972,,43
+121,HaT Ancient Britons (7011),1969,,29
+122,HaT Bedouins (7013),1964,,22
+123,HaT Robin Hood (7015),1964,,39
+124,HaT Australian Infantry (7016),1976,,48
+125,HaT Jungle Adventure (7018),1968,,17
+126,HaT 1805 Napoleonic French Mamelukes (8001),1996,38,12
+127,HaT Russian Cossacks (8006),1998,42,12
+128,HaT Prussian Artillery (8007),1997,35,24
+129,HaT Brunswick Avant Garde (8008),1997,38,48
+130,HaT Russian Artillery (8010),1997,32,24
+131,HaT French Lancers (8011),1998,33,12
+132,HaT French Horse Grenadiers (8013),1998,41,12
+133,HaT KGL Light Dragoons (8014),1998,40,12
+134,HaT Austrian Cuirassiers (8015),1998,39,12
+135,HaT Russian Cuirassiers (8016),1998,42,12
+136,HaT Republican Romans Princeps & Triari (8017),1999,37,48
+137,HaT Republican Romans Hastati & Velites (8018),1999,39,48
+138,HaT Roman Cavalry (8021),1999,38,12
+139,HaT Brunswick Leib Infantry (8026),2000,41,48
+140,HaT Bavarian Infantry (8028),2000,37,48
+141,HaT Bavarian Cavalry (8030),2000,37,12
+142,HaT Dutch Belgian Light Dragoons (8032),2000,42,12
+143,HaT Roman Catapults (8035),2000,46,48
+144,HaT British Light Infantry (8036),2001,34,48
+145,HaT Austrian Artillery (8037),2001,39,24
+146,HaT Bavarian Artillery (8038),2001,37,24
+147,HaT Macedonian Phalangites (8043),2001,40,48
+148,HaT Alexander's Light Infantry (8044),2001,43,48
+149,HaT Greek Mercenary Hoplites (8045),2001,40,48
+150,HaT Alexander's Thracians (8046),2001,41,48
+151,HaT Alexander's Macedonian Cavalry (8047),2003,37,12
+152,HaT Alexander's Thessalian Cavalry (8048),2003,43,12
+153,HaT Alexander's Allied Cavalry (8049),2003,37,12
+154,HaT Roman Command (8051),2001,46,32
+155,HaT Prussian Reserve Infantry (8052),2002,43,48
+156,HaT Prussian Jäger and Volunteer Jäger (8053),2002,41,48
+157,HaT Persian Light Infantry (8057),2002,48,60
+158,HaT Persian Heavy Infantry (8059),2002,42,48
+159,HaT Austrian Infantry (8060),2002,41,48
+160,HaT Russian Infantry (8061),2002,39,48
+161,HaT 1805 French Line Infantry (8062),2002,38,48
+162,HaT 1805 French Light Infantry (8063),2002,44,48
+163,HaT Imperial Roman Auxiliary Infantry (8065),2003,43,45
+164,HaT Persian Medium Cavalry (8076),2003,42,12
+165,HaT Imperial Roman Legionaries 1st - 2nd Century AD (8082),2003,36,45
+166,Heller German Infantry (79605),1974,,48
+167,Heller British 8th Army (79609),1974,,45
+168,Heller Japanese Infantry (79618),1964,,48
+169,Heller RAF Personnel (79647),1972,,37
+170,Heller U.S.A.A.F. Personnel (79648),1974,,42
+171,Heller German Paratroopers (79653),1976,,46
+172,HYTTY Samurai (1001),,35,18
+173,HYTTY Persians (1002),,17,14
+174,HYTTY Historic Figures (1003),,37,
+175,HYTTY Carthaginian Mercenaries (1004),2002,19,16
+176,HYTTY Alexander The Great Cavalry (2003),,28,11
+177,IMEX Union Artillery (501),1993,32,25
+178,IMEX Confederate Artillery (502),1993,31,25
+179,IMEX Confederate Cavalry (504),1994,42,28
+180,IMEX Union Infantry (505),1995,42,50
+181,IMEX Confederate Infantry (506),1995,42,49
+182,IMEX Civil War Accessories (507),,,
+183,IMEX Alamo Defenders (aka Texas Infantry) (509),1997,48,50
+184,IMEX Mexican Infantry (510),2002,30,46
+185,IMEX George Washington's Army (511),2000,41,46
+186,IMEX British Redcoats (512),2000,49,49
+187,IMEX Mexican Cavalry At The Alamo (515),2002,29,15
+188,IMEX Battlefield Accessories (519),,,
+189,IMEX Mexican Artillery At The Alamo (520),2002,31,37
+190,Italeri Scots Greys (6001),1995,45,18
+191,Italeri French Infantry (6002),1995,40,50
+192,Italeri Carabiniers (6003),1996,46,17
+193,Italeri Highlander Infantry (6004),1996,44,50
+194,Italeri Russian Grenadiers (6006),1997,44,50
+195,Italeri French Hussars (6008),1996,46,17
+196,Italeri The Knights (6009),1998,46,34
+197,Italeri Saracen Warriors (6010),1998,43,23
+198,Italeri Confederate Cavalry (6011),1998,48,17
+199,Italeri Confederate Infantry (6014),1998,47,51
+200,Italeri French Imperial General Staff (6016),1999,47,21
+201,Italeri Napoleonic Wars Accessories (6017),2000,43,9
+202,Italeri French Line/Guard Artillery (6018),2000,43,11
+203,Italeri Teutonic Knights (6019),1999,45,17
+204,Italeri Mongols (6020),1999,42,17
+205,Italeri Roman Infantry (6021),2000,38,35
+206,Italeri Gaul Warriors (6022),2000,40,40
+207,Italeri Russian Knights (6023),2000,,42
+208,Italeri Greek Infantry (6024),,,45
+209,Italeri Roman Cavalry (6028),2001,37,17
+210,Italeri Union Artillery Set (6032),2002,42,16
+211,Italeri German Infantry (6033),1982,,50
+212,Italeri Macedonian Cavalry (6035),,,17
+213,Italeri Union Artillery (6038),2002,42,13
+214,Italeri Dutch-Polish Lancers (6039),,,
+215,Italeri British Light Dragoons (6040),,,
+216,Italeri British Artillery (6041),1986,,16
+217,Italeri Cossack Cavalry (6042),,,
+218,Italeri German Paratroopers (6045),1989,,50
+219,Italeri American Infantry (6046),1982,,50
+220,Italeri Roman Infantry (6047),2002,,35
+221,Italeri Barbarian Warriors (6048),,,
+222,Lucky Toys Attila and Black Huns (TL0001),2003,38,12
+223,LW Wellington's Generals (0),,34,20
+224,LW Inquisition (2),2002,40,6
+225,LW Vinea (22),2004,,5
+226,LW Parthian Cataphracts 1 (24),,17,7
+227,LW Parthian Cataphracts 2 (25),,17,7
+228,LW Cavalry of Imperial Rome (29),,10,4
+229,LW Pirates (31),,38,15
+230,LW Celtic Warriors (33),,9,4
+231,LW Napoleonic War Engineers (36),,37,16
+232,LW Bactrian Cavalry (38),2002,27,5
+233,LW Medieval Mortar (39),,29,3
+234,LW Russian Artillery Crew (40),,,16
+235,LW Scythians (45),2002,27,5
+236,LW Onager (50),2002,,5
+237,Matchbox British Infantry (P5001),1976,42,49
+238,Matchbox German Infantry (P5003),1976,44,49
+239,Matchbox British 8th Army (P5005),1977,46,44
+240,Matchbox Japanese Infantry (P5007),,49,45
+241,Matchbox ANZAC Infantry (P5008),1980,49,42
+242,Matchbox NATO Paratroopers (P5009),1983,44,42
+243,MiniArt Burgundian Knights and Archers (72001),2002,40,48
+262,Nexus Egyptian Infantry (ATL01),,,62
+263,Nexus The Egyptian Cavalry (ATL02),,,
+264,Nexus US 7th Cavalry (ATL03),,,24
+265,Nexus Greek Infantry (ATL05),1977,,
+266,Nexus Russian Revolution (ATL09),,,27
+267,Nexus Russian WW2 Infantry (ATL10),,,48
+268,Nexus Kit Carson (ATL11),,,33
+269,Nexus Ancient Life (ATL14),,,42
+270,Nexus Cowboys (ATL16),,,16
+271,Nexus Gold Rush (ATL18),,,36
+277,Odemars Wellington's Generals (0),,,20
+278,Odemars Samurai (PF01),,35,32
+279,Odemars Persians (PF02),,17,21
+280,Odemars Leaders (PF03),,37,20
+281,Odemars German 7.5 cm PaK 40 Gun (104),,,
+282,Odemars Roman Republic Infantry (PF06),,28,36
+283,Orion English Pirates (72001),2001,46,44
+284,Orion Chechen Rebels (72002),2001,45,48
+285,Orion Modern Russian Federals (72003),2001,45,46
+286,Orion Vikings (72004),2002,46,46
+287,Orion Gladiators (72005),2002,41,38
+288,Orion Roman Sailors (72006),2003,44,42
+289,Revell German Paratroopers (02500),1989,38,44
+290,Revell German Infantry (02502),1990,47,48
+291,Revell Japanese Infantry (02507),1993,47,50
+292,Revell Soviet Infantry (02510),1994,44,48
+293,Revell German Armoured Infantry (02511),1994,43,50
+294,"Revell Scottish Infantry, 8th Army (02512)",1994,46,50
+295,Revell Siberian Riflemen (02516),1995,48,41
+296,Revell British Infantry (02519),1998,42,48
+297,Revell British Infantry (02523),2002,47,48
+298,Revell German Commando Special Forces (KSK) (02524),2002,45,46
+299,Revell Normans (02550),1989,47,42
+300,Revell Anglo-Saxons (02551),1989,45,42
+301,Revell Celts (Gauls) (02553),1989,45,50
+302,Revell Cowboys (02554),1990,42,50
+303,Revell Imperial Infantry (02556),1990,49,47
+304,Revell Swedish Infantry (02557),1990,49,47
+305,Revell Union Infantry (02559),1991,,50
+306,Revell British Infantry (02560),,,50
+307,Revell American Militia (02561),,,50
+308,Revell Confederate Pioneers (02564),,,31
+309,Revell Union Artillery (02565),,,18
+310,Revell Imperial Artillery (02566),1991,46,28
+311,Revell Swedish Cavalry (02567),1991,49,15
+312,Revell French Grenadier Guards (02570),1992,48,48
+313,Revell British Infantry (02571),1992,44,48
+314,Revell Prussian Infantry (02572),1992,32,48
+315,Revell Prussian Hussars (02575),1993,49,17
+316,Revell French Mounted Guard Chasseurs (02576),1993,49,18
+317,Revell British Life Guards (02578),1994,46,17
+318,Revell British Rifles (02581),1996,47,42
+319,Strelets The French Army's Camp (001),2001,34,31
+320,Strelets Polish Infantry & French Engineers (003),2002,40,48
+321,Strelets Vikings Against Franks (004),2002,37,45
+322,Strelets Army of Joan d'Arc (005),2003,38,36
+323,Strelets Carolingian Cavalry (008),2003,35,12
+324,Waterloo 1815 Italian Infantry (at El Alamein) (006),2002,42,36
+325,Waterloo 1815 Polish Infantry 1812/14 (008),2002,44,36
+326,Waterloo 1815 Dutch Belgian Artillery 1815 (009),2002,37,20
+327,Waterloo 1815 Greek Infantry (P002),1977,,
+328,Waterloo 1815 Custer (P003),,,68
+329,Waterloo 1815 US Cavalry (P004),,,32
+330,Waterloo 1815 Confederate Cavalry (P005),1999,19,32
+331,Zvezda Russian Knights (8001),2000,39,42
+332,Zvezda Christian Knights (8002),,,
+333,Zvezda Mongols (8003),,39,22
+334,Zvezda Teutonic Knights (8004),1999,,17
+335,Zvezda Greek Infantry (8005),,49,45
+336,Zvezda Macedonian Cavalry (8007),,43,17
+337,Zvezda Saracens (8009),,,
+338,Zvezda Roman Infantry (8013),2000,,35
+339,Zvezda Siege Machines Kit 2 (8015),,,
+340,Zvezda Napoleonic Guards Cossacks (8018),2002,43,15
+341,Zvezda Macedonian Phalanx (8019),2002,37,37
+342,Revell Australian Infantry (02501),1989,43,49
+343,IMEX Sioux Indians (508),1996,43,28
+344,Emhar British WWI Artillery (7202),2000,36,24
+345,Italeri Battlefield Accessories (6049),,,
+346,Eagle Games American Civil War (01),2002,,74
+347,Eagle Games Age of Imperialism (02),2002,,74
+348,Eagle Games Horses (03),2002,,
+349,Zvezda War Elephants (8011),2003,46,7
+350,Revell US Infantry (02503),1990,45,47
+351,Atlantic US Marine Corps (82),1975,29,
+352,Matchbox American Infantry (P5002),1976,43,49
+353,Revell US Marines (02506),1993,47,50
+354,Airfix U.S. Marines (01716),1975,41,44
+355,Airfix US Marines (1716),1963,24,44
+356,Zvezda Siege Machines Kit 1 (8014),,,
+357,Esci British Infantry Soldiers (212),1984,45,50
+358,Atlantic Infantry (104),1974,10,
+359,Atlantic Infantry with Jeep (105),1974,16,
+360,Revell Africa Corps (02513),1994,43,50
+361,Esci Afrika Corps Soldiers (206),1983,44,50
+362,Airfix Afrika Korps (1711),1962,28,46
+363,Airfix Afrika Korps (01711),1973,48,48
+364,Heller US Marines (79616),1963,,44
+365,Odemars Roman Siege Troops (PF04),2003,22,24
+366,Airfix Civilians (01706),1961,31,47
+367,Heller WW2 Afrika Korps (79611),1962,,46
+368,HaT Napoleonic French Line Horse Artillery (8039),2001,41,24
+369,Atlantic German Afrikakorps (88),1977,35,
+370,Matchbox Afrika Corps (P5004),1977,42,50
+371,IMEX Union Cavalry (503),1994,42,28
+372,Italeri Union Cavalry (6013),1998,48,17
+373,LW Macedonian Artillery (37),,17,3
+374,LW Ancient Artillery Part 1 (26),,,
+375,LW Ancient Artillery Part 3 - Scorpion (42),,20,6
+376,Revell French Knights (02563),,,
+377,Nexus G.A.Custer (ATL07),,,68
+378,Italeri French Knights and Foot Soldiers (6026),2001,44,28
+379,HaT Union Zouaves (8004),1997,37,48
+380,LW Soviet Pilots (23),,41,24
+381,HaT Waterloo British Line Infantry (7009),1972,,43
+382,Atlantic Alpini (111),1971,21,
+383,Zvezda Persian Infantry (8006),,49,42
+384,Italeri Persian Infantry (6025),,,42
+385,Airfix Commandos (01732),1968,30,36
+386,Airfix Commandos (1732),1977,40,32
+387,Atlantic Apache's Camp (1006),1975,18,
+388,Nexus Apache Camp (ATL15),,,21
+389,HaT French Line Chasseurs (8029),1999,39,12
+390,Heller British Commandos (79632),1968,,36
+391,HYTTY Napoleonic Polish Infantry (2001),,31,44
+392,Atlantic Sioux Camp (1012),1976,28,
+393,Atlantic French Infantry (87),1975,,
+394,Atlantic Divers (110),1972,30,
+395,Airfix WWI German Infantry (01726),1966,41,45
+396,HaT WW1 German Infantry (7001),,,
+397,HaT Hannibal's Carthaginians - African Infantry (8020),1999,37,48
+398,HaT Hannibal's Carthaginians - Spanish Infantry (8019),1999,35,48
+399,HaT Carthaginian Command and Cavalry (8056),2001,44,36
+400,Esci Warsaw Pact Troops (242),1989,46,48
+401,Atlantic Anti-Air Missiles (121),1974,17,
+402,Airfix Confederate Infantry (01713),1962,27,48
+403,Accurate Confederate Infantry (7203),1991,48,50
+404,Esci Confederate Infantry (223),1985,44,50
+405,IMEX Lewis and Clark (523),2003,48,18
+406,Strelets English Cavalry of Edward I (014),2003,37,12
+407,Esci Zulu Warriors (213),1984,37,48
+408,Italeri Zulu Warriors (6051),1984,,48
+409,Italeri British Infantry (6050),,,
+410,Strelets The Scottish Army of Wallace (007),2003,38,36
+411,Strelets Army of Henry V (006),2003,38,36
+412,Italeri English Knights and Archers (6027),2001,41,26
+413,Airfix Sheriff of Nottingham (01721),1964,28,24
+414,HaT Sheriff of Nottingham (7014),1964,,24
+415,Revell British Paratroopers (02509),1992,45,50
+416,Esci British Paratroopers (208),1983,42,50
+417,Revell English Foot Soldiers (02562),,,
+418,Airfix British Paratroops (01723),1965,27,33
+419,Airfix Waterloo French Imperial Guard (01749),1975,44,48
+420,Esci French Imperial Guard (214),1984,40,50
+421,Revell Soviet Cossacks (02514),1995,40,17
+422,Airfix Astronauts (01741),1971,25,15
+423,Matchbox British Commandos (P5006),1978,42,46
+424,Airfix Zoo Animals No. 1 (01724),1966,,2
+425,Dark Dream Studio Landsknechts (72002),2003,41,30
+430,Airfix Station Accessories (01742),1958,31,24
+431,Airfix NATO Infantry (01759),1982,30,48
+433,Esci British Commandos (210),1983,39,50
+434,HaT WWI Turkish Infantry (8070),2003,42,48
+435,HaT WWI ANZAC Infantry (8071),2003,44,48
+436,Heller WW2 British Parachutists (79623),1965,,33
+437,HaT 1805 Russian Line Infantry (8072),2003,41,48
+438,HaT 1805 Russian Light Infantry (8073),2003,42,48
+439,Atlantic Davy Crockett (1005),1975,25,
+440,Revell French Infantry (02505),1991,40,44
+441,Nexus Panzer Grenadiers (ATL19),1975,,
+442,Airfix Waterloo French Artillery (01737),1971,30,25
+443,Revell German Artillery (02515),1995,49,15
+444,Nexus Davy Crockett (ATL08),,,30
+445,Italeri Russian Artillery (6053),,,
+446,Italeri British and Scots Infantry (6058),,,
+447,Italeri Italian Mountain Troops (6059),,,
+448,Zvezda Samurai Army - Infantry (8017),2003,48,44
+449,Italeri British Paratroopers (6034),1983,,50
+450,Italeri Prussian Cuirassiers (6007),1996,43,17
+451,HaT Prussian Uhlans (8005),1996,36,12
+452,HaT Prussian Dragoons (8002),1996,33,12
+453,Accurate Waterloo French Artillery (7213),1971,,25
+454,Atlantic U.S. Camp (1007),1975,17,
+455,Airfix US Paratroops (01751),1975,37,48
+456,Heller US Paratroopers (79651),,,
+457,Esci U.S. Paratroopers (209),1983,44,48
+458,Revell U.S. Paratroopers (02517),1995,42,44
+459,Esci French Foreign Legion (237),1987,44,50
+460,Airfix Foreign Legion (01710),,39,44
+461,Airfix Foreign Legion (1710),1961,27,44
+462,HaT Foreign Legion (7012),,,44
+463,Atlantic Indian Brigade (86),1977,24,
+464,IMEX Chuck Wagon and Prairie Schooner (513),1997,,2
+465,Zvezda Livonian Knights (8016),,42,33
+466,Airfix WWII Luftwaffe Personnel (01755),1977,48,48
+467,Revell German Crisis Reaction Forces (KRK) (02522),2002,44,50
+468,Orion Polish Winged Hussars (72007),2003,50,12
+469,HYTTY Macedonian Infantry (2002),,17,11
+470,Airfix Civil War Artillery (01714),1962,18,15
+471,Atlantic Italian Carabinieri Band (9005),1971,19,
+472,Airfix Zoo Animals No. 2 (01725),1966,,
+473,A Call To Arms Parliament Infantry (63),2003,40,32
+474,Atlantic At The Pharaoh's Court (1501),1976,41,
+475,HaT British Heavy Dragoons (8033),2000,41,12
+476,Atlantic Medical Personnel (112),1975,37,
+477,IMEX Munitions Wagon and Ambulance Wagon (514),1997,,4
+482,Heller Luftwaffe Personnel (79655),,,
+484,Airfix Farm Stock (01704),1960,,
+490,IMEX American Pioneers (516),2003,49,34
+491,Atlantic The Trojan Army (1511),1977,,
+492,Strelets Russian and Prussian Chiefs of Staff (002),2003,44,44
+493,Strelets French Foot Dragoons and Polish Grenadiers (009),2003,41,48
+494,HaT Waterloo Dutch Infantry (8025),2000,39,48
+495,Revell US Infantry (02520),1999,47,48
+496,Italeri Celtic Cavalry (6029),2001,34,17
+497,HaT Celtic Cavalry (8022),1999,38,12
+498,Airfix WWI American Infantry (01729),1967,34,48
+499,Revell Austrian Infantry (02574),1993,40,47
+500,HaT WW1 U.S. Infantry (7004),,,
+501,Esci Commonwealth Infantry (231),1986,46,50
+502,Atlantic Greek Cavalry (1510),1977,22,
+503,Nexus Greek Cavalry (ATL06),1977,,
+504,Waterloo 1815 Greek Cavalry (P001),1977,,
+505,HaT French Dragoons (8009),1998,31,12
+506,Italeri French Dragoons (6015),1998,47,17
+507,Airfix WWII Gurkhas (01754),1976,40,48
+508,HaT WW2 Gurkhas (7017),1976,,48
+509,Revell Indians (02555),1990,43,49
+510,Esci Russian Grenadiers (236),1987,44,50
+511,Waterloo 1815 Folgore Division Infantry (002),2003,42,44
+512,Waterloo 1815 Folgore Division Light Artillery (004),2003,42,21
+513,LW German Cavalry 1914 (53),2003,32,6
+514,HaT Persian Heavy Cavalry (8050),2003,42,12
+515,HaT Persian Light Cavalry (8077),2003,41,12
+516,Zvezda Persian Chariot and Cavalry (8008),,45,8
+517,Italeri Persian Cavalry with Chariot (6036),,,8
+518,LW Medieval Knights (12),2003,,5
+519,HaT Spanish Cavalry (8055),2003,44,12
+520,Odemars German Commanders (PF05),2003,47,42
+521,HaT Italian Ally Cavalry (8054),2003,41,12
+522,Atlantic Heavy Artillery (107),1974,21,
+523,Italeri French Foreign Legion (6054),1987,,50
+524,Esci Modern U.S. Soldiers (239),1987,44,50
+525,Atlantic Mao - Chinese Revolution (9010),1972,23,
+526,Airfix German Mountain Troops (01752),1977,43,37
+527,Revell British Foot Artillery (02577),1993,43,19
+528,Atlantic Fliers (103),1973,32,
+529,LW Ancient Artillery Part 2 (27),,16,1
+530,Airfix Guards Band (01701),1960,34,44
+531,Atlantic Ambulance (113),1975,14,
+532,HaT British Rocket Troops (8003),2001,43,24
+533,Atlantic Air Force (102),1971,11,
+534,HaT Austrian Line Infantry (8027),2001,40,48
+536,Esci Battlefield Accessories (216),,,
+537,Atlantic Outlaws and Sheriffs (1014),1977,37,
+538,Revell Praetorians (02552),1989,,50
+539,Dark Dream Studio Pilots of the First World War (72003),2003,48,48
+540,Italeri British Hussars (6052),,,
+541,Italeri Union Infantry (6012),1995,45,50
+542,Airfix WWI British Infantry (01727),1966,38,44
+543,Airfix Waterloo British Cavalry (Hussars) (01743),1972,37,12
+544,Accurate Waterloo British Cavalry (7210),1972,,12
+545,HaT Imperial Roman Command (8075),2003,41,44
+546,HaT Imperial Roman Auxiliaries (8074),2003,35,48
+547,Italeri Battlefield Accessory Set (6030),,,
+548,Zvezda Russian Foot Artillery (8022),2003,48,22
+549,Italeri French Infantry (6043),2003,37,49
+550,Zvezda Russian Heavy Infantry Grenadiers (8020),2003,48,46
+551,HaT WW1 British Infantry (7002),,,
+552,Italeri Austrian Grenadiers and Infantry (6005),1996,40,48
+553,Zvezda Gauls (8012),2000,,40
+554,Italeri Austrian and Russian Allied General Staff (6037),2003,33,39
+555,Revell German Engineers (02508),1992,42,40
+556,Atlantic Buffalo Hunt (1001),1975,16,
+557,Nexus Buffalo Hunt (ATL17),,,20
+558,Esci Colonial India British Infantry (232),1986,43,50
+559,LW Soviet 45mm Anti-Tank Gun 1932 (21),,31,3
+560,Revell Confederate Infantry (02558),1991,,50
+561,Airfix NATO Ground Crew (01758),1981,43,48
+562,Strelets Swedish Infantry of Charles XII (021),2004,42,44
+563,MiniArt French Knights with Assault Ladders (72002),2003,38,32
+564,HaT Nubian Infantry (8079),2004,30,48
+565,HaT Sea Peoples (8078),2004,32,48
+566,Strelets Russian Uhlans (015),2004,43,12
+567,MiniArt French Foot Soldiers with Rams (72003),2003,35,22
+568,Strelets Russian Dragoons of Peter I (010),2004,37,16
+569,Atlantic Roman Legion (1515),1978,18,
+570,HaT French Line Fusiliers (8041),2001,41,48
+571,Revell German Paratroops (02521),2000,46,39
+572,LW Russian 122mm Howitzer M30 (41),,,
+573,HaT War Elephants (8023),1999,41,18
+574,Orion Boxer Rebellion (72009),2004,49,42
+575,Airfix Waterloo Highland Infantry (01735),1969,30,1
+576,Esci Muslim Warriors (238),1987,41,50
+577,Revell German Infantry (02504),1990,46,48
+578,Atlantic Geronimo - Apache (1003),1975,22,
+579,Italeri Arab Warriors (6055),1987,,50
+580,Nexus Geronimo's Apaches (ATL04),,,15
+581,Emhar Viking Warriors (7205),2004,45,50
+583,IMEX Vikings (7214),,,
+584,Airfix Modern Russians (01760),1982,34,48
+585,HaT Numidian Cavalry (8024),1999,39,12
+586,Revell Austrian Artillery (02579),1994,48,24
+587,Atlantic Roman Cavalry (1516),1978,14,
+588,Zvezda French Infantry (8021),1995,,50
+589,Zvezda French Guard Horse Artillery (8023),2000,,11
+590,Zvezda French Carabiniers (8033),,,
+591,Italeri British and Prussian Allied General Staff (6065),2004,30,18
+592,HaT Russian Dragoons (8012),1998,33,12
+593,Airfix Waterloo British Artillery (01746),1972,34,14
+595,Italeri British Infantry (6056),1982,,50
+596,HaT Waterloo Lutzow Freikorps & Nassau Grenadiers (8097),2004,38,48
+597,HaT Dacians (8069),2004,40,48
+598,HaT Ancient Germans (8068),2004,27,48
+599,Waterloo 1815 WWII Italian Infantry (007),1980,,48
+600,A Call To Arms British Foot Artillery (64),2004,40,16
+601,HaT Waterloo Netherlands Militia and Belgian Infantry (8096),2004,39,48
+602,IMEX Southwestern Alamo Accessories (533),,,
+603,Esci NATO Pilots and Ground Crew (243),1989,43,48
+604,Atlantic Buffalo Bill (1002),1975,20,
+605,Nexus Buffalo Bill (ATL12),1975,,
+606,IMEX Eastern Friendly Indians (522),2004,45,30
+607,Revell German Armoured Infantry (02518),1997,44,45
+608,HaT Austrian Chevauxleger (8031),2000,38,12
+609,Pegasus German Waffen SS (7201),2004,48,46
+610,Airfix Romans (01730),1967,24,28
+611,HaT Romans (7010),1967,,28
+612,Atlantic The March on Rome - Mussolini and the Black Shirts (9007),1972,31,
+615,Revell Prussian Infantry (02580),1996,45,42
+616,Italeri Russian Infantry (6057),,,
+617,HaT Italian Allies (8040),2001,39,48
+618,Italeri French Artillery Set (6031),2001,,11
+619,Atlantic Sioux - Sitting Bull (1009),1975,24,
+620,Orion Red 1st Cavalry (72011),2004,46,12
+621,Airfix Royal Horse Artillery (01731),1968,29,14
+622,Revell Austrian Dragoons (02573),1992,45,15
+623,Atlantic Military Hospital (114),1975,,
+624,HaT French Young Guard (8034),2000,38,48
+625,BUM La Legion (5000),2004,44,36
+626,Strelets Russian Medieval Horsemen (017),2004,41,12
+627,Strelets Russian Mounted Jägers (018),2004,40,12
+628,Strelets Anglo-Saxons (016),2004,36,43
+629,Strelets Norman Cavalry (012),2004,37,12
+630,HaT WW1 Royal Horse Artillery (7005),,,
+631,HaT Carthaginian Allies (8058),2001,35,48
+632,HaT French Light Infantry (8042),2001,44,48
+633,Atlantic Stampede (1013),1977,23,
+634,Nexus Stampede (ATL13),,,16
+635,Atlantic Hitler - Brown Shirts - SS (9008),1972,26,
+637,Zvezda French Dragoons (8024),1998,,17
+638,Matchbox German Infantry (40190),1990,,48
+639,Matchbox US Infantry (40191),1990,,47
+640,Matchbox German Pioneers (40192),1992,,40
+641,Matchbox British Paratroopers (40193),1992,,50
+642,Revell Conquistadors (02568),1991,41,44
+643,Revell Aztecs (02569),1991,46,48
+644,HaT British Marines and Sailors (8098),2004,40,80
+645,HaT 1806 Prussian Musketeers (8083),2004,41,48
+646,HaT 1806 Prussian Fusiliers (8084),2004,42,48
+647,Almark British Infantry (WD1),1972,31,12
+648,Almark British Infantry Weapons (WD2),1972,29,8
+649,Waterloo 1815 X Mas (010),2004,45,44
+650,LW Russo-Balt 1914 (52),2004,,
+651,Evolution Russo-Balt 1914 (EVC002),2004,,
+652,Odemars Oscan Infantry (PF10),2004,36,42
+653,Evolution Polish Infantry 1809-14 (EVF001),,,44
+654,Evolution Macedonian Cavalry (EVF002),,,11
+655,Evolution Napoleonic French Military Band (EVF024),,,44
+656,Evolution Napoleonic Polish Infantry (EVF027),,,44
+657,Evolution Carthaginian Mercenaries (EVF029),2004,30,16
+658,Evolution Bactrian Cavalry (EVF003),2002,,5
+659,Evolution Scythian Cavalry (EVF004),2002,,5
+660,Evolution Macedonian Artillery (EVF005),,,3
+661,Evolution Parthian Cataphracts with M Crassus (EVF006),,,7
+662,Evolution Parthian Cataphracts with Roman Prisoners (EVF007),,,7
+663,Evolution Gastraphet (EVF008),,,
+664,Evolution Ballista (EVF009),,,1
+665,Evolution Onager and Crew (EVF010),2002,,5
+666,Evolution Vinea (EVF012),2004,19,5
+667,Evolution Inquisition (EVF013),2002,,6
+668,Evolution Medieval Knights (EVF014),2003,,5
+669,Evolution Medieval Mortar and Crew (EVF015),,,3
+670,Evolution Pirates (EVF016),,,15
+671,Evolution Napoleonic War French Engineers (EVF017),,,16
+672,Evolution Wellington's Generals (EVF018),,,20
+673,Evolution Russian M30 Howitzer (EVF019),,,
+674,Evolution Russian Anti-tank Gun (EVF020),,,3
+675,Evolution Russian Artillery Crew (EVF021),,,16
+676,Evolution Russian Pilots and Ground Crew (EVF022),,,24
+677,Evolution War Elephant (EVF023),,,1
+678,Evolution Celtic Warriors (EVF028),,,4
+679,Evolution World War I German Cavalry (EVF030),2003,,6
+680,Evolution Cavalry of Imperial Rome (EVF034),,,4
+681,Hasegawa WWII Pilot Figure Set (35008),1998,33,12
+682,Italeri US Paratroopers (6063),,,
+683,Armourfast WWII German Mortar Team (99006),2004,46,20
+684,Armourfast WWII German Machine Gun Team (99007),2004,45,24
+685,Zvezda Samurai Warriors - Cavalry (8025),2004,46,17
+686,IMEX Stagecoach (517),2004,45,8
+687,Evolution Russian Tank Crew (EVF031),2004,38,14
+688,Orion Turkish Janissaries (72010),2004,46,48
+689,LW Russian Tank Crew (20),2004,,14
+690,Evolution German Horse Wagon (EVF025),2004,,
+691,LW German Horse Wagon (15),2004,,
+692,IMEX Conestoga Wagon (518),2004,,2
+693,Accurate Waterloo British Artillery (7211),1972,,14
+694,LW Carthaginian Mercenaries (47),2004,,16
+695,Strelets Russian Line Infantry (025),2004,39,44
+696,LW Cossack Artillery (2012),2004,,20
+697,Strelets British Heavy Dragoons (023),2004,43,12
+698,Strelets French Light Infantry (024),2004,40,44
+699,Strelets Russian Terek Cossacks (026),2004,42,12
+701,LW War Elephant (32),,12,1
+702,First To Fight Polish Infantry Support Weapons (PL1939-027),2015,41,15
+703,Italeri British Commandos (6064),1983,,50
+704,Hasegawa U.S. Infantry Combat Team (31129),1991,39,24
+705,Zvezda Republican Roman Infantry (8034),2004,45,40
+706,HaT Napoleonic Swedish Infantry (8091),2004,38,100
+709,LW Samurai Warriors (2011),2004,34,30
+710,Revell WWII German Paratroops (02532),,,
+711,Ykreol Chiefs of War (YK23),,,20
+712,Lucky Toys Austrian Uhlans (TL0005),2004,32,16
+713,Italeri British Light Cavalry (6044),2004,42,17
+714,Evolution Cossack Artillery (EVF040),2004,,20
+715,Lucky Toys Custer - The Last Hunt (TL0003),2004,23,36
+716,"Lucky Toys Cheyennes, People of the Big Grasslands (TL0004)",2004,26,24
+717,Italeri NATO Pilots and Ground Crews (1246),1989,,48
+718,Lucky Toys Late Empire Romans (TL0002),2004,27,40
+719,Italeri Gladiators (6062),2004,41,14
+720,Esci Japanese Imperial Guard (8061),,36,17
+721,Odemars French Revolution (PF09),2004,42,10
+722,Esci Eighth Army (8019),,41,19
+723,Caesar SAS (H001),2004,49,42
+725,Caesar German Infantry (H002),2004,46,42
+726,BUM Pz.KpfW-1a (5002),2004,,3
+728,Caesar Japanese Samurai with Ninja (H003),2004,43,39
+729,Strelets Saxon Garde du Corps (022),2004,41,12
+730,HaT WWI Russian Infantry Heavy Weapons Set (8080),2004,43,80
+731,BUM Pilots and Ground Crew (5012),2004,,12
+732,Strelets British Highlanders (029),2004,45,42
+733,HaT WWI Austrian Infantry Heavy Weapons Set (8081),2004,41,52
+734,Strelets Russian Cossack Infantry and Sailors (027),2004,43,46
+735,Revell French Hussars (02586),1996,,17
+736,Revell French Dragoons (02587),1998,,17
+737,BUM Italian CTV (5003),2004,,26
+738,Zvezda Russian Cuirassiers (8026),2004,48,16
+739,Strelets Russian Hussars (019),2004,43,12
+740,BUM T-26 B (5006),2004,,4
+741,Esci German Anti-Tank Gun (8020),,,8
+742,Preiser Modern US Infantry (72500),,39,16
+743,HaT Imperial Roman Auxiliary Cavalry (8066),2005,39,12
+744,HaT Imperial Roman Praetorian Cavalry (8067),2005,39,12
+745,HaT Late Roman Cataphracts (8086),2005,44,12
+746,Waterloo 1815 Dervish Infantry (011),2005,41,36
+747,HaT Gothic Cavalry (8085),2005,43,12
+748,LW Imperial Rome Legionary Artillery (7),2004,15,7
+749,LW Medieval Russian Warriors (13),2004,28,8
+750,Evolution Medieval Russian Warriors (EVF033),2004,,8
+751,Orion Medieval Siege Engines Part 1 (72015),2004,,
+752,Orion Medieval Siege Engines Part 2 (72016),2004,,
+753,Evolution Roman Legionary Artillery (EVF032),2004,,7
+754,Esci 'Red Devils' British Paratroopers (8034),,37,13
+756,Hasegawa German Infantry Attack Group (31130),1991,35,24
+757,Preiser German Tank Crew 1939-45 (72515),1998,50,20
+758,Revell French Horse Guard Artillery (02588),2000,,11
+759,Revell Prussian Cuirassiers (02589),1996,,17
+760,Hasegawa US Pilot/Ground Crew Set (35007),1985,46,16
+761,Hasegawa Check Point (31131),,,
+763,Esci Red Guards (8017),,38,26
+764,Strelets Crimean Russian Hussars (034),2005,44,12
+765,Strelets Napoleon's General Staff (013),2005,42,36
+766,Strelets Scots Greys (030),2005,45,12
+767,HaT 1808-1812 French Line Infantry (8095),2005,46,100
+768,Armourfast WWII German BMW with Sidecar (99010),2005,44,15
+769,HaT Russian Militia (8099),2005,37,100
+771,Strelets Russian Naval Artillery (032),2005,45,25
+773,Linear-B Roman Port - 2 (075),2014,45,60
+776,Armourfast WWII German Zundapp Motorcycle (99011),2005,45,21
+777,Preiser Horse Drawn Light Field Howitzer (16513),,50,8
+778,A Call To Arms British Infantry 1775 (65),2005,38,32
+780,Preiser Modern US Infantry (16529),,,16
+781,Strelets Zouaves (033),2005,37,44
+782,Preiser Soviet Infantry and Partisans 1942/43 (72522),2003,42,12
+783,Preiser Soviet Infantry and Partisans 1942/43 (16530),2003,,12
+784,BUM Republican Army (5001),2005,43,36
+785,Esci US Soldiers (8016),,39,22
+786,"Preiser German Paratroopers, Pilots and Ground Crew (16503)",,,40
+787,"Preiser German Paratroopers, Pilots and Ground Crew (72516)",,39,40
+788,Preiser Home Leave (16542),2002,,6
+789,Preiser Home Leave (72521),2002,42,6
+791,Esci Iwo-Jima Marines Landing (8062),1977,39,6
+792,Revell WWII German Navy (02525),2005,46,51
+793,"Preiser Pilots, Ground Crew and Passengers 1925 (72510)",,42,36
+794,Waterloo 1815 Anglo-Egyptian Army (013),2005,41,48
+795,Zvezda French Knights (8036),2005,40,19
+796,Caesar Ch'in Dynasty Army (H004),2005,44,42
+797,Caesar German Infantry with Winter Gear (H005),2005,45,42
+798,Caesar WWII Underground Resisters (Partisans) (H006),2005,44,42
+801,Preiser WWII German Infantry Advancing (72504),1998,44,12
+802,Preiser WWII German Infantry Advancing (16519),,,
+803,Odemars Wellington's Staff (PF14),2005,29,42
+804,Odemars Portuguese Infantry (CF02),2005,26,42
+805,IMEX Pilgrims (521),2005,49,43
+806,IMEX Korean War US Army (529),2005,43,51
+807,IMEX Chinese People's Liberation Army (531),2005,47,50
+808,IMEX Republic of Korea Troops (530),2005,46,50
+809,Dark Dream Studio Landsknechts (Pikemen) (72004),2005,35,24
+810,IMEX North Korean KPA (532),2005,45,53
+811,Italeri Russian Infantry (6073),,,
+813,Strelets British Lancers (036),2005,45,12
+814,Strelets British Light Dragoons (040),2005,47,12
+815,Pegasus California Mission Indians (7051),2005,50,28
+816,Strelets Guard of Peter I (031),2005,42,36
+817,HaT WWI German Artillery (8109),2005,44,48
+818,Italeri French Grenadiers (6072),1984,,50
+819,Pegasus Waffen SS - Set 2 (7202),2005,47,43
+820,A Call To Arms Netherlands Infantry 1815 (66),2005,32,32
+821,HaT Late Roman Heavy Infantry (8087),2005,40,40
+822,Pegasus Germans in Berlin 1945 (7228),2005,47,39
+823,HaT Renault FT-17 with 37mm Cannon (8113),2005,,
+824,HaT Renault FT-17 with Hotchkiss Machine Gun (8114),2005,,
+825,Strelets Reitars of Charles XII (035),2005,35,12
+826,Strelets Russian Grenadiers (039),2005,37,42
+827,HaT WWII Polish Infantry (8115),2005,40,96
+828,Odemars Spanish Infantry (CF01),2005,39,42
+829,HaT WWI Ottoman Artillery and Machine Guns (8094),2005,44,56
+830,Pegasus German Mortar Teams (7204),2005,49,23
+831,HaT WWI German Heavy Weapons Set (8110),2005,44,72
+832,HaT Imperial Roman Extra Heavy Legionaries (8064),2005,40,48
+833,Preiser Resting Infantry and Provost Corps Officers (16501),1997,,12
+834,Preiser Resting Infantry (72505),1997,44,12
+835,Zvezda French Imperial Old Guard (8030),2005,48,41
+836,Italeri Indian Warriors (6061),2005,44,48
+837,Italeri American Infantry (6060),2005,33,48
+839,Esci Afrika Korps (8018),,36,21
+840,Odemars Carpentum (PF08),2005,,1
+841,Fujimi British Infantry (76029),,26,10
+842,Caesar Assyrian Army (H007),2005,46,42
+843,Caesar Egyptian Army (H009),2005,48,42
+845,Emhar Saxon Warriors (7206),2005,45,50
+846,IMEX Saxons (7215),2005,,50
+847,LW Portugal Artillery (2004),2005,37,32
+849,Preiser German Soldiers Walking and Standing (16543),,48,39
+850,Hasegawa Kubelwagen / BMW Side Car (31112),1991,,3
+851,Preiser Rural Groups. Wagons (16327),,48,31
+852,Fujimi German Infantry with Gasmasks (76028),,20,10
+853,Esci Accessories (8060),,,
+854,Esci Nebelwerfer 41 (8033),1983,41,12
+855,Orion Roman Siege Troops (72008),2005,39,42
+856,LW Swiss Mercenaries (8),2005,37,14
+857,Preiser German Motorised Infantry (72503),1998,50,20
+858,Preiser German Motorised Infantry (16520),1998,,20
+859,Evolution Roman Artillery (EVF041),2004,,7
+860,Evolution Russian Medieval Knights (EVF055),2004,,8
+861,Caesar Saladin with Saracen Cavalry (H018),2005,45,12
+862,Caesar Medieval Knights (Crusaders) (H017),2005,46,12
+863,Fujimi Diorama Accessories (76073),,,
+864,Preiser German Infantry Dismounting (16528),1999,,12
+865,Preiser German Infantry Dismounting (72501),1999,47,12
+866,MiniArt Burgundian Mounted Knights (72006),2005,29,20
+867,MiniArt French Mounted Knights (72007),2005,31,20
+868,Strelets Allied Chiefs of Staff (2) (011),2005,46,35
+869,Strelets US Cavalry (1) (041),2005,42,12
+870,Strelets Artillery of Peter I (042),2005,44,24
+871,Strelets Artillery of Charles XII (043),2005,42,24
+872,Strelets Roman Auxiliaries Ranks (M124),2017,,40
+873,Strelets French Foreign Legion Artillery (290),2020,38,18
+874,Linear-A Imperial Guardsmen of Emperor Justinian I (040),2023,44,48
+875,Linear-A The Nika Revolt (041),2025,41,52
+876,Emhar Russian Artillery (7208),2005,50,27
+877,Emhar American Infantry (7209),2005,44,50
+878,Emhar Charge of the Light Brigade (7207),2005,,18
+879,Atlantic Seamen (108),1972,29,
+880,Strelets Medieval Britain (071),2005,44,124
+881,Strelets Lieb-Drabants of Charles XII (044),2005,39,12
+882,Zvezda Saxon Cuirassiers (8035),2005,44,16
+883,Waterloo 1815 Italian Carabiniers (005),2005,43,14
+884,Waterloo 1815 Italian Bersaglieri (015),2005,39,48
+885,Fujimi Japanese Infantry (76030),,21,15
+886,Italeri Prussian Infantry (6067),2005,31,48
+887,Italeri French Infantry (6066),2005,43,48
+888,Zvezda Samurai Army Headquarters (8029),2005,47,28
+889,Lucky Toys Roman Commander's Cavalry (TL0007),2005,37,7
+890,HaT WWII German Motorcycle with Sidecar (8126),2005,,15
+891,HaT WWII German Motorcycles (8127),,,
+892,Fujimi Flight Deck Crew and Carrier Tractor (35001),1988,43,11
+893,Fujimi Flight Deck Crew and Fire Engine (35002),1989,43,13
+894,Lucky Toys King Porus' Army (TL0008),2006,44,18
+896,Odemars Bosnian Infantry (PF11),2006,39,39
+897,Strelets Confederate General Staff (047),2006,44,12
+899,Strelets Napoleon's General Staff (2) (048),2006,42,12
+900,Italeri Russian Infantry (Winter Uniform) (6069),2005,43,48
+901,Strelets British Line Infantry (028),2006,37,44
+902,Italeri German Elite Troops (6068),2006,40,48
+904,Caesar Biblical Era Libyan Warriors (H022),2006,46,42
+905,HaT Assyrian Infantry (8092),2006,42,44
+906,Orion Parthian Heavy Cavalry (72021),2006,30,12
+907,Strelets Union General Staff (1) (046),2006,39,37
+908,MiniArt Italian Knights (72008),2005,38,48
+909,Caesar Hittite Warriors (H008),2006,46,42
+910,Coates & Shine WWI Serbian Infantry (8122),2006,29,48
+911,Coates & Shine WWI German Colonial Infantry (8123),2006,30,48
+912,HaT Assyrian Allied Infantry (8121),2006,38,44
+913,Mars German Don Cossacks (72113),2018,39,40
+914,Hegemony Long Range Desert Group (HG001),2018,33,24
+915,Revell German Mechanized Infantrymen (02584),,,
+916,Zvezda Republican Roman Cavalry (8038),2006,47,18
+917,Caesar Trojan Army (H019),2006,,42
+918,Caesar Mycenaean Army (H020),2006,47,42
+919,HaT WWII Romanian Infantry (8118),2006,40,96
+920,Preiser US Army Air Force Personnel (16521),1999,,12
+921,Preiser US Army Air Force Personnel (72502),1999,46,12
+922,"Preiser German Kit, 1939-45 (18357)",,,
+923,HaT WWI US Infantry (8112),2006,41,80
+924,Hasegawa Field Camp Equipment (31132),,,
+925,Esci British 25 Pdr Gun (8045),,44,6
+926,Italeri German Afrikakorps (6076),,,
+927,Italeri British 8th Army (6077),1983,,50
+928,Fujimi US Army Infantry (76027),,31,10
+930,Preiser Modern US Infantry in Action (16533),2002,,12
+931,Preiser Modern US Infantry in Action (72519),2002,46,12
+932,Preiser Soviet Infantrymen on a Tank (72525),,49,12
+933,Preiser Soviet Infantrymen on a Tank (16545),,,12
+934,Preiser Soviet Infantrymen on a Tank (16532),,,12
+935,Preiser Soviet Infantrymen on a Tank (72523),2004,45,12
+936,Pegasus U.S.M.C. in Vietnam (7401),2006,47,40
+937,Pegasus US Rangers D-Day (7351),2006,50,39
+938,Preiser Luftwaffe Pilots and Ground Crew (72508),1994,,26
+939,Preiser Luftwaffe Pilots and Ground Crew (16502),1994,,26
+940,Hegemony Northern Wei (HG002),2018,,24
+941,Strelets Pickett's Charge 1 (148),2017,43,45
+942,Waterloo 1815 Austrian Infantry 1859 (017),2006,29,40
+943,Caesar Assyrian Cavalry (H010),2006,46,12
+944,Waterloo 1815 Austrian Artillery 1859 (018),2006,24,16
+945,Preiser WWII German Air and Ground Crew (72509),,44,30
+949,Caesar Assyrian Chariot (H011),2006,43,8
+950,Fujimi German Infantry (76025),,25,10
+951,Strelets Boers (056),2006,44,44
+952,Preiser Modern German/NATO Pilots and Ground Crew (72520),,42,36
+953,Strelets British Lancers (055),2006,40,12
+955,Strelets Australian Lancers (054),2006,41,12
+956,Strelets Bengal Lancers (057),2006,43,12
+957,Strelets Mounted Boers (037),2006,35,12
+958,Italeri American Special Forces (6078),1986,,50
+959,Italeri Vietnamese Army / Vietcong (6079),1986,,50
+961,Strelets British Infantry (038),2006,38,44
+962,Fujimi Bridge and Checkpoint (36039),,,3
+963,Fujimi Field Accessories (36038),,21,6
+965,Zvezda French Foot Artillery (8028),2006,46,25
+967,Preiser German Tank Crew (16500),1998,,20
+968,Preiser German Tank Crew (72507),1996,46,20
+969,Odemars Iberian Infantry (PF13),,18,32
+971,Pobeda BTR 152V-K and Soviet Army Figures (72001),,,
+972,Pobeda BTR 152 S Command and Soviet Army Figures (72002),,,
+973,Pobeda ZIL-157 Truck and Soviet Army Figures (72003),,,
+974,Pobeda BM-24-12 Rocket and Soviet Army Figures (72004),,,
+975,Pobeda ZIL-157 Fuel Truck and Soviet Army Figures (72005),,,
+976,Pobeda BM 13-16 Katyuska and Soviet Army Figures (72006),,,
+977,Pobeda BM-13-16 ZIL-131 Soviet-Egyptian Army (72008),,,
+978,Pobeda Ural 375D Truck Egyptian-Soviet Army (72009),,,
+979,Pobeda Ural 375 A Command Egyptian-Soviet Army (72010),,,
+980,Fujimi Kubel Wagen (76054),,,9
+981,Orion Medieval Siege Troops (72019),2006,39,50
+982,HaT French Limber (8105),2006,44,9
+983,Coates & Shine Indian Cavalry (8131),2006,41,12
+984,HaT WWII German Mounted Infantry (8120),2006,35,12
+985,HaT WWII German Bicyclists (8119),2006,36,12
+986,Pobeda Russo-Balt Armoured Car (72020),,,
+987,Pobeda BMP-1 and Soviet Army Figures (72030),,,
+988,Pobeda SU-76 Soviet Tank WW2 (72040),,,
+989,Pobeda Volkswagen Lazaret (72041),,,
+990,Pobeda German Pak40 and Panther Tanks (72042),,,
+991,Pobeda RBT-5 Rocket Launcher (72043),,,
+992,Pobeda ZSU-37 Antiaircraft Tank (72044),,,
+993,Pobeda Soviet ZIS-3 Gun with Crew (72045),,,
+994,Pobeda T-26 Twin Turret with Crew (72046),,,
+995,Pobeda SPG BT-42 Finnish 1944 Vyborg Battle (72047),,,
+996,Pobeda XT-26 Russian Flamethrower (72048),,,
+997,Pobeda Die in Stalingrad (72101),,,
+998,Pobeda 1812 Brezina Cross (72100),,,
+999,Pobeda Crimean Death Artillery (72102),,,
+1000,Pobeda Sudan Death Dervishes (72103),,,
+1001,Pobeda Ancient Destroyed Catapult (72104),,,
+1002,Pobeda Cossack Artillery (72105),,,
+1003,Pobeda Siege of Sagunto (72106),,,
+1004,Pobeda Russian Pilots (72107),,,
+1005,Metch Ukrainian Medieval Army (172001),,,
+1006,Metch Sapeurs and French Camp (172002),,,
+1007,Metch Samurai Warlords (172003),,,
+1008,Metch Roman Siege Troops (172004),,,
+1009,Metch Roman Vinea (172005),,,
+1010,Metch Roman Ballista (172006),,,
+1011,Hegemony WW2 Civilians (HG003),2018,30,24
+1012,Metch Swiss Army (172008),,,
+1013,Metch TODT Operation (172101),,,
+1014,Linear-A The Etruscans Cavalry: Set 2 (022),2020,43,12
+1015,Metch Volkssturm Posen 1945 (172102),,,
+1016,Metch Kettenkrad (172103),,,
+1017,Metch Repair Truck (172104),,,
+1018,Metch SD KFZ 138/1 Grille (172106),,,
+1019,Metch SS Handchar Division (172108),,,
+1020,HaT Assyrian Cavalry (8125),2006,44,12
+1021,HaT French Ammunition Caisson (8101),2006,,6
+1022,Orion German Paratroopers (72018),2006,42,24
+1023,Zvezda Russian Strelets Infantry (8040),2006,46,46
+1024,Strelets German Dragoons (045),2006,40,12
+1025,Strelets Russian Dragoons (058),2006,43,12
+1026,Strelets Don Cossacks (059),2006,43,12
+1027,Strelets German Hussars (060),2006,41,12
+1028,Strelets German Uhlans (072),2006,44,12
+1029,Strelets Kuban\Terek Cossacks (073),2006,43,12
+1030,RedBox Picts (72001),2006,34,48
+1031,IMEX The Charge of the Light Brigade (7216),2005,,18
+1032,IMEX Russian Artillery (7217),2005,,27
+1033,IMEX American WWI Infantry (7218),2005,,50
+1034,LW Roman Assault Troops (9),2006,20,18
+1035,Evolution Roman Assault Troops Testudo (EVF035),2006,,18
+1036,MiniArt Swiss Infantry (72009),2006,41,48
+1037,IMEX American Artillery (554),2006,45,24
+1038,IMEX British Artillery (555),2006,39,24
+1039,Evolution Dacian Cavalry (EVF036),2006,22,5
+1040,Zvezda Carthaginian Infantry (8010),2006,47,42
+1041,Evolution Sarmat Cavalry (EVF037),2006,30,5
+1042,IMEX Mexican Round Hat Infantry (553),2006,48,49
+1043,Caesar Modern US Army (H030),2006,44,42
+1044,Caesar Modern Urban Resisters (H031),2006,45,42
+1045,BUM Militian Army (5004),2006,39,36
+1046,Caesar Arab Camel Riders and Bedouin (H023),2006,46,37
+1047,Evolution Bosporan Cavalry (EVF038),2006,33,5
+1048,Caesar Hittite Chariots (H012),2006,45,10
+1049,Caesar Mitannian Mariyannu Chariot (H015),2006,48,10
+1050,Atlantic Navy (109),1973,22,
+1051,RedBox Vinea and Ram (72002),2006,,
+1052,Preiser German Panzergrenadiers Advancing (16557),,,12
+1053,Preiser German Panzergrenadiers Advancing (72527),,44,12
+1054,Strelets Auxiliaries on the March (M125),2017,,40
+1055,RedBox Colonial British Army 1890 (72003),2006,32,48
+1056,RedBox Afghan Warriors (72004),2006,35,48
+1058,Preiser German Paratroopers (16508),,45,30
+1059,Revell German Africa Corps (02505(2)),1983,,50
+1060,Revell British 8th Army (02507(2)),1983,,50
+1061,Italeri British 95th Regiment (6083),2006,46,48
+1062,Italeri Mamelukes (6082),2006,48,17
+1065,Preiser Soviet Guards Infantry 1942 (16505),,47,18
+1066,Preiser German Armoured Infantry (16504),,47,16
+1067,Evolution Scorpion and Crew (EVF011),,,6
+1068,Strelets British Hussars (050),2006,43,12
+1069,MiniArt German Knights (72011),2006,40,36
+1070,Strelets German Cuirassiers (077),2006,43,12
+1071,Strelets Scottish Army of Robert Bruce (081),2006,39,24
+1073,RedBox Japanese Warrior Monks (72005),2006,40,48
+1074,Strelets Union General Staff (2) (080),2006,45,12
+1075,RedBox Ashigaru (Archers and Arquebusiers) (72006),2006,40,52
+1076,Strelets Russian Hussars (076),2006,44,12
+1077,Strelets Russian Army of Alexander Nevsky (082),2006,42,24
+1078,HaT Spanish Guerillas (8116),2006,43,96
+1081,HaT French Heavy Ambulance (8104),2006,,3
+1082,Italeri French Cuirassiers (6084),1987,,12
+1083,Zvezda Medieval Field Powder Artillery (8027),2006,48,10
+1084,Zvezda Swedish Infantry (8048),2006,39,43
+1085,HaT French Baggage Wagon (8106),2006,,3
+1086,HaT Assyrian Chariots (8124),2006,44,12
+1087,Metch Macedonian Artillery (172009),,,
+1088,Metch WWI Kaiser Army Tannenberg (172109),,,
+1089,Pobeda Warsaw Resistance (72110),,,
+1090,Strelets British Infantry on the March (141),2016,47,44
+1091,BUM FT-17 Tank Cannon (5034),,,
+1092,BUM FT-17 Tank Machinegun (5036),,,
+1093,Preiser US Tank Crew 2000 (72524),,49,16
+1094,Italeri Prussian Light Cavalry (6081),2006,32,17
+1095,Caesar Inca Warriors (H026),2006,48,42
+1096,Caesar Hebrew Warriors (H014),2006,,42
+1097,Odemars French Grenadiers (CF03),2006,38,42
+1098,Caesar Ancient Egyptian Warriors (H047),2006,49,42
+1099,Evolution Roxolan Cavalry (EVF039),2006,36,5
+1100,Caesar Egyptian Sherden the Royal Guards (H050),2006,49,43
+1101,Italeri French Light Cavalry (6080),2006,38,17
+1102,Caesar The Sea Peoples (H048),2006,49,43
+1103,Strelets Normans (M001),2006,47,48
+1104,Orion Ukrainian Foot Cossacks and Artillery (72013),2006,45,34
+1105,RedBox Ashigaru (Spearmen) (72007),2006,34,48
+1106,Caesar Maya Warriors (H027),2006,43,42
+1107,Strelets Norman Archers (M002),2006,47,48
+1108,Orion Assyrian Rams (72022),2007,,
+1109,Odemars The Nativity (CREA02),2006,47,11
+1110,Strelets Anglo-Saxons (M003),2006,45,48
+1111,Zvezda French Elite Infantry. Voltigeurs (8042),2006,45,40
+1112,Mars Pirates of the Caribbean (72009),2006,34,48
+1113,Strelets Vikings (M004),2006,45,48
+1114,Caesar Philistine Warriors (H046),2006,47,42
+1115,Zvezda Medieval Heavy Bombard (8032),2006,45,7
+1116,Strelets Don Cossacks (052),2006,42,12
+1117,Emhar French Infantry 1854-1871 (7211),2007,47,50
+1119,Strelets Russian General Staff and Hospital (051),2006,42,115
+1120,Emhar Zouaves (7212),2007,40,50
+1122,Waterloo 1815 Italian Infantry (019),2007,34,48
+1124,Strelets Don Cossacks in Summer Dress (083),2006,43,12
+1127,Revell Vietcong (02526),1986,,50
+1130,HaT WWI Canadian Infantry (8111),2007,39,84
+1131,Italeri Walls and Ruins (6087),2007,,
+1132,IMEX German Troops (528),2007,42,50
+1133,HaT Parthian Heavy Cavalry (8145),2007,43,18
+1134,HaT Parthian Light Cavalry (8144),2007,46,18
+1135,HaT 1806 Prussian Elites (8136),2007,44,48
+1136,HaT 1806 Prussian Grenadiers (8135),2007,41,48
+1138,Pegasus German Army Infantry 1939 (7499),2007,48,42
+1139,IMEX Easy Company American (527),2007,45,43
+1140,Valiant Classic German Infantry 1944/45 (VM002),2007,43,68
+1141,Valiant British Tommies 1944/45 (VM001),2007,42,68
+1143,HaT Württemberg Infantry (8093),2007,45,100
+1144,Italeri Iwo Jima Flag Raisers (6098),1977,,6
+1145,Revell American Special Forces (02527),1986,,50
+1146,Zvezda Carthaginian Numidian Cavalry (8031),2007,44,17
+1147,Strelets Russian Crimean Uhlans (061),2007,41,12
+1148,Strelets Russian Crimean Dragoons (063),2007,41,12
+1149,Strelets Roman Legion on the March (M007),2007,44,48
+1150,Strelets Roman Legion in Battle (M009),2007,42,48
+1151,Zvezda Russian Infantry of Peter the Great (8049),2007,45,43
+1152,Strelets Medieval Levy (1) (M005),2007,40,48
+1153,Caesar The Conquistadores (H025),2007,45,35
+1155,Strelets Roman Auxiliaries in Battle (M008),2007,42,48
+1156,Odemars Jesus' Home (with Jesus) (CREA03),2007,,1
+1157,Zvezda The Janissaries (8050),2007,47,43
+1158,MiniArt Roman Infantry (72012),2007,37,48
+1159,GerMan Musketeers of the French King (0001),2007,45,22
+1160,Co.Ma. Bersaglieri (409),,,
+1161,Dapol Railway Workmen (C002),,47,39
+1162,Dapol Platform Figures (C008),,43,36
+1163,Coates & Shine Macedonian Elephant (8141),2007,47,4
+1164,HaT Nassau Infantry (8147),2007,47,96
+1165,HaT Late Roman Missile Troops (8137),2007,38,36
+1166,Zvezda English Knights of the 100 Years War (8044),2007,48,33
+1167,HaT 1805 French Line Infantry in Greatcoats (8146),2007,45,96
+1168,Zvezda Roman Imperial Legionaries (8043),2007,44,53
+1169,Strelets Russian Grenadiers in Winter Dress (M011),2007,39,48
+1170,GerMan Cuban War Spanish Infantry (0003),2007,46,24
+1171,HaT Gallic Warband (8089),2007,39,48
+1173,Italeri French Infantry 1798-1805 (6092),2007,43,48
+1174,Strelets French Cuirassiers in Winter Dress (089),2007,47,12
+1175,Odemars Defenders of Berlin (PF07),,,42
+1176,Odemars The Last Defenders of Berlin (PF17),2007,37,42
+1177,Strelets Russian Hussars in Winter Dress (087),2007,44,12
+1178,MiniArt Hussites (72010),2007,35,24
+1179,RedBox Japanese Peasant Infantry (72010),2007,33,48
+1180,Strelets Borodino (084),2007,45,48
+1181,Caesar Nubian Warriors (H049),2007,44,
+1182,Strelets French Guard Chasseurs in Winter Dress (M010),2007,39,48
+1183,Coates & Shine Indian Elephant (8142),2007,48,6
+1184,BUM Spanish Security Forces (5010),2007,41,22
+1185,Strelets Norman Knights (085),2007,44,12
+1186,Strelets Breton Knights (086),2007,40,12
+1187,Caesar Ancient Egyptian Chariots (H024),2007,48,14
+1188,Italeri British Infantry 1815 (6095),2007,45,48
+1189,Strelets Medieval Levy (2) (M006),2007,41,48
+1190,Caesar Roman Legionary (H041),2007,47,41
+1191,RedBox Ashigaru (Command and Support Group) (72008),2007,38,48
+1192,Orion Assyrian Siege Tower (72023),2007,,
+1193,Caesar Ancient Germans (H040),2007,44,39
+1194,Odemars Macedonians (PF18),,,11
+1195,RedBox Ninja (72011),2007,37,48
+1196,RedBox Ikko-ikki (72009),2007,34,48
+1197,Strelets Arab Cavalry (092),2007,43,12
+1198,Strelets Turcopoles (090),2007,43,12
+1199,Strelets Military Order Sergeants (088),2007,43,12
+1200,Strelets Muslim Foot Warriors (M013),2007,41,48
+1201,Strelets Muslim Archers (M014),2007,44,48
+1202,Strelets Foot Military Order Knights (M015),2008,39,48
+1203,Strelets Into The Valley of Death (901),2007,44,62
+1204,MiniArt Roman Cavalry (72014),2007,34,20
+1205,Zvezda Vikings (8046),2007,46,41
+1206,Zvezda Ancient Egyptian Infantry (8051),2007,42,46
+1207,Strelets Military Order Warriors (M012),2007,42,48
+1208,Italeri Austrian Infantry 1798-1805 (6093),2007,43,48
+1209,Italeri ZiS 3 AT Gun with servants (6097),2007,47,12
+1210,GerMan Jacobite Highlanders (0010),2007,41,22
+1211,Orion Volkssturm (72017),2007,37,46
+1212,BUM Winter Infantry (5007),2007,41,22
+1213,Waterloo 1815 Prussian Infantry 1815 (020),2007,40,48
+1214,Strelets Roman Auxiliaries 2 (M016),2007,43,48
+1215,BUM Spanish Civil War Cavalry (5014),,,
+1216,Strelets Napoleonic French Cuirassiers (Summer Dress) (094),2007,46,12
+1217,Strelets Guides of Napoleon (095),2007,38,12
+1218,Strelets French Hussars (096),2007,43,12
+1219,Orion Cossack Cavalry (72014),2007,44,12
+1220,Coates & Shine Indian Infantry IV BC (8154),2007,38,48
+1221,Strelets Germanic Horsemen (098),2007,38,12
+1222,Strelets Batavian Cavalry in Roman Service (097),2007,41,12
+1223,Strelets Turkish Seljukes Cavalry (093),2007,44,12
+1224,LW Buccaneers (2014),,,
+1225,Valdemar Medieval Army on the March (VS001),2007,44,14
+1226,HaT French Middle Guard: Fusilier Grenadiers (8167),2007,43,48
+1227,HaT 1805-1812 French Line Grenadiers (8166),2007,42,48
+1228,MiniArt Germanic Warriors (72013),2007,42,36
+1229,Waterloo 1815 Japanese Infantry (022),2007,47,48
+1230,Coates & Shine Theban Army (8129),2007,43,60
+1231,HaT Late Roman Medium Infantry (8100),2007,40,48
+1232,Emhar Prussian Infantry (7213),2008,45,50
+1233,HaT Napoleonic French Wurst Wagon (8102),2007,,12
+1234,Zvezda Roman Auxiliary Infantry (8052),2007,48,45
+1235,RedBox Korean Infantry (72012),2007,35,48
+1236,Italeri PaK 40 AT Gun with Servants (6096),2007,47,12
+1237,LW Sarmation Cavalry (16),2006,,5
+1238,LW Dacian Cavalry (17),2006,,5
+1239,Coates & Shine Gothic Army (8133),2007,35,51
+1240,HaT French Field Forge (8107),2007,,9
+1241,Italeri British Light Cavalry 1815 (6094),2008,44,17
+1242,Airfix WWII British Infantry (01762),,,
+1243,GerMan Spanish Rifle Battalion 'La Patria' (0004),2008,39,24
+1244,LW Dacian Infantry (2010),2007,36,42
+1245,Zvezda English Infantry of the 100 Years War (8060),2008,46,45
+1246,Orion Scythian Infantry (72025),2008,42,48
+1247,Strelets Russian Infantry in Summer Uniform (M018),2008,40,48
+1248,Strelets Russian Infantry in Winter Uniform (M017),2008,42,48
+1249,Valiant American GIs 1942/44 (VM003),2008,47,64
+1250,Strelets Roman Legion before Battle (M019),2008,44,56
+1251,Zvezda French Infantry of the Hundred Years War (8053),2008,46,43
+1252,RedBox Chinese Infantry (72015),2008,36,48
+1253,Strelets Roman Cavalry in Battle (100),2008,42,12
+1254,Strelets Roman Cavalry on the March (099),2008,44,12
+1255,Italeri Mongol Cavalry (6124),2008,47,15
+1256,HaT British Camel Corps (8194),2008,43,12
+1257,HaT Egyptian Camel Corps (8193),2008,43,12
+1258,Pegasus Gladiators (7100),2008,50,36
+1259,Strelets Heavy Brigade (902),2008,43,62
+1260,Pegasus Russian Naval Infantry (7270),2008,47,40
+1261,Pobeda Finnish Army (72300),2008,36,30
+1262,Pobeda Finnish Morane Saulnier 406 (72302),,,
+1263,Pobeda PE-2 Bomber (72303),,,
+1264,Pobeda Flame-Thrower OT-133 (72304),,,
+1265,Pobeda T-26 Light Tank (72305),,,
+1266,Pobeda T-26 T Ammunition Transport (72306),,,
+1267,Pobeda Russian Tank BT-7 (72314),,,
+1268,Pobeda Russian Tank BA-10 (72315),,,
+1269,Pobeda Russian T-26 TN Recon (72316),,,
+1270,Pobeda Russian T-26-1 (72317),,,
+1271,Mars Swedish Infantry (72020),2008,36,48
+1272,Mars Russian Paratroopers Spetsnaz (72001),,,
+1273,Mars Modern US Soldiers (72003),,,
+1274,Mars Normans (72004),,,
+1275,Mars Saracen Infantry (72005),,,
+1276,Mars Saracens Cavalry & Camels (72006),,,
+1277,Mars Crusaders (72007),,,
+1278,Mars Russian Heavy Weapon Team (72008),,,
+1279,Mars Xerxes Army (72010),2008,28,48
+1280,Mars Swedish Cavalry Dragoons (72011),,,
+1281,Mars Soviet Assault Group (72012),,,
+1282,Mars German Auto-Crew in Action (72013),,,
+1283,Mars Swedish Cavalry Cuirassiers (72014),,,
+1284,Mars Swedish Artillery (72015),,,
+1285,Mars French Artillery (72016),,,
+1286,Mars US Infantry with 37mm Gun (72017),,,
+1287,Mars Aztec Warriors (72018),,,
+1288,Mars Conquistadores (72019),,,
+1289,Mars Mujahideen (72002),,,
+1290,Zvezda Russian Mounted Knights (8039),2008,47,18
+1291,HaT Gallic Chariot with Warrior Queen (8140),2008,46,9
+1292,Odemars British Infantry for Hougoumont (PF20),2008,36,42
+1293,GerMan Mounted Musketeers (0011),2008,48,9
+1294,HaT WWI French Infantry (Early) (8148),2008,43,92
+1295,Strelets Napoleonic French Uhlans in Winter Dress (101),2008,39,12
+1296,LW Jewish Infantry (2008),2008,27,42
+1297,RedBox Korean Heavy Infantry (72014),2008,37,48
+1298,Zvezda Turkish Cavalry (8054),2008,45,18
+1299,Odemars French Infantry for Hougoumont (PF19),2008,30,42
+1300,Orion Scythian Cavalry (72024),2008,43,13
+1301,HaT Napoleonic Swedish Cavalry (8178),2008,39,27
+1302,GerMan Napoleonic French Camel Corps (0022),2008,43,10
+1303,Caesar WWII Chinese Army (H036),2008,47,40
+1304,LW Carthaginian Artillery and Infantry (Part 1) (2015),,,
+1305,Pegasus German 75mm le IG18 (7510),2008,49,8
+1306,Orion Basmachi (72026),2008,43,12
+1307,HaT French Guard Chasseurs (8170),2008,42,48
+1308,RedBox Korean Guerrillas (72013),2008,38,48
+1309,Valdemar Mercenary Crossbowmen (VA106),2008,47,10
+1310,Caesar German Army (H035),2008,46,45
+1311,Lucky Toys Piedmont Infantry and Bersaglieri (TL0006),2008,40,38
+1312,Lucky Toys Garibaldi 'Red Shirts' (TL0009),2008,33,30
+1313,GerMan Bergisel 1809 (0030),2008,36,26
+1314,Mars Austrian Uhlans (72021),2008,38,15
+1315,Zvezda Polish Winged Hussars (8041),2008,48,16
+1316,RedBox US Infantry (72017),2008,37,48
+1317,Emhar Viking Oarsmen (7218),2008,50,42
+1318,Italeri Templar Knights (6125),2008,43,15
+1319,Caesar German Panzergrenadiers (Set 1) (H052),2008,47,43
+1320,LW Dacian Allies (10),,,
+1321,LW Dacian Cavalry (2009),,,
+1322,LW Roman Siege Troops (2017),,,
+1323,Mars Japanese Infantry with 75mm Mountain Gun (72022),,,
+1324,Mars Artillery Serving Staff for Piece of Ordnance 17C (72023),,,
+1325,HaT Gallic Command (8138),2008,47,24
+1326,RedBox Sikhs (72021),2008,28,48
+1327,BUM National Regular Army (5005),2008,41,29
+1328,Zvezda Swedish Dragoons of Charles XII (8057),2008,47,18
+1329,Waterloo 1815 Prussian Hussars (021),2008,42,14
+1330,Waterloo 1815 Prussian Death's Head Hussars (032),2008,41,14
+1331,Caesar Republican Roman Army (H045),2008,43,41
+1332,Italeri D.A.K. Infantry (6099),2008,43,48
+1334,Dapol Station Accessories (C012),1958,,24
+1335,HaT 1805 French Grenadiers and Voltigeurs (8171),2008,42,48
+1336,RedBox Russian Infantry (72018),2008,30,48
+1337,RedBox Japanese Infantry (72020),2008,33,48
+1338,BUM Rif War 1920-1927 (5100),2008,41,25
+1339,Emhar Crested Knights (7210),2014,49,8
+1340,Emhar British Infantry (7214),2014,48,48
+1341,Emhar French Infantry (7216),2014,38,44
+1342,Emhar Spanish Infantry (7215),2014,47,46
+1343,A Call To Arms British Infantry of the 1970s (67),2013,43,32
+1344,Hegemony British Army Fusiliers (HG005),2019,16,21
+1346,Mars Lithuanian-Russian Heavy Infantry (72066),2014,38,48
+1347,BUM Far-West Gunsmith (2104),2013,,4
+1348,RedBox Scurrers (72046),2013,46,12
+1349,Mars Spanish Field Artillery (72092),2015,37,24
+1350,BUM Far-West Town Jail (2102),2013,,5
+1351,BUM Far-West Ticket Station (2103),2013,,4
+1352,Mars Imperial Field Artillery (72093),2015,34,24
+1353,Caesar German Army in Stalingrad (HB09),2014,38,19
+1354,Caesar German Army Combat Team One (HB06),2014,44,23
+1355,Caesar German Army Combat Team Two (HB07),2014,43,21
+1356,Caesar German Army Sturmpioniere (HB08),2014,43,20
+1362,BUM Fort West Accessories (2117),2013,,4
+1363,BUM Lakotas-Sioux (2130),2013,,9
+1364,BUM Sioux Cheyennes Tribe (2131),2013,,7
+1365,Heller US Infantry (49601),,,
+1366,Heller French Infantry (49602),,,
+1367,Heller British Infantry (49604),,,
+1368,Heller Russian Infantry (49603),,,
+1369,Strelets French Foreign Legion in Skirmish (M150),2021,40,56
+1370,Strelets British Infantry in Attack (145),2017,46,43
+1371,Caesar Mycenaean Chariot (H021),2012,49,10
+1372,Caesar Aztec Warriors (H028),2012,47,33
+1373,Caesar Ancient Chinese Shang vs Zhou Dynasty Troopers (H029),2017,,35
+1374,Plastic Soldier Russian 45mm Anti-Tank Gun (WW2G20001),2011,44,16
+1375,Zvezda Soviet 82mm Mortar with Crew (6109),2011,,4
+1376,Caesar WWI French Infantry (1914) (H034),2017,46,34
+1377,Caesar German Army (H037),2009,47,37
+1378,Caesar WWII French Army (H038),2009,45,37
+1379,Mars German Paratroopers (Tropical Uniform) (72123),2021,44,40
+1380,Zvezda German 81mm Mortar and Crew (6111),2011,,4
+1382,Mars US Infantry (Winter Uniform) (72124),2021,38,40
+1383,Caesar Roman Legionary (Set II) (H051),2009,46,38
+1384,Caesar WWII German Panzergrenadiers II (H053),2009,48,36
+1385,Caesar WWII US Army (Set 1) (H054),2009,42,41
+1386,Caesar British Army (H055),2009,45,40
+1387,Caesar Partisans in Europe (H056),2008,45,34
+1388,Caesar Modern Israeli Defence Force (H057),2011,46,40
+1389,Caesar Modern US Elite Force (H058),2008,47,40
+1390,Caesar Modern French Army & Chinese PLA (H059),2009,,37
+1391,Caesar Modern Special Forces Worldwide (H061),2008,49,41
+1392,Caesar Modern German Army (Bundeswehr) (H062),2011,45,37
+1393,Caesar Modern Militia (H063),2009,42,36
+1394,Caesar Celt Warriors (H064),2009,48,37
+1395,Caesar Greek Warriors (Hoplites) (H065),2009,40,37
+1396,Caesar Persian Warriors (H066),2009,45,42
+1397,Caesar German Nebelwerfer 42 & Raketenwerfer 43 with Crew (H093),2016,49,10
+1398,Caesar German Panzergrenadiers (Winter Greatcoat East) (CM7714),2012,,16
+1399,Caesar German Panzergrenadier (Kursk) (CM7715),2012,,16
+1400,Valiant Germans in Normandy 1944 (VM004),2008,45,68
+1401,Mars Turkish Heavy Infantry (72091),2015,,48
+1402,Heller German Infantry (49605),1974,,48
+1403,Heller German Panzergrenadiers (49606),,,
+1404,Ykreol French Staff 1940 (YK20),2013,37,42
+1405,Pegasus WWII Russian Support Weapons Teams in Greatcoats (7274),2013,49,26
+1406,Zvezda Soviet 85mm Anti Aircraft Gun 52-K (6148),2013,,4
+1407,GerMan British Infantry in Egypt 1800 (0023),2010,41,24
+1408,Pegasus WWII Russian Mortar Teams in Greatcoats (7273),2013,48,24
+1409,Pegasus WWII Russian Infantry in Winter Dress Set 2 (7272),2013,48,34
+1410,Pegasus WWII Russian Infantry in Greatcoats (7271),2013,49,40
+1411,Pegasus War Against Fascism (7267),2013,,16
+1412,Mars Medieval Arkbalista (72065),2013,37,16
+1413,Mars Teutonic Field Artillery (72064),2013,39,16
+1414,GerMan US Cavalry and Artillery (0007),,,
+1415,Pegasus German Fallschirmjäger (7224),2013,48,40
+1416,RedBox Osman Akinci Set 2 (72093),2016,39,12
+1417,HaT French Light Ambulance (8103),2009,,3
+1418,HaT French Pontoon (8108),2009,,
+1419,Orion USA Tank Crew Summer Dress (72049),2016,44,36
+1420,HaT Celtic Chariot (8139),2008,41,9
+1421,Coates & Shine Indian Chariot (8143),2008,43,15
+1422,HaT German PaK 36 Anti-tank Gun (8149),2008,38,16
+1423,HaT German PaK 40 Anti-tank Gun (8150),2008,37,16
+1424,HaT Australian Light Horse (8153),2009,44,30
+1425,Strelets Italian Infantry in Defence (M153),2021,37,52
+1426,HaT German 7.62cm PaK 36(r) (8156),2008,37,16
+1427,HaT Polish Artillery Crew (8157),2016,43,32
+1428,HaT WWI US Artillery with 75mm Cannon (8158),2009,36,48
+1429,HaT WWI French Artillery Crew (Early) (8159),2018,45,32
+1430,HaT Romanian Artillery Crew (8160),2016,45,32
+1431,HaT WWI French 75mm Cannon (with Late War Crew) (8161),2009,40,48
+1432,HaT Hadendowah Camelry (8208),2010,47,15
+1433,HaT German 7.5cm IG 18 Gun (8163),2008,38,16
+1434,RedBox Turkish Siege Artillery Gun (72069),2015,37,16
+1435,RedBox Turkish Siege Artillery Mortar (72070),2015,39,16
+1436,HaT El Cid Andalusian Infantry (8168),2009,48,96
+1437,HaT Bavarian Fusiliers (8169),2009,42,48
+1438,HaT Brunswick Cavalry (8174),2012,46,12
+1439,HaT Württemberg Cavalry (8175),2012,46,12
+1440,HaT El Cid Spanish Infantry (8176),2009,45,96
+1441,HaT Gatling Gun (8179),2009,48,24
+1442,HaT Gardner Gun (8180),2009,46,24
+1443,HaT British 17th Lancers (8181),2012,47,15
+1444,HaT Natal Native Horse (8182),2008,43,18
+1445,HaT Late Roman Medium Cavalry (8183),2012,43,12
+1446,HaT Greek Catapult (8184),2009,49,24
+1447,HaT Macedonian Hypaspists (8185),2009,44,48
+1448,HaT Peninsular War British Infantry (8186),2009,46,92
+1449,HaT 1806 Saxon Infantry (8187),2009,42,96
+1450,HaT Late Roman Light Cavalry (8188),2010,44,24
+1451,HaT El Cid Almoravid Infantry (8189),2008,47,96
+1452,HaT Zulus (8191),2011,40,32
+1453,HaT 1806 Prussian Hussars (8195),2008,45,12
+1454,HaT 1806 Prussian Dragoons (8196),2008,46,12
+1455,HaT Napoleonic Prussian Hussars (8197),2012,46,12
+1456,HaT Austrian Grenadiers (8198),2011,44,60
+1457,HaT WWI German Jaeger (8199),2009,39,48
+1458,HaT WWI German Infantry (8200),2009,40,48
+1459,HaT El Cid Spanish Light Cavalry (8201),2009,39,12
+1460,HaT Colonial Highlanders (8202),2009,40,48
+1461,HaT Colonial Wars Indian Infantry (8203),2009,42,48
+1462,HaT Austrian Grenzers (8204),2009,42,48
+1463,HaT Frontier Light Horse (8206),2012,43,15
+1464,Ultima Ratio Union Infantry - Irish Brigade (UR014),2021,40,34
+1465,HaT British Mounted Infantry (8209),2008,43,18
+1466,HaT British Colonial Artillery (8210),2009,45,24
+1467,HaT El Cid Spanish Heavy Cavalry (8213),2009,40,12
+1468,HaT French Voltigeurs (8218),2009,44,56
+1469,HaT French Light Infantry Chasseurs (Marching) (8219),2010,49,40
+1470,HaT 1808-1812 French Light Infantry Carabiniers (8220),2009,46,56
+1471,HaT Sassanid Levy Infantry (8205),2013,44,32
+1472,RedBox Musketeers of the King of France (72145),2020,46,44
+1473,HaT Sassanid Clibanarii (8285),2017,41,12
+1474,HaT Sassanid Light Cavalry (8283),2017,40,12
+1475,Strelets Highlanders in Square (287),2021,45,43
+1476,HaT Swedish Artillery (8231),2010,42,16
+1477,RedBox Byzantine Clibanarii Set 1 (72151),2024,41,12
+1478,Strelets Russian Infantry in Overcoats Shoulder Arms (218),2021,48,44
+1479,RedBox Irish Mounted Troops (72055),2015,43,12
+1480,Orion Soviet Assault Group 1945 (72048),2015,39,52
+1483,HaT WW2 German Field Wagon (8261),2012,,6
+1484,Strelets Highlanders' Firing Line (279),2021,48,43
+1485,Waterloo 1815 Italian Mountain Troops 'Alpini' (057),2016,45,36
+1486,Zvezda Russian Infantry Command (6815),2015,,5
+1487,Zvezda French Line Infantry Command (6816),2015,,5
+1488,Zvezda French Foot Artillery (6810),2015,,6
+1489,IMEX American Infantry (535),2008,45,49
+1490,RedBox Samurai Artillery Set 1 (72090),2016,41,16
+1491,Zvezda Soviet Anti-Tank Gun ZIS 3 (6253),2015,,3
+1492,Zvezda Russian Dragoons (6811),2015,,3
+1493,Strelets Roman Senate 2 (138),2016,44,35
+1494,Zvezda German Anti-Tank Gun PaK 40 (6257),2015,,3
+1495,Zvezda Russian Foot Artillery (6809),2015,,6
+1496,Zvezda Russian Line Infantry (6808),2014,,6
+1497,Strelets Tecumseh (M107),2015,41,48
+1498,Strelets Republican Roman Legion Ranks (M099),2015,,40
+1499,Orion German WWII Panzer Soldiers Basic Set 2 (72047),2015,47,39
+1500,Mars French Infantry & Guards (72083),2015,39,48
+1501,Zvezda Soviet Headquarters (6132),2016,,
+1502,Zvezda Romanian Infantry (6163),2015,,4
+1503,Zvezda French Dragoons (6812),2015,,3
+1504,Mars Crimean Tatar Infantry (72084),2015,36,48
+1505,First To Fight Polish Command (PL1939-023),2015,43,18
+1506,Heller British Commandos (49632),1968,,36
+1507,Italeri American Infantry (6120),2008,45,48
+1508,Italeri German Motorcycles (6121),2009,48,16
+1509,Italeri Italian 90/53 Gun with Crew (6122),2009,46,8
+1510,Italeri Chinese Cavalry (6123),2009,46,15
+1511,Italeri Arab Warriors (6126),2008,35,15
+1512,Legio French Cuirassiers (P-720001),2009,49,16
+1513,Zvezda Soviet Frontier Guards (6144),2014,,4
+1514,Lucky Toys Vlad Tzepes (TL0011),2009,44,34
+1515,Lucky Toys Medieval Turks (Mehmed II) (TL0012),2009,44,34
+1516,Zvezda Soviet Air Force Ground Crew (6187),2015,,5
+1517,Mars Scots Greys (72024),,,
+1518,Mars British Infantry (72025),,,
+1519,Mars Burgundian Sergeants and Archers (72026),,,
+1520,Mars Arquebusiers (72027),2009,33,48
+1521,Mars Russian Uhlans (72028),2009,27,12
+1522,Mars Russian Dragoons (72029),2009,31,12
+1523,Mars Medieval Baltic Crusades (72030),2008,26,36
+1524,Mars Swedish Army with Culverin (72031),2009,39,19
+1525,Hasegawa U.S. Aerospace Ground Equipment Set (35006),1984,44,4
+1526,Orion Modern Israeli Army (Set 1) (72012),2010,45,48
+1527,Orion Turkish Cavalry Sipahi (72020),2017,44,12
+1528,Orion Byzantine Infantry (12th - 15th Century) (72027),2008,37,44
+1530,Pegasus WWI French Infantry (7199),2010,48,40
+1532,Pegasus WWII Russian Infantry (Summer Dress) (7268),2009,46,40
+1533,Pegasus WWII Russian Infantry (Winter Dress) (7269),2009,45,40
+1538,Pegasus WWII French Infantry (7306),2010,48,40
+1539,RedBox US Marines (72016),2008,36,48
+1540,RedBox Russian Sailors (72019),2008,37,48
+1541,RedBox British Royal Marine Light Infantry (72022),2009,36,48
+1542,RedBox German Sea Battalion (72023),2009,37,48
+1543,RedBox German East Asia Brigade (72024),2009,33,48
+1544,RedBox French Sailors (72025),2009,41,48
+1545,RedBox French Marines (72026),2009,38,48
+1546,RedBox French Infantry (72027),2009,38,48
+1547,RedBox Civilian Volunteers (72028),2009,37,56
+1548,RedBox Italian Sailors (72029),2009,36,48
+1549,RedBox Austrian Sailors (72031),2010,37,48
+1550,RedBox Chinese Regiment (72032),2010,32,48
+1551,RedBox Italian Bersaglieri (72030),2009,39,48
+1552,RedBox British Naval Brigade (72033),2010,32,48
+1553,RedBox Gurkhas (72034),2010,36,48
+1554,RedBox Chinese Boxers (72035),2010,37,48
+1555,RedBox Gangsters (72036),2010,38,56
+1556,Strelets Sarmatian Cavalry (020),2012,38,12
+1557,Strelets French African Chasseurs (049),2008,45,12
+1558,Strelets Highlanders 1898-1902 (M051),2011,34,48
+1562,Strelets Jacobites (2) (068),2009,39,44
+1563,Strelets Mounted Praetorians (069),2010,44,12
+1564,Strelets Norman Cavalry on the March (070),2010,42,12
+1565,Strelets Austro-Hungarian Honved (074),2017,42,28
+1566,Strelets British Cavalry (075),2011,40,12
+1567,Strelets French Artillery (Egypt) (078),2012,45,14
+1568,Strelets British Artillery (Egypt) (079),2012,38,14
+1569,Strelets French Uhlans in Summer Uniform (102),2009,37,12
+1570,Strelets Dacian Cavalry (103),2008,38,12
+1571,Strelets Mounted Crusaders in Oriental Dress (104),2008,40,12
+1572,Strelets French Cuirassiers in Attack (105),2009,43,12
+1573,Strelets French Early Carabiniers (106),2009,41,12
+1574,Strelets Thin Red Line (903),2009,44,147
+1575,Strelets Roman Legion in Advance (M020),2008,39,48
+1576,Strelets Dacian Heavy Infantry (M021),2008,29,48
+1577,Strelets Dacian Light Infantry (M022),2008,33,48
+1578,Strelets French Infantry on the March (1) (M023),2008,38,48
+1579,Strelets WWI Austrian Infantry (M024),2008,40,48
+1580,Strelets Medieval Crossbowmen (M025),2009,42,56
+1581,Strelets French Infantry in Advance (M026),2009,26,48
+1582,Strelets Russian Peasant Levy in Winter Dress (M027),2009,37,48
+1583,Strelets Dismounted Mongols (M028),2009,40,48
+1584,Valdemar Medieval University (VA121),2009,45,8
+1585,Valdemar Teutonic Infantry on the March (VA110),2009,48,
+1586,Valdemar Mounted Crusader Command (VA115),2009,44,8
+1587,Valdemar Russian Hird (VA113),2009,45,5
+1588,Waterloo 1815 Sioux (023),2009,47,12
+1589,Waterloo 1815 US Marines (027),2009,44,43
+1590,Waterloo 1815 Napoleonic Mounted Line Officers (028),2009,45,10
+1591,HaT WWI Belgian Infantry (8290),2018,40,32
+1592,Waterloo 1815 Italian Infantry Support Group (034),2009,45,26
+1593,Waterloo 1815 Japanese 70mm Gun (003),2009,47,16
+1594,Waterloo 1815 Italian 149/40 Artillery (024),2009,47,9
+1595,Zvezda French Cuirassiers 1807-1815 (8037),2010,48,19
+1596,Zvezda Russian Guard Heavy Artillery (8045),2010,50,35
+1597,Zvezda Russian Hussars (8055),2008,49,18
+1598,Zvezda Russian Artillery of Peter the Great (8058),2009,48,30
+1599,Zvezda Medieval Peasant Army (8059),2009,46,42
+1600,Zvezda Austrian Musketeers and Pikemen (8061),2008,46,45
+1601,Zvezda Russian Foot Warriors (8062),2009,48,44
+1602,Caesar German Mountain Troops (H067),2008,44,45
+1603,LW Spanish Army 1500-1600 (2016),2008,25,40
+1604,LW Russian Artillery 1500-1700 (2018),2008,21,30
+1605,Tragik Dead French Infantry 1809/15 (1),2008,41,12
+1606,Tragik Dead Prussian Landwehr 1813/15 (2),2008,42,12
+1607,RedBox Osman Akinci Set 1 (72092),2016,40,12
+1608,RedBox Samurai Artillery Set 2 (72091),2016,,16
+1609,Strelets Confederate Infantry Standing (156),2017,45,50
+1610,Orion Slavic Warriors (72028),2009,36,48
+1611,Orion Early Rus Warriors (72029),2009,36,48
+1613,Odemars Operation Antarctica - Haunebu (CREA04),2009,,42
+1614,Co.Ma. Elite Mountain Troops/Alpini (410),,,24
+1615,GerMan Catalan Artillery & Barricade (1001),2009,35,6
+1616,LW Carthaginian Artillery and Mercenaries (2025),2002,,5
+1617,LW WWII Russian Tank Crew (2013),2004,,14
+1618,Dark Dream Studio European Knights (72005),2009,44,12
+1619,Strelets Jacobites (1) (066),2009,40,38
+1620,Valdemar Teutonic Sergeant with Great Axe (VI006),2009,,1
+1621,HaT WWI Skoda 75mm Mountain Gun (8244),2011,,
+1622,HaT Deport 75mm Gun (8242),2011,,
+1623,Linear-A Goths (Set 1) (058),2026,45,17
+1624,Strelets Obice da 75/18 Mod 35 Howitzer & Italian Crew (282),2021,39,12
+1625,HaT Carthaginian Veterans (8212),2013,39,32
+1626,Valdemar Crusader Knight (VI007),2009,,1
+1627,Valdemar Crusader Knight with Great Helm (VI008),2009,,1
+1628,Strelets Ancient Germans (M035),2009,41,48
+1629,Valdemar Crusader with Shield and Horse Pike (VI005),2009,50,1
+1630,Valdemar Sergeant Sitting and Resting (VI004),2009,50,1
+1631,Valdemar Croatian Light Cavalryman (VI003),2009,49,1
+1632,Valdemar Welsh Crusader (VI002),2009,49,1
+1633,Valdemar Executioner (VI001),2009,50,1
+1634,Pobeda Russian Women Snipers (72331),,,
+1635,BUM Tanqueta Blindada 8 ton. 1921 (5047),,,
+1636,BUM Horch 830 Radio (5043),,,
+1637,Pegasus WWII Russian Infantry (7498),2009,,40
+1638,BUM International Brigade Artillery (5042),,,10
+1639,Orion Khazar Army (72030),2009,42,24
+1640,Zvezda Zaporozhian Cossacks (8064),2009,45,27
+1641,Strelets Court and Army of Peter I (905),2009,45,108
+1642,Strelets Russian Dragoons in Winter Dress (067),2011,42,12
+1643,Strelets Dacians Before Battle (M040),2010,47,56
+1644,Strelets Normans on the March (M039),2009,41,48
+1645,Strelets Roman Infantry in Winter Dress (M038),2009,34,48
+1646,Strelets Roman Velites (M037),2009,37,48
+1647,Strelets Scottish Schiltron (M036),2009,38,32
+1648,Strelets French Line Infantry (M041),2009,39,48
+1649,Fujimi German Anti-tank 88mm Flak 18 (76026),1992,26,6
+1650,Italeri Union Infantry (6177),1991,,50
+1651,HaT Indian Infantry IV BC (8154),,,
+1652,HaT Indian Chariot (8143),,,
+1653,HaT Indian Elephant (8142),,,
+1654,HaT Macedonian Elephant (8141),,,
+1655,HaT Gothic Army (8133),,,
+1656,HaT Indian Cavalry (8131),,,
+1657,HaT Theban Army (8129),,,
+1658,HaT WWI German Colonial Infantry (8123),,,
+1659,HaT WWI Serbian Infantry (8122),,,
+1661,Strelets Praetorians Ranks (M108),2016,,40
+1663,Strelets Lawrence of Arabia (115),2016,44,
+1670,HaT Napoleonic Spanish Light Infantry (8300),2014,41,32
+1672,Waterloo 1815 French Line Infantry 1815 (056),2017,46,58
+1673,Ykreol French Foreign Legion at Bir Hakeim 1942 (YK11),2010,37,48
+1674,Pobeda Finnish Artillery (72301),2010,,5
+1675,Pobeda Russian Army (72310),2010,37,24
+1676,Pobeda Russian Artillery (72311),2010,,8
+1678,Preiser Christopher Columbus in America 1492 (16341),1992,46,35
+1679,Preiser Modern German Infantry (16506),1974,46,52
+1680,Preiser Modern German Sentries and Tank Crew (16510),,,20
+1681,Preiser German Horse-Drawn Supply Wagon (16512),,49,5
+1682,Preiser German Field Howitzer (16514),,50,8
+1683,Preiser German Tank Crew (16515),1998,,20
+1684,Strelets Red Army Winter War (M063),2011,42,48
+1685,"Preiser General, Runner and Radio Operators (16536)",,49,4
+1686,Preiser German Howitzer Gun Crew (16537),,,7
+1687,Preiser German PaK Gun Crew (16539),2002,,5
+1688,Preiser German Trench Mortar Crew (16540),,48,5
+1689,Preiser German Fighting Mortar Crew (16541),,,5
+1690,Preiser Soviet Tank Crew 1942 (16546),,,10
+1691,Preiser Horse and Hand-Drawn Infantry Carts (16547),,48,4
+1692,Preiser Modern US Tank Crew (16548),,,
+1693,Ykreol The French Revolution 1789: The Years of Terror (YK14),2004,,10
+1694,Preiser Modern German Army Band (16550),,,59
+1695,Preiser Refugees (16558),,,7
+1696,Mars Polish Infantry Mercenaries (Haiduks) (72033),2009,39,48
+1697,Preiser German Mortar and Crew (72517),,49,5
+1698,Preiser German PaK40 Crew (72518),2002,50,5
+1699,"Preiser Soviet Tank Crewmen, 1942 (72526)",,50,10
+1700,"Preiser Civil Airline Personnel, Travellers & Ground Crews (72528)",,48,18
+1701,"Preiser Military Police, Vienna 1945 (72529)",,41,5
+1702,Preiser Tank Crew US Army 2000 (72530),,47,8
+1703,Preiser Refugees (72531),,42,7
+1704,Preiser German Military Police (72532),,46,6
+1705,Preiser German Riflemen Lined Up (72533),,49,36
+1706,Preiser German Troops Lined Up with Mortar (72536),,50,8
+1707,RedBox Stradioti Set 2 (72075),2015,39,12
+1708,RedBox Jinetes Set 1 (72076),2015,41,12
+1709,Revell Pilots and Ground Crew: German Airforce WWII (02400),2009,,30
+1710,Revell Pilots and Ground Crew: Royal Air Force (02401),2010,45,25
+1711,HaT El Cid Andalusian Light Cavalry (8214),2012,42,12
+1712,Ykreol Project R.F.Z. (Set 1) (YK05),2009,,42
+1713,Zvezda Russian Noble Cavalry (8065),2009,46,19
+1714,Zvezda Swedish Artillery of Charles XII (8066),2010,50,36
+1715,Zvezda Cataphracts (8067),2009,48,20
+1716,"Zvezda Prussian Grenadiers of Frederick II ""the Great"" (8071)",2009,43,41
+1717,Zvezda Lifeguard Polish Uhlans (8075),2009,47,18
+1718,Zvezda Soviet Infantry Platoon (8077),2012,49,38
+1719,Zvezda German Infantry Platoon (8078),2013,48,35
+1720,Strelets British Grenadiers in Winter Dress (M029),2009,33,48
+1721,Strelets British Light Infantry (M030),2009,44,48
+1722,Strelets RKKA Infantry 1939-41 (M031),2009,41,48
+1723,Strelets British Grenadiers in Summer Dress (M032),2009,35,48
+1724,Strelets Roman Auxiliaries Before Battle (M033),2009,43,48
+1725,Strelets Roman Auxiliaries Advancing (M034),2009,41,48
+1726,Strelets From Narva to Poltava (904),2009,43,86
+1727,Pegasus California Gold Miners (7050),2009,47,28
+1728,Pegasus Farm Animals (7052),2009,,
+1729,Italeri Confederate Infantry (6178),2000,,32
+1730,Italeri Anti Tank Teams (6131),2009,36,32
+1731,Strelets French Army Sledge Train 2 (134),2015,34,9
+1732,Italeri US Infantry (Winter Uniform) (6133),2010,45,36
+1733,Italeri German Paratroops (Tropical Uniform) (6134),2010,45,48
+1734,Italeri French Imperial Guard Artillery (6135),,,
+1735,Italeri Scots Infantry (6136),2010,46,36
+1736,Italeri Late Imperial Legion (6137),2010,45,36
+1737,Italeri Gothic Cavalry (6138),2010,41,15
+1738,HaT Austrian Ammunition Wagon (8225),2009,46,
+1739,HaT Austrian Cavalry Artillery (8226),2009,45,6
+1740,HaT 1805 French Artillery (8229),2010,43,16
+1741,HaT 1806 Prussian Artillery (8230),2010,43,16
+1742,HaT Württemberg Artillery (8232),2010,44,16
+1743,HaT WWI British Heavy Weapons (8177),2009,44,32
+1744,HaT WWI ANZAC Heavy Weapons (8190),2009,45,32
+1745,HaT British Mortars (8227),2009,47,32
+1746,HaT WW2 British Machine Guns (8228),2009,46,32
+1747,Emhar Portuguese Infantry and Cazadores (7217),2014,46,46
+1748,HaT Zulu War British Infantry (8237),2012,43,48
+1749,RedBox Byzantine Light Cavalry Set 2 (72138),2024,37,12
+1750,RedBox Byzantine Clibanarii Set 2 (72152),2024,41,12
+1751,RedBox Byzantine Cataphracts Set 1 (72153),2024,43,12
+1752,HaT Natal Native Contingent (8192),2013,38,32
+1753,HaT Austrian Landwehr (8233),2011,43,60
+1754,Strelets Spartacus Army Before Battle (M110),2018,45,52
+1755,Metch Roman Turtle and Wall (172015),,,
+1757,Valdemar Cuman Cavalry (VA112),2009,46,7
+1758,Metch Long Range Desert Patrol (172113),,,
+1759,Metch Kiev 1943 (172114),,,
+1760,Metch WW2 German Stug III F (172116),,,
+1761,Metch Artillery Train Gran Capitan (172167),,,
+1762,Metch WW2 German SDK Command (172117),,,
+1763,Metch Irak Insurgents (172201),,,
+1764,Pobeda KV-1 Russian Tank 76.2mm (72318),,,
+1765,Pobeda KV-2 Russian Tank 152mm (72330),,,
+1766,Pobeda WWI German Ambulance (72111),,,
+1767,Pobeda Scout US Car WWI (72112),,,
+1768,Pobeda Jewish Revolt - Masada (72113),,,
+1769,GerMan Ultramar Civil Guard (0009),,,
+1770,GerMan Siege of Barcelona Catalans (1000),2009,44,27
+1771,GerMan Army of Philip V (1010),2009,41,27
+1772,Ykreol The Nativity (YK07),,,
+1773,GerMan Hungarian Hussars and Artillery (1003),2009,37,11
+1774,GerMan Catalan Cavalry (1004),2009,40,11
+1775,RedBox English Sailors in Battle 16-17th Century (72082),2015,35,32
+1776,GerMan Battle of Almenar British Army (1020),2009,32,16
+1777,GerMan Battle of Talamanca Catalan Army (1022),2010,43,22
+1778,Strelets IJA Infantry in Defence (M115),2021,44,52
+1779,GerMan Bourbon Artillery and Staff (1011),2009,38,5
+1780,GerMan Cavalry of Phillip V Dragoons of Marimon (1012),2009,37,11
+1781,RedBox English Sailors Artillery 16-17th Century (72083),2015,37,20
+1782,GerMan Castell de Montjuic (1023),2010,,8
+1783,Zvezda German Airforce Ground Crew (6188),2015,,5
+1784,HaT Schutztruppe (8270),2014,36,44
+1785,HaT Askari (8268),2014,39,48
+1786,HaT Ruga-Ruga (8269),2014,40,48
+1787,Ultima Ratio Carthaginian Army: Hannibal's Veterans (UR019),2023,42,24
+1788,Waterloo 1815 Prussian Hussars of Frederick the Great (052),1993,,17
+1789,Valdemar Catapult with Crew (VA123),2009,49,4
+1790,"LW Swiss Infantry, Burgundian Wars (2005)",2005,,14
+1791,Valdemar Pilgrims (VA124),2009,50,3
+1792,Valdemar Musicians (VA125),2009,50,7
+1793,Strelets The Last Assault on Sevastopol (906),2010,44,190
+1794,Strelets Roman Extra Heavy Infantry (M042),2009,38,48
+1795,Strelets Norman Army Before Battle (M043),2009,41,56
+1796,Strelets Red Army in Winter Dress (M044),2009,44,48
+1797,Strelets Red Army in Summer Dress (M045),2009,45,48
+1798,Strelets Russian Army in Winter Dress (M046),2010,41,48
+1799,Strelets Russian Army in Summer Dress (M047),2010,40,56
+1800,Strelets Medieval Russian Militia (M048),2009,37,48
+1801,Strelets Praetorian Cohort (M049),2010,41,56
+1802,Strelets Anglo-Saxons Before Battle (M050),2010,49,56
+1803,Ykreol French Line Infantry 1815 (YK01),2008,,42
+1804,Ykreol French Empire Grenadiers (YK02),2006,,42
+1805,Ykreol Portuguese Infantry of the Empire (YK03),2005,,42
+1806,Ykreol British Line Infantry 1815 (YK04),2008,,42
+1807,Caesar WWII German Paratroopers (H068),2009,46,40
+1808,HaT French Light Infantry Chasseurs (Action) (8251),2010,45,32
+1809,HaT French Light Infantry Chasseurs (Command) (8252),2010,49,32
+1810,HaT Taaishi Camelry (8250),2010,47,15
+1811,HaT WWI Italian Artillery Crew (8259),2011,45,32
+1812,Italeri German Infantry (Winter Uniform) (6151),2014,43,36
+1813,HaT Napoleonic Spanish Grenadiers (8301),2014,39,32
+1814,HaT Prussian Landwehr Marching (8309),2018,46,56
+1815,First To Fight Polish Uhlans Dismounted (PL1939-066),2019,26,15
+1816,Orion Rus Foot Knights (Druzhina) (72031),2009,41,48
+1817,Orion Kievan Rus Infantry (72032),2009,41,52
+1818,Ykreol Project R.F.Z. (Set 2) (YK06),2009,,42
+1819,Mars Imperial Army (72032),2009,26,9
+1820,Zvezda Scythian Cavalry (8069),2009,47,18
+1821,Mars Saxon Infantry (72035),2009,38,56
+1822,Strelets Dacian Heavy Infantry (M021(2)),2009,41,48
+1823,Strelets Dacian Light Infantry (M022(2)),2009,43,48
+1824,Strelets WWII New Zealand Troops (M111),2016,37,52
+1825,Strelets WWII US Navy with Anti-Aircraft Machine-Gun (M112),2016,39,40
+1826,Airfix WWII British Infantry (01763),2011,38,48
+1827,Caesar WWII German Army with Field Greatcoat (H069),2009,40,35
+1828,Mars Scots Mercenaries (72034),2009,36,48
+1829,HaT El Cid Andalusian Heavy Cavalry (8215),2012,42,12
+1830,HaT El Cid Almoravid Light Cavalry (8246),2012,42,12
+1831,HaT El Cid Almoravid Heavy Cavalry (8247),2012,43,12
+1832,HaT El Cid Spanish Command (8248),2012,48,15
+1833,HaT El Cid Moorish Command (8249),2012,48,18
+1834,HaT WW2 German Tank Riders (8262),2011,45,44
+1835,HaT WW2 Russian Tank Riders (8263),2011,45,44
+1836,HaT WW2 British Tank Riders (8264),2011,46,44
+1837,HaT WW2 American Tank Riders (8265),2011,47,44
+1838,HaT WWI German Field Wagon (8260),2012,,6
+1840,Valdemar Medieval Highwaymen (VA129),2010,50,5
+1841,HaT Napoleonic British Light Dragoons (8307),2020,39,12
+1842,Strelets French Army Sledge Train 1 (133),2015,35,9
+1843,Strelets Roman Transport 3 (131),2015,,14
+1844,Plastic Soldier British 6-pdr Anti-Tank Gun and Loyd Carrier Tow (WW2G20004),2014,46,20
+1845,Waterloo 1815 US 7th Cavalry (050),2011,43,14
+1846,Waterloo 1815 Apache Warriors (051),2012,42,12
+1847,Strelets Roman Transport 4 (132),2015,40,13
+1848,Zvezda Spartans (8068),2011,47,41
+1850,Zvezda Dragoons of Peter I (8072),2010,47,19
+1851,Zvezda Mongols - Golden Horde (8076),2011,47,19
+1852,Zvezda Black Hussars of Frederick the Great (8079),2010,47,19
+1853,Zvezda Russian Infantry of World War I (8082),2010,47,40
+1854,Zvezda German Infantry of World War I (8083),2010,46,41
+1855,Plastic Soldier Russian Infantry in Summer Uniform (WW2020001),2010,49,57
+1856,Plastic Soldier Late War German Infantry 1943-45 (WW2020003),2010,47,54
+1857,Plastic Soldier Late War British Infantry 1944-45 (WW2020002),2011,45,66
+1858,Plastic Soldier Russian Infantry Heavy Weapons (WW2020004),2011,48,39
+1859,Plastic Soldier Late War German Infantry Heavy Weapons (WW2020005),2012,45,45
+1860,"RedBox European Light Cavalry, 16th Century Set 1 (72084)",2015,41,12
+1861,RedBox Policemen and Citizens (72037),2010,35,48
+1862,Strelets Praetorians' Ceremonial March (M109),2016,,40
+1863,Valdemar Medieval Guards Resting (VA126),2010,50,7
+1864,Valdemar Medieval Guards on Duty (VA127),2010,50,6
+1865,Ykreol Roman Nobleman's Chariot (YK08),2005,,1
+1866,Ykreol Samnite Infantry (YK09),2004,,42
+1867,Ykreol Spanish Infantry 1808 (YK10),2005,,42
+1868,HaT WWI British QF 4.5 Inch Howitzer (8243),2011,,
+1869,HaT 10cm Feldhaubitze M.14 (8245),2011,,
+1870,HaT Prussian Infantry Marching (8253),2011,50,40
+1871,HaT Prussian Infantry Action (8254),2011,46,40
+1872,HaT Prussian Infantry Command (8255),2011,49,36
+1873,HaT WWI British Artillery Crew (8256),2011,47,32
+1874,HaT WWI Russian Artillery Crew (8257),2011,46,32
+1875,HaT WWI Austrian Artillery Crew (8258),2011,44,32
+1876,Strelets Russian Dragoons (107),2010,,12
+1877,Strelets Russian Hussars (108),2010,,12
+1878,Strelets Bashi-Bazouks (109),2010,43,12
+1879,Strelets Turkish Regular Cavalry (110),2012,43,12
+1880,Strelets Turkish Artillery (111),2011,,
+1881,Strelets Russian Field Artillery (Summer Uniform) (112),2011,40,14
+1882,Strelets Turkish Army (M052),2016,,48
+1883,Strelets Sardinians (M053),2011,39,48
+1884,Strelets British Cavalry (Late War) (114),2011,40,12
+1885,Valdemar Medieval Inquisition (VA130),2010,50,10
+1886,Caesar WWII German Afrika Korps (H070),2010,47,35
+1887,Caesar WWII US Infantry Set 2 (H071),2010,46,36
+1888,Caesar WWII Italian Infantry (H072),2010,44,31
+1889,Caesar WWII British Commandos (H073),2010,46,27
+1890,Orion Cumans (Polovets) and Pechenegs (72034),2010,43,12
+1891,Orion Iberian Infantry (72035),2010,33,48
+1892,Orion Rus Mounted Knights (72033),2010,42,12
+1893,Orion Soviet Tankmen and Crew (Summer Dress) (72036),2010,45,39
+1894,Metch Lord Lovat's Commandos (172144),2010,36,23
+1895,GerMan Armed Civilians and Porch (1002),2010,,8
+1896,Mars Swedish Heavy Cavalry (72036),2010,33,12
+1897,Mars Imperial Mounted Arquebusiers (72037),2010,34,12
+1898,Mars Imperial Siege Artillery (72038),2010,39,18
+1899,Mars French Infantry and Guard (72039),2010,34,48
+1900,BUM Schneider Gun (5035),2010,,5
+1901,LW French Musketeers (2027),2010,38,42
+1902,Valdemar Medieval Repentance (VA131),2010,50,6
+1903,Valdemar Medieval Organ and Crew (VA132),2010,49,3
+1904,HaT WWI Belgian Carabinier Bicyclists (8275),2014,44,12
+1905,HaT Sassanid Light Infantry (8267),2013,43,32
+1906,HaT WW2 Japanese Bicycle Infantry (8278),2014,46,12
+1907,Strelets Russian Mountain Artillery (Winter Uniform) (113),2011,44,14
+1908,Strelets German Stormtroops (M055),2011,37,56
+1909,Strelets British Infantry in Gasmasks (M056),2011,35,48
+1910,Strelets French Infantry in Gas Masks (M057),2011,40,48
+1911,Strelets Russian Infantry in Gas Masks (M058),2011,38,48
+1912,Strelets Austro-Hungarian Infantry in Gas Masks (M059),2011,39,48
+1913,Strelets German Infantry in Gas Masks (M060),2011,38,48
+1914,Valdemar Medieval Hunting Party (VA111),2010,50,12
+1915,Valdemar Medieval Smithy (VA133),2010,46,9
+1916,Waterloo 1815 Italian Cavalry (001),2010,43,10
+1917,"Strelets Turkish Infantry, Winter Uniform (M066)",2011,35,48
+1918,Orion Soviet Quad Maxim AA MG and Crew (72037),2010,45,15
+1919,Orion Soviet DShK AA MG and Crew (72038),2010,43,15
+1920,Orion Hussite War Wagon and Command (72039),2011,39,6
+1921,RedBox Hussite Artillery (72038),2010,39,15
+1922,RedBox Hussite Infantry (72039),2011,39,36
+1923,Strelets British Siege Artillery (062),2011,39,14
+1924,Strelets French Field Artillery (065),2011,46,14
+1925,Metch Bunker Command and German Generals (172124),,,
+1926,Strelets Roman Transport (2) (117),2011,43,13
+1927,Strelets Romanian Infantry (M061),2011,39,48
+1928,Strelets Finnish Army 1939-42 (M062),2011,43,48
+1929,"Ykreol Division ""Handschar"" - Yugoslavia 1943 (YK12)",2006,,39
+1930,Zvezda German Infantry 1939-42 (6105),2010,,10
+1931,Zvezda German Machinegun MG-34 with Crew (6106),2010,,4
+1932,Zvezda Soviet Infantry 1941-43 (6103),2010,,10
+1933,Zvezda Soviet Maxim Machinegun With Crew (6104),2010,,4
+1934,"Metch Arnhem, Too Far (172145)",2010,44,25
+1935,Strelets British Regiment of Horse (Late War) (255),2021,47,12
+1936,HaT Putilov 76mm M1902 Gun (8173),2011,,
+1937,HaT WWI British Cavalry (8272),2013,46,15
+1938,HaT WWI French Cavalry (8273),2013,46,15
+1939,HaT WWI Turkish Cavalry (8274),2013,46,15
+1940,Waterloo 1815 American 75mm Mountain Gun (038),2011,48,12
+1941,Preiser Modern US Army Seated Drivers & Soldiers (16564),,48,14
+1942,Preiser Modern US Army Tank Crew (16567),,,
+1943,Preiser Soviet Marine Light Infantry (16569),,44,11
+1944,Preiser German Field Wagon (16570),,,4
+1945,Preiser German Zundapp Motorcycles and Riders At Attention (16571),,49,6
+1946,First To Fight German Command (PL1939-018),2014,39,21
+1947,Preiser German Riflemen Lined Up (16573),,,36
+1948,Preiser German Zundapp Motorcycles with Riders (16575),2016,,5
+1949,Preiser German Small Arms Ammunition Carts (16576),,49,4
+1950,Preiser Russian Prisoners of War (16577),,48,22
+1951,Preiser German Prisoners of War (16578),,49,20
+1952,Preiser Zundapp Motorcycles with Crews Pushing (16580),2016,,4
+1953,Preiser German Riflemen with Mortar & Horse Lined Up (16585),,,8
+1954,Preiser German Horse Drawn Field Wagon Erfa (16588),,,4
+1955,Toxso Modern US Soldiers (1404),2014,40,19
+1956,Preiser PaK L/45 with Crew (16591),,50,5
+1957,Preiser Riflemen in Winter Uniform with Carts (16592),,46,6
+1958,Preiser East German Guard Battalion (16593),,50,27
+1959,Preiser Field Kitchen (16594),,50,6
+1960,Preiser Bicycle Unit Cycling and Walking (16596),,50,6
+1961,Preiser German Standing Draught Horses (16597),,50,2
+1962,Toxso M102 105mm Howitzer (1402),2014,43,5
+1963,Preiser Soviet Attacking Infantrymen in Winter Uniform (16600),,47,12
+1964,Preiser East German Frontier Guards (16601),,47,6
+1965,Toxso 10.5 cm s.K.18 (1407),2015,45,5
+1966,Preiser German Infantry Attacking in Winter Uniform (16604),,47,12
+1967,Preiser Soviet & German Infantry Close Combat Winter (16605),,46,16
+1969,RedBox Swiss Artillery (72065),2015,41,16
+1970,RedBox Russian Artillery (72071),2015,46,16
+1971,RedBox Russian Artillery (72072),2015,45,16
+1972,RedBox Battlefield Accessory Set (72073),2015,,
+1974,"Caesar European Knights, 15th Century (H091)",2010,48,30
+1975,Caesar Panzergrenadiers (Kharkov 1943) (HB01),2010,44,20
+1976,Caesar WWII Panzergrenadiers (Ardennes 1944) (HB02),2010,45,21
+1977,Caesar WWII German Panzer Crews (HB03),2010,49,18
+1978,LW German Knights (2026),,,
+1979,Preiser German Military Motorists (18366),,,12
+1980,Zvezda Soviet Engineers 1941-42 (6108),2011,,4
+1981,Zvezda German Sturmpioniere 1939-42 (6110),2011,,4
+1982,Zvezda Soviet Anti-Tank Team (6135),2011,,4
+1983,Zvezda German Paratroops (6136),2011,,4
+1984,Zvezda Soviet Reconnaissance Team (6137),2011,,4
+1985,Zvezda Soviet Paratroopers (6138),2012,,4
+1986,Zvezda Soviet Naval Infantry (6146),2011,,4
+1987,Zvezda German Reconnaissance Team (6153),2011,,4
+1988,Zvezda German Gebirgsjäger (6154),2012,,4
+1989,Zvezda Soviet Cavalry (6161),2012,,2
+1990,Zvezda Ashigaru-yari (6401),2012,,5
+1991,Zvezda Ashigaru with Arquebus (6402),2012,,5
+1992,Zvezda Samurai-Naginata (6403),2012,,5
+1993,Zvezda Samurai Archers (6404),2013,,5
+1994,Zvezda Samurai with Nodachi (6405),2012,,5
+1995,Zvezda Ninja (6406),2013,,5
+1996,Zvezda Mounted Samurai (6407),2012,,2
+1997,Strelets Ural Cossacks (064),2015,44,13
+1998,Strelets Roman Imperial Legion (Ceremonial March) (M101),2015,44,40
+1999,Strelets Republican Roman Legion (Ceremonial March) (M102),2015,44,40
+2000,Zvezda Samurai Commanders (6411),2012,,4
+2002,Zvezda French Napoleonic HQ Staff (8080),2011,46,18
+2003,Mars Imperial Light Infantry (72043),2011,32,48
+2004,Orion Soviet Artillery Crew (72041),2011,38,37
+2007,Valdemar Medieval Grieving Persons (VA136),2010,46,5
+2008,Valdemar Medieval Mobile Bakery (VA134),2010,50,3
+2009,Valdemar Medieval Civilians/Ship Crew Set 2 (VA135),2010,50,8
+2010,RedBox Mounted Men at Arms (72045),2014,41,12
+2011,Revell British Infantry WWII (02597),,,
+2012,Revell German Infantry WWII (02598),,,
+2013,Ykreol Wellington's Staff (YK13),2005,,42
+2014,HaT WWI Highlanders (8235),2011,37,32
+2015,HaT WWI Indian Infantry (8236),2011,41,32
+2016,HaT Dervish Warriors (8271),2011,41,32
+2017,Valiant German IF8 Infantry Cart (VM005),2011,,2
+2018,Mars Swedish Mercenary Dragoons (72040),2011,25,12
+2019,Mars Imperial Heavy Cavalry (72041),2011,35,12
+2020,Mars Teutonic Knights (72050),2011,32,12
+2021,Mars Polish Knights (72051),2011,32,12
+2022,Revell American Infantry WWII (02599),,,
+2023,Strelets 6-Inch Mk VII Cannon with British Crew (A001),2012,40,12
+2024,Strelets 8 Inch Mk VII Howitzer (A002),2013,40,10
+2025,Strelets 8 Inch Mk II Howitzer with Early British Crew (A003),2012,41,10
+2026,Strelets 6 Inch Mk XIX Cannon (A004),2013,42,12
+2027,Orion Modern Israeli Army (Set 2) (72040),2011,40,48
+2028,RedBox Men-at-Arms and Retinue (72040),2011,34,30
+2030,Caesar WWII German Cavalry Division (H092),2016,48,13
+2031,Caesar Modern US Soldiers in Action (Set 2) (H094),2016,45,19
+2032,Caesar WWII German Command Staff with Kübelwagen (H095),2016,43,10
+2033,Caesar WWII German Sd.Kfz.2 Kettenkrad & Raketenwerfer 43 (H096),2017,44,10
+2034,Caesar Modern US Soldiers in Action (HB11),2014,43,24
+2035,Strelets Polish Troops in Attack (144),2017,46,47
+2036,Strelets WWI French Field Kitchen (292),2021,38,16
+2037,Strelets Russian Hussars in Reserve (276),2021,46,17
+2038,Strelets British Infantry Firing Line (278),2021,46,49
+2039,Strelets British Dragoons (256),2022,47,12
+2040,Caesar Sportsmen Set I (HB20-1),2012,,25
+2041,Linear-A Neo-Assyrian Empire Infantry Set 1 (056),2024,47,40
+2045,Waterloo 1815 WWII German Cavalry (Set 1) (025),2012,45,12
+2046,Waterloo 1815 WWII US Mountain Troops (031),2012,44,27
+2047,Waterloo 1815 Roger's Rangers (035),2012,40,30
+2048,Waterloo 1815 British Paratroopers with Pack Howitzer (036),2012,46,18
+2049,"Waterloo 1815 Italian Tank, Vehicle and Artillery Crews (037)",2012,46,18
+2050,GerMan King's Musketeers (0012),,,
+2051,GerMan Cardinal Richelieu (0013),,,
+2052,BUM Roger's Rangers (2001),2011,36,24
+2053,BUM Whaleboat Rangers (2002),2011,44,6
+2054,BUM Rangers and Canoes (2003),2011,40,9
+2055,BUM Cabin Attack (2004),2011,,13
+2056,BUM Ambush! (2005),2011,30,11
+2057,BUM Massacre! (2006),2011,37,14
+2058,BUM Huron Hut (2007),2012,,13
+2059,BUM Huron's Camp (2011),2012,,9
+2060,Ultima Ratio WWII Soviet & Polish Infantry (UR003),2015,41,42
+2061,BUM Bedroom Fort-West (2114),2013,,3
+2062,BUM French Bombard (2025),2011,35,4
+2063,BUM Forge Fort-West (2115),2013,,4
+2064,HaT WWII French Artillery Crew (8162),2018,42,32
+2065,Metch Japan Chi-Ro Tank Type 89 (172130),,,
+2066,Metch Japanese Armoured Car Sumida (172131),,,
+2067,Metch Japanese Artillery Tractor HO-FU (172132),,,
+2068,Metch Japanese CHI-HE Tank (172133),,,
+2069,Metch Japanese Isuzu Truck (172134),,,
+2070,Metch Iwo-Jima Defences (172136),,,
+2071,Pobeda Putilov Garfort (72351),,,
+2072,Pobeda Gazz AA Truck (72352),,,
+2073,Pobeda Austin Putilov S1 (72353),,,
+2074,Pobeda Lanchester 1918 (72354),,,
+2075,Pobeda Russian Civil War Trenches (72355),,,
+2076,Metch Armoured Car Fordson (172140),,,
+2077,Metch Matilda Tank (172141),,,
+2078,Metch Crusader Tank (172142),,,
+2079,BUM Condor Legion Artillery (5045),,,
+2080,BUM Nationalist Heavy Artillery (5046),,,
+2081,BUM Alcazar de Toledo Siege (5050),,,
+2082,BUM Siege of Toledo Alcazar (5051),,,
+2083,BUM Lanchester Asturias 1936 (5053),,,
+2084,Zvezda German Anti-Tank Gun PaK-36 with Crew (6114),2011,,2
+2085,Linear-B Roman Transport (116),2011,41,13
+2086,Strelets Mamelukes (120),2011,41,12
+2087,HaT Napoleonic 1815 French Marching (8294),2018,39,24
+2088,HaT Seven Years War Austrian Sampler (8295),2019,,33
+2089,HaT Napoleonic Early-Mid French Marching (8296),2018,42,24
+2090,HaT Napoleonic French Command (8297),2018,43,24
+2091,HaT Huns (8298),2014,41,15
+2092,HaT 7YW Prussian Infantry Marching (8280),2013,42,40
+2093,HaT 7YW Prussian Infantry Action (8281),2013,38,40
+2094,HaT 7YW Prussian Infantry Command (8282),2013,47,24
+2095,HaT WW2 German Bicycle Infantry (8277),2014,45,12
+2096,HaT Colonial Ox Wagon (8286),2019,39,6
+2097,HaT Colonial General Service Wagon (8287),2019,45,6
+2098,HaT Colonial British Dragoons (8288),2014,44,15
+2099,HaT Colonial Bengal Lancers (8289),2014,43,12
+2100,HaT WWI German Jäger Bicyclists (8276),2014,44,12
+2101,HaT WWI Belgian Heavy Weapons (8291),2018,41,24
+2102,HaT British Infantry (Early) (8292),2016,42,32
+2103,HaT British Infantry (Tropical) (8293),2016,41,32
+2104,Strelets French Line Infantry in Egypt (M068),2011,40,56
+2105,Strelets French Light Infantry in Egypt (M069),2011,40,56
+2106,Strelets British Line Infantry in Egypt (M070),2011,40,52
+2107,Strelets British Light Infantry in Egypt (M071),2011,39,56
+2108,Strelets Regular Cavalry RKKA (125),2013,41,12
+2109,Strelets Crusader Transport 1 (126),2013,36,13
+2110,Strelets French Hussars in Egypt (118),2012,38,13
+2111,Strelets British Cavalry (Egypt) (119),2012,43,12
+2112,Mars Ukrainian Defenders (72138),2023,43,40
+2113,Strelets 1745 British Artillery (284),2023,41,10
+2114,Strelets German States' Cuirassiers in Skirmish (268),2023,46,12
+2115,BUM Huron's River (2008),2011,44,10
+2116,Zvezda Soviet 45-mm Anti-Tank Gun with Crew (6112),2011,,2
+2117,Mars Spanish Tertio (72042),2011,30,48
+2118,Ykreol WWII German Staff 1939-45 (YK16),2003,,42
+2119,Metch Japanese Daihatsu Landing Craft (172172),2011,,3
+2120,Metch T-40 Fuel Truck (172138),2011,,6
+2121,Caesar British Army (H060),2011,40,33
+2122,Caesar WWII Late War German Army (H074),2011,46,34
+2123,Caesar WWII Italian Paratroopers (H075),2011,45,33
+2124,Caesar German Army with Camouflage Cape (HB04),2011,44,34
+2127,Strelets Moroccan Goumiers (M151),2021,43,52
+2128,Ultima Ratio WWII Soviet Mountain Troops (UR004),2015,42,33
+2129,BUM Western Fort Stable (2113),2013,,3
+2130,Waterloo 1815 French Line Voltigeurs at Waterloo (062),2016,39,28
+2131,Waterloo 1815 1815 French Line Infantry Fusiliers Marching (061),2016,46,24
+2132,Waterloo 1815 Prussian Officers & High Staff 1813-15 (058),2018,44,12
+2133,Mars Swedish Infantry (72094),2016,40,48
+2134,Metch Operation Jubilee - Dieppe (172143),,,14
+2135,"Metch Operation Deathstick, D-Day (172148)",2012,,15
+2136,"Metch Arnhem, Bridge House (172150)",2012,,13
+2137,Mars Polish Siege Bombard (72062),2013,40,24
+2138,Mars French Dismounted Dragoons (72078),2014,34,48
+2139,First To Fight Pak 36 German Antitank Gun (PL1939-022),2015,40,6
+2140,Strelets Early WWII American Soldiers 2 (M113),2016,37,52
+2141,Strelets WWII Japanese Troops in Tropical Uniform (M114),2016,41,52
+2142,RedBox Russian War Monks (72086),2015,41,40
+2143,RedBox Russian War Monk Artillery (72087),2015,40,20
+2144,RedBox Osman Eyalet Infantry 16-17th Century (72088),2016,41,35
+2145,RedBox Osman Yeniceri Infantry 16-17th Century (72089),2016,41,34
+2146,Caesar WWII German Infantry Marching (H081),2015,48,38
+2147,Caesar WWII German Infantry in Smocks - Winter (H083),2015,45,
+2148,Caesar WWII German Artillery/Howitzer Crews (H084),2015,47,33
+2149,Caesar WWII German Panzer Unit in Combat (H085),2015,42,34
+2150,Caesar WWII German Anti-aircraft Crews (H089),2015,48,33
+2151,Ultima Ratio Soviet Motorized Infantry Spetsnaz (UR002),2015,39,39
+2152,"RedBox European Light Cavalry, 16th Century Set 2 (72085)",2015,40,12
+2154,First To Fight German 7.5 cm LE.IG Infantry Gun (PL1939-031),,,
+2155,Zvezda Soviet 37 mm Anti-aircraft Gun 61-K (6115),2013,,2
+2156,Hasegawa 88mm Gun Flak 18 (31110),1991,36,6
+2157,Hasegawa 88mm Gun Flak 36 (31138),1997,,6
+2158,Hasegawa U.S. Jeep Willys M.B. Cargo 37mm Gun (31101),1991,22,8
+2159,Revell Soviet Spetsnaz (1980) (02533),1988,,50
+2160,Linear-B Roman Market (072),2011,46,68
+2161,Linear-B Spartacus Uprising (073),2011,32,52
+2162,Italeri Japanese M92 Light Howitzer and AT Team (6164),2009,,16
+2163,Italeri Cannone da 149/40 with Crew (6165),2009,,9
+2164,Revell WWII Japanese Infantry (02528),,,
+2165,Revell WWII ANZAC Infantry (02529),,,
+2166,Caesar US Paratroopers (H076),2012,43,34
+2167,Mars Teutonic Foot Sergeants (72052),2012,20,48
+2168,Mars Teutonic Mounted Sergeants (72053),2012,33,12
+2169,Mars Teutonic Mounted Crossbowmen (72054),2012,33,12
+2170,HaT Napoleonic Prussian Infantry Sampler (8329),2019,,29
+2171,Linear-A The Folk of Judea (001),2016,43,44
+2172,HaT Napoleonic Mounted Officers (8279),2012,45,12
+2173,Linear-B Roman Port (002),2012,38,48
+2174,BUM St.Francis Settlement (2013),2012,,15
+2175,Linear-B Roman Tavern (003),2012,41,48
+2176,Strelets Spartacus Army (M077),2018,43,48
+2177,Strelets Roman Republican Legion on the March (M078),2012,44,56
+2178,Strelets Roman Republican Legion in Battle (M079),2012,37,48
+2179,Strelets Roman Republican Legion Before Battle (M080),2012,42,56
+2180,Strelets Italian Army in Winter Dress (Stalingrad) (M082),2012,41,56
+2181,Strelets Hungarian Army in Winter Dress (Stalingrad) (M083),2012,42,56
+2182,Strelets Crusader Transport 2 (127),2013,37,18
+2183,Revell WWII British Commandos (02530),,,
+2184,Revell NATO Pilots (Modern) (02402),2012,50,28
+2185,Zvezda British Infantry (6166),2012,,5
+2186,Zvezda British Machine Gun Crew (6167),2012,,4
+2187,Zvezda British 3 Inch Mortar with Crew (6168),2012,,4
+2188,First To Fight German Infantry Support Weapons (PL1939-020),2015,41,15
+2189,Zvezda German Elite Troops (6180),2014,,5
+2190,Zvezda German Medical Personnel (6143),2012,,4
+2191,Zvezda German Regular Infantry (6178),2012,,5
+2192,Zvezda Soviet Medical Personnel (6152),2013,,4
+2193,Zvezda Soviet Militia (6181),2014,,5
+2194,Zvezda Soviet Regular Infantry (6179),2012,,5
+2195,Plastic Soldier Late War US Infantry (WW2020006),2013,45,51
+2196,RedBox Town & County Levy (72041),2012,40,40
+2197,Linear-B Roman Legion on the March (007),2007,,48
+2208,Strelets Norman Train (128),2013,41,10
+2209,Strelets Soviet Partisans in Winter Dress (M084),2013,38,52
+2210,Strelets Soviet Partisans in Summer Dress (M085),2013,38,52
+2211,Strelets Police Battalion (M086),2013,39,52
+2212,Valiant German Paratroops (VM006),2012,45,24
+2213,BUM French-Indian War Frontier Post (2012),2012,,7
+2214,Zvezda Ashigaru Archers (6414),2012,,5
+2215,Zvezda Peasants with Ammo Supply (6415),2013,,4
+2216,Zvezda Mounted Samurai Archers (6416),2013,,2
+2217,Strelets Japanese Imperial Airborne Troops (M104),2015,42,48
+2218,Zvezda French Line Infantry (6802),2014,,6
+2219,Strelets WWII Union of South Africa (M103),2015,39,52
+2220,Strelets 8th Army Australian Infantry in Attack (M155),2021,43,52
+2221,Strelets Caesar Army on the March (M087),2013,38,52
+2222,Strelets Caesar Army Before Battle (M088),2013,40,52
+2223,Strelets Caesar Army in Battle I (M089),2013,39,48
+2224,Strelets French Foreign Legion Heavy Weapons Squad (M152),2021,39,40
+2225,Pobeda Izhorsk Plant Tank (72332),,,
+2226,Pobeda T-34 Bunker Moscow Front (72333),,,
+2227,Pobeda Voroshilovets Tractor (72334),,,
+2228,Pobeda T-40 Light Amphibious Tank (72335),,,
+2229,Pobeda Dovunque-35 &105 Russian Front (72340),,,
+2230,Pobeda OT-133 Flamethrower (72336),,,
+2231,Pobeda Berlin Panther Ostwallturm (72510),,,
+2232,MM Swiss Vatican Guard (001),2012,46,37
+2236,Ultima Ratio Carthaginian Army: Iberian Infantry Part 1 (UR016),2024,38,27
+2237,RedBox Byzantine Cataphracts Set 2 (72154),2024,44,12
+2240,First To Fight Bofors 37 mm wz. 36 Polish AT Gun (PL1939-025),2015,43,6
+2242,Caesar Chinese Qing Dynasty Troopers (H033),2012,,25
+2243,Caesar Chinese Ming Dynasty Troopers (H032),2012,,30
+2244,Caesar Pharaoh's Chariot with Biblical Peasant (H042),2012,49,12
+2245,Caesar Astronauts and Spacecraft (HB21),2012,,5
+2246,"Valdemar Travelling People, Juggler and Acrobats (VA149)",2012,50,12
+2247,Valdemar Bath (VA143),2012,50,10
+2248,Valdemar Herald with Retinue (VA150),2012,50,9
+2249,Orion Soviet Tankmen and Crew (Winter Dress) (72042),2012,44,52
+2250,Ykreol Berlin 1945 (YK17),2007,,42
+2251,Ykreol Roman Siege Troops (YK18),2003,,24
+2252,Italeri US Infantry 90s (6168),,,
+2253,Italeri Soviet Special Forces 80s (6169),,,
+2254,Orion Byzantine Infantry (7th - 9th Century) (72043),2012,39,48
+2255,Orion Byzantine Infantry (10th - 13th Century) (72044),2012,41,48
+2256,"Metch Arnhem, Landings (172146)",2012,,16
+2257,Metch Arnhem Street Fighting (172147),2012,,11
+2258,"Metch Arnhem, Dutch Resistance (172149)",2012,,30
+2259,Mars French Field Artillery (72044),2012,37,18
+2260,Mars Teutonic Foot Knights (72057),2012,35,48
+2261,Zvezda Soviet 76mm Infantry Gun (6145),2012,,2
+2263,Orion German WWII Panzer Soldiers (Basic Set 1) (72045),2012,49,52
+2264,RedBox Continental Mercenaries (72042),2012,40,40
+2265,Plastic Soldier Russian ZiS 2/3 Gun (WW2G20002),2012,45,16
+2266,Ykreol Roman Republic Infantry (YK19),,,36
+2267,RedBox Scottish Troops (72043),2013,34,40
+2268,RedBox Irish Troops (72044),2013,40,40
+2269,Strelets Caesar Army in Defence (M090),2013,36,52
+2270,HaT Napoleonic Spanish Line Infantry (8302),2014,39,48
+2271,HaT British Infantry Command (8304),2012,47,24
+2272,HaT Napoleonic Spanish Command (8303),2014,48,40
+2273,HaT Zulu British Infantry Command (8299),2012,49,40
+2274,Strelets Imperial Roman Legion 1 (907),2012,47,168
+2280,Valiant German le FH 18 Howitzer and Crew (VM007),2012,41,5
+2281,Valiant German Artillery Crew (VM008),2012,,5
+2282,Caesar Sportsmen Set II (HB20-2),2012,,28
+2283,Caesar Sportsmen Set III (HB20-3),2012,,27
+2284,Zvezda German Motorcycle R-12 (6142),2012,,2
+2285,Zvezda German 20mm Anti-Aircraft Gun with Crew (6117),2012,,2
+2286,Armourfast leFH18 105mm Howitzer (89001),2012,39,8
+2287,Zvezda German 105mm Howitzer with Crew (6121),2011,,2
+2288,Waterloo 1815 Mussolini (060),2012,,24
+2289,RedBox Turkish Sailors 16-17th Century (72078),2015,34,40
+2290,RedBox Turkish Sailors in Battle 16-17th Century (72079),2015,33,36
+2291,RedBox Turkish Sailors Artillery 16-17th Century (72080),2015,34,20
+2292,RedBox English Sailors 16-17th Century (72081),2015,36,36
+2293,Valdemar Medieval Builders Set 2 (VA161),2012,49,13
+2294,Zvezda German 75mm Infantry Gun (6156),2012,,2
+2295,Zvezda British Anti-tank Gun Ordnance QF 2 pdr (6169),2012,,2
+2296,Caesar German Soldiers with Tank Riders (H077),2013,46,37
+2297,Caesar Counter-Terrorist Elite Forces (H082),2013,43,32
+2298,Caesar Dismounted Crusaders (H086),2013,47,42
+2299,Caesar Medieval European Knights 13th Century (H087),2013,45,36
+2300,Caesar European Medieval Foot Soldiers and Archers (H088),2013,46,36
+2301,Caesar German Infantry (CM7711),2012,,16
+2302,Caesar German Paratroopers (CM7712),2012,,16
+2303,Caesar German Afrikakorps (CM7713),2012,,16
+2304,Caesar German Panzergrenadier (Normandy 1944) (CM7716),2012,,16
+2305,Caesar German Panzergrenadiers (Camouflage Capes) (CM7717),2012,,16
+2306,Mars Polish Infantry (72047),2012,37,48
+2307,Mars Lithuanian Medium Cavalry (72058),2012,32,12
+2308,Mars Russian Medium Cavalry (72059),2012,38,12
+2309,Mars Lithuanian-Russian Light Infantry (72060),2012,33,48
+2310,Linear-B Spartacus Uprising Defeat (006),2013,46,52
+2311,Linear-B Roman Construction (004),2013,39,56
+2312,Linear-B Roman Valetudinarium (005),2013,40,52
+2313,Eduard Czech Air Force (7501),2008,,6
+2314,Eduard Royal Flying Corps 1917 (7503),2008,45,6
+2315,Revell British Paratroopers (Falklands War) (02596),,,
+2316,HaT Napoleonic British Heavy Dragoons (8308),2020,32,12
+2318,Strelets Norman Army Camp (909),2016,44,76
+2319,Strelets Catapult with Roman Crew (A009),2013,25,11
+2320,Strelets Ancient Christians (130),2013,46,52
+2321,Strelets Turkish Infantry in Summer Uniform (M092),2013,40,48
+2322,Mars Spanish Infantry (Later) (72076),2013,,48
+2323,Strelets British Line Infantry in Overcoats - 1 (M094),2014,40,52
+2324,Strelets Shaab with Crusader Crew (A010),2013,31,12
+2325,RedBox British Infantry (72049),2013,45,43
+2326,RedBox Highland Infantry (72050),2013,42,43
+2327,RedBox Militia and Loyalist Troops (72051),2013,43,43
+2328,RedBox Landsknechts Heavy Pikemen (72068),2015,37,24
+2329,Mars French Mounted Guards Royal Musketeers (72045),2013,37,12
+2330,Mars French Mounted Guards of Cardinal Richelieu (72046),2013,36,12
+2331,Mars Lithuanian Tatars Light Cavalry (72055),2013,32,12
+2332,Mars Lithuanian Light Cavalry (72056),2013,32,12
+2333,Mars Algerian Pirates (72072),2013,34,48
+2334,Zvezda German Headquarters (6133),2016,,4
+2335,Zvezda Soviet Sniper Team (6193),2014,,4
+2336,Strelets Roman Imperial Legion Ranks (M100),2015,,40
+2337,Zvezda Soviet Infantry in Winter Uniform (6197),2013,,5
+2338,Zvezda German Infantry in Winter Uniform (6198),2013,,5
+2339,Zvezda Soviet Ski Troops (6199),2014,,5
+2340,Zvezda British Engineers (6219),2014,,4
+2341,Zvezda Soviet Machine Gun 'Maxim' with Crew (Winter) (6220),2014,,4
+2342,Zvezda British Recon Team (6226),2014,,4
+2343,Zvezda British Medical Personnel (6228),2015,,4
+2344,Strelets WWII Early American Soldiers (M105),2015,38,52
+2345,Strelets Russian Jaegers in Summer Dress (288),2021,48,44
+2346,RedBox European Mercenaries Light Horse (72054),2015,41,12
+2347,Zvezda Soviet Motorized Infantry (7404),2013,,5
+2348,Zvezda U.S. Mechanized Infantry (7407),2013,,5
+2349,"Zvezda Soviet Machine Gun NSV 12,7 'Utes' (7411)",2014,,3
+2350,Zvezda Soviet SAM SA-18 'Grouse' (7412),2014,,4
+2351,Zvezda Soviet Anti-Tank Missile System AT-7 'Saxhorn' (7413),2014,,3
+2352,Zvezda US Machine Gun M2 'Browning' (7414),2014,,3
+2353,Zvezda American M-47 Dragon Anti-Tank Missile System (7415),2014,,3
+2354,Zvezda US SAM FIM-92 'Stinger' (7416),2014,,4
+2355,Zvezda Soviet 82mm Mortar with Crew (Winter) (6208),2013,,4
+2356,Zvezda German 80mm Mortar with Winter Crew (6209),2013,,4
+2357,Zvezda German Machine Gun with Crew (Winter) (6210),2013,,3
+2358,Strelets Roman Senate 1 (137),2015,41,36
+2359,Plastic Soldier German PaK 38 Anti Tank Gun (WW2G20003),2013,50,24
+2360,RedBox WW2 Japanese Kamikaze (72048),2013,50,42
+2361,RedBox WW2 Japanese Army Aviation Pilots and Ground Crew (72052),2013,47,42
+2362,Mars Polish Field Artillery (72077),2014,37,32
+2363,Revell Afrika Korps (02616),,,
+2364,Mars Barbarian Pirates (72071),2014,37,48
+2365,RedBox WW2 IJN Pilots and Ground Crew (72053),2013,49,42
+2366,Italeri Japanese Infantry (6170),1982,,50
+2367,GerMan Battle of Gibraltar 1704 (1030),,,
+2368,GerMan Catalan Bay Gibraltar Assault (1031),,,
+2369,Metch Destroyer Tank Ho-Chi (172135),,,
+2370,Metch US Marines on Pacific - Peleilu Mud Trenches (172190),,,
+2371,Metch US Navy Fu-Corsair (172191),,,
+2372,Zvezda Soviet 122mm Howitzer (6122),2011,,2
+2373,Zvezda German Heavy Anti-Aircraft Gun (6158),2011,,4
+2374,Zvezda British Bofors 40-mm MkI/II AA-Gun (6170),2013,,4
+2375,Mars Polish Pahioki (72074),2013,35,48
+2381,Mars Eastern Mercenaries in Winter Dress (72075),2013,37,48
+2383,Strelets German Army in Stalingrad (M093),2013,41,48
+2384,Mars Late Mycenaean Heavy Infantry (72085),2013,32,30
+2385,Mars Polish Field Artillery (72063),2013,44,16
+2388,Valiant British 6 pounder Anti-Tank Gun and Crew (VM009),2013,46,8
+2391,Strelets Polish Peoples Army (M095),2014,41,52
+2392,Strelets Finnish Army 1944 (M096),2014,42,52
+2393,Strelets British Line Infantry in Overcoats 2 (M097),2015,41,48
+2394,Strelets American Militia in Winter Dress 1812 (M098),2015,44,48
+2397,Waterloo 1815 Cromwell's Cavalry (033),2014,33,12
+2398,Mars Imperial Mercenary Infantry in Summer Dress (72048),2013,35,48
+2399,Mars Imperial Mercenary Infantry in Winter Dress (72049),2013,37,48
+2400,Mars Lithuanian-Russian Medium Infantry (72061),2013,39,48
+2401,Mars Polish Infantry (Early) (72073),2013,41,48
+2402,Waterloo 1815 Highland Infantry 1815 in Square (039),2014,45,41
+2403,RedBox Stradioti Set 1 (72074),2015,38,12
+2404,RedBox Jinetes Set 2 (72077),2015,38,12
+2408,First To Fight Polish Infantry (PL1939-019),2014,40,24
+2409,Linear-B Age of Tudors (012),2013,48,64
+2410,Zvezda Russian Dragoons Command (6817),2015,,3
+2411,Zvezda French Dragoons Command (6818),2015,,3
+2412,Plastic Soldier US Infantry Heavy Weapons (WW2020007),2014,42,57
+2413,Revell British 8th Army (02617),,,
+2414,Revell German Pak 40 & Soldiers (02531),2007,,12
+2415,RedBox Turkish Artillery (72066),2014,45,16
+2416,RedBox Landsknechts Heavy Infantry (72063),2015,38,32
+2417,RedBox Turkish Artillery (72067),2014,45,16
+2418,RedBox Landsknechts Artillery (72064),2015,41,16
+2419,Ykreol Samurai Warriors (YK22),,,32
+2420,Linear-B Roman Slave Market (076),2014,39,56
+2421,Linear-B Roman Peasantry (077),2014,38,40
+2422,Mars Polish 'Lisovchiki' (72079),2014,35,12
+2423,Mars Lithuanian Tartars (72080),2014,33,12
+2424,Mars Early Mycenaean Infantry (72086),2014,31,30
+2425,Mars Late Mycenaean Light Infantry (72087),2014,31,40
+2426,Valiant German Paratroop Heavy Weapons (VM010),2014,45,11
+2427,Strelets Russian Army Sledge Train 1 (135),2015,44,13
+2428,Strelets Russian Army Sledge Train 2 (136),2015,,13
+2429,Strelets WWI 9.2-inch British Siege Howitzer MK I (A012),2015,39,10
+2430,Strelets WWI 21 cm MRS 10 German Heavy Howitzer (A013),2015,38,10
+2431,Orion Soviet Tankmen and Crew (72046),2014,45,39
+2432,Strelets Bavarian Cuirassiers (258),2022,47,12
+2433,Waterloo 1815 WWII Italian Infantry (Campaign Dress) (040),2016,47,42
+2434,Waterloo 1815 Royal Italian Air Force Pilots and Crew (055),2016,44,16
+2435,Waterloo 1815 British Heavy Dragoons (053),2015,46,12
+2436,Waterloo 1815 French Line Lancers (054),2015,47,18
+2437,Ultima Ratio Mujahidins Taliban al-Qaeda (UR001),2014,44,39
+2442,Mars Wallachian Infantry (72081),2014,,48
+2443,Mars Sea Peoples (72088),2014,32,40
+2444,Mars Achaeans (72089),2014,28,40
+2445,RedBox Landsknechts (Sword/Arquebus) (72057),2014,36,34
+2446,RedBox Landsknechts (Pikemen) (72058),2014,40,20
+2447,RedBox Landsknechts (Halberdiers) (72059),2014,43,20
+2448,RedBox Swiss Infantry (Sword/Arquebus) (72060),2014,36,34
+2449,RedBox Swiss Pikemen (72061),2014,40,20
+2450,RedBox Swiss Halberdiers (72062),2014,43,20
+2451,RedBox European Mounted Men-at-Arms (72047),2016,38,12
+2452,HaT WWI Italian Arditi (8221),2021,27,48
+2453,HaT WWI Italian Heavy Weapons (8222),2021,38,32
+2454,HaT WWI Italian Infantry (8223),2021,37,48
+2455,HaT Prussian Landwehr Action (8310),2018,39,56
+2456,Strelets Austrian Grenadiers Winter Standing Shoulder Arms (206),2019,41,45
+2458,Linear-A Roman Army of Maximinus Thrax (1): Infantry (069),2024,47,40
+2459,Linear-A Legions of Gnaeus Pompeius Magnus (Set 1) (065),2025,45,20
+2460,Linear-A Roman Legion of Antonius in Egyptian Service (066),2024,42,41
+2461,Strelets French Guards Chasseurs (277),2021,46,15
+2462,Caesar German Infantry Tank Riders Winter Set 2 (H079),2016,48,34
+2463,Strelets Austrian Uhlans (275),2021,46,14
+2464,First To Fight German Infantry 1939 (PL1939-016),2014,38,24
+2465,Linear-B Mithridatic Heavy Infantry (078),2015,39,36
+2466,Plastic Soldier German Stowage and Tank Commanders (WW2V20021),2015,49,45
+2467,Mars Buccaneers (72082),2015,37,48
+2468,Preiser German Zundapp Motorcycles with Riders (72538),2016,48,5
+2469,Preiser Zundapp Motorcycles with Crews Pushing (72539),2016,45,4
+2470,Linear-A The Silk Road in Ancient Times (008),2018,46,28
+2471,Strelets Stamford Bridge (911),2016,43,158
+2472,Strelets Hastings 1066: Norman Army (910),2016,47,126
+2473,Strelets Hastings 1066: Anglo-Saxon Army (912),2016,37,158
+2474,Strelets Bashi-Bazouks (M054),2018,43,52
+2475,Strelets 8th Army Australian Heavy Weapons Squad (M156),2021,39,36
+2476,Strelets English Longbowmen (M117),2016,47,56
+2477,Strelets English Men-At-Arms 13th-14th Century (M118),2016,45,52
+2478,Mars Turkish Eyalet Infantry (72097),2016,31,48
+2479,RedBox Osman Sipahi Set 1 (72094),2016,39,12
+2480,Mars Swedish Dragoons (Set 2) (72095),2016,24,12
+2481,Mars Imperial Dragoons (72096),2016,25,12
+2482,RedBox Osman Sipahi Set 2 (72095),2016,36,12
+2483,Panzer vs Tanks Israeli IDF Advance Set (Mitznefet) (022),2015,50,12
+2484,Panzer vs Tanks Roman Legion Testudo (001),,,
+2485,RedBox Ukrainian Cossack Cavalry Set 1 (72125),2019,41,12
+2486,Panzer vs Tanks German Ground Crew Set 1 (003),2015,50,30
+2487,RedBox Ukrainian Cossack Cavalry Set 2 (72126),2019,39,12
+2488,Panzer vs Tanks US Navy Sailors Combat Set 2 (005),2016,50,30
+2489,Orion Local Communist Force (72056),2019,33,52
+2490,Linear-A Hannibal Crosses the Alps Set 3 (Elephants) (016),2020,47,10
+2491,Orion Turkish Cavalry (Deli) (72055),2019,45,12
+2492,RedBox Russian Line Infantry (72131),2019,45,34
+2493,RedBox Russian Grenadiers (72130),2019,42,34
+2494,RedBox Russian Light Infantry (72132),2019,44,36
+2495,Panzer vs Tanks German U-Boat Crew Set 1 (012),2016,50,30
+2496,Panzer vs Tanks German U-Boat Crew Set 2 (013),2016,50,30
+2497,Orion German Anti-Resistance Troops (72054),2019,38,48
+2498,Linear-A Napoleonic French Engineers (024),2026,46,20
+2499,Linear-A Hannibal Makes a Triumphal Entry in Italy (023),2020,46,24
+2500,Linear-A Roman Legion Set 2 (018),2021,44,48
+2501,Linear-A Battle of Cunaxa Set 2 (019),2021,37,48
+2502,Strelets Highlanders Standing Shoulder Arms (199),2019,47,45
+2503,Linear-A The Minoans (020),2021,41,48
+2504,HaT WWI Italian Sampler (8331),2021,,32
+2505,Strelets Spanish Pro-Bourbon Infantry (263),2025,46,52
+2506,Mars German Panzerjägers (72128),2022,44,40
+2507,Mars British Commonwealth Troops (72127),2022,42,40
+2508,Strelets WWI French Infantry in Summer Dress (M134),2019,40,52
+2509,Panzer vs Tanks Israel IDF Patrol Set 5 (027),2015,50,12
+2511,Valiant German Infantry 42-44 (FT001),2018,43,21
+2514,Linear-A Roman Legion Set 1 (017),2020,44,48
+2515,Linear-A German Warriors Set 1 (009),2018,41,48
+2516,RedBox Scottish Heavy Cavalry (72056),2016,44,12
+2517,RedBox Spanish Infantry (Set 1) (72096),2016,48,40
+2518,RedBox Italian Infantry (Set 1) (72099),2016,46,40
+2519,RedBox Scottish Light Cavalry (72108),2016,43,12
+2520,Caesar Chinese Han Dynasty Troopers (H043),2016,48,37
+2521,Strelets Indian Troops (M119),2016,39,56
+2525,Strelets Rif Rebellion (191),2019,39,14
+2526,Strelets Mounted Rif Rebels (190),2019,27,12
+2527,Strelets Pom-Pom Gun with Scottish Crew (189),2019,35,24
+2528,Strelets Prussian Hussars (155),2020,46,15
+2529,Valiant German 81mm Mortar and Tripod MG42 (FT002),2018,49,13
+2530,Linear-A Hannibal Crosses the Alps Set 2 (013),2020,41,12
+2531,Strelets French Foreign Legion Desert Patrol (192),2019,38,14
+2532,First To Fight 37mm Anti-Tank Gun with Uhlan Crew (PL1939-069),2019,41,8
+2533,Strelets Highlanders on the March (140),2016,47,44
+2534,Strelets Polish Infantry on the March (142),2016,48,44
+2535,Strelets Pom-Pom Gun with Boer Crew (188),2019,41,20
+2536,Strelets Bavarian Infantry Firing Line (273),2023,45,43
+2537,Orion WWII USA Tank Crew Winter Dress (72050),2019,41,48
+2538,Strelets French Foreign Legion WWII (187),2018,45,46
+2539,Strelets French Foreign Legion Early XX C. (186),2018,43,46
+2540,Strelets Foot Rif Rebels (185),2018,35,44
+2541,Mars German Naval Troops (72112),2018,35,40
+2542,Waterloo 1815 WWI Italian Cavalry (042),2020,43,10
+2543,Strelets Highlanders in Attack (146),2017,46,43
+2544,Strelets IJA Paratroopers (M120),2017,40,52
+2545,Mars Osman Siege Artillery (Mortar) (72098),2016,34,24
+2546,Mars Sobieski's Polish Infantry (72099),2016,29,48
+2547,Strelets Japanese Type 96 with Crew (139),2017,47,20
+2548,Billy V American Western Settlers + Conestoga Wagon (682),,,
+2549,Strelets Confederate Troops on the March (147),2017,43,48
+2550,Strelets US Infantry on the March (149),2017,43,48
+2551,Strelets US Troops in Attack (150),2017,44,47
+2552,Strelets US Cavalry Skirmishing (151),2017,44,28
+2553,Strelets Imperial Japanese Army Heavy Weapons Team (M121),2017,39,40
+2554,Strelets Turkish Infantry in Tropical Uniform (M122),2017,43,52
+2555,Strelets Imperial Camel Corps Dismounted (M123),2018,46,52
+2556,Revell Austrian Dragoons & Prussian Hussars (02453),,,
+2557,Revell Austrian & Prussian Infantry (02452),,,
+2558,Waterloo 1815 Napoleonic French Foot Dragoons (041),2017,47,52
+2559,Strelets US Infantry in Attack 2 (153),2017,45,47
+2560,HaT Austrians Marching (8322),2019,43,48
+2561,HaT Austrians Action (8323),2019,39,48
+2562,HaT Austrians Command (8324),2019,44,36
+2563,Linear-A Legions of Marcus Licinius Crassus (Set 1) (067),2025,47,20
+2564,Ultima Ratio Gladiators Retiarius Provokator (UR020),2023,40,24
+2565,Linear-A Imperial Roman Standards & Standard Bearers (2) (070),2024,49,40
+2566,RedBox Spanish Infantry (Set 2) (72097),2017,38,40
+2567,RedBox Spanish Infantry (Set 3 - Pike) (72098),2017,37,24
+2568,RedBox Italian Infantry (Set 2) (72100),2017,38,40
+2569,RedBox Italian Infantry (Set 3 - Pike) (72101),2017,36,24
+2570,RedBox Burgundian Infantry and Knights (Set 1) (72109),2017,40,32
+2571,RedBox Burgundian Infantry and Knights (Set 2) (72110),2017,41,32
+2572,Ultima Ratio Imperial Japanese Army Paratroopers (UR005),2017,42,33
+2573,Ultima Ratio Chindits (UR006),2017,42,33
+2574,Ultima Ratio Swiss Infantry (Uri) (UR007),2017,38,24
+2575,Ultima Ratio Swiss Infantry (Bern) (UR008),2017,41,24
+2576,Mars Burgundian Field Artillery (72067),2017,31,24
+2577,Mars Swedish Leather Guns (72100),2017,29,24
+2578,Mars Turkish Heavy Artillery (72101),2017,27,18
+2579,Strelets Imperial Japanese Army in Attack (M128),2017,41,52
+2580,Strelets WWII Indian Infantry Heavy Weapons (M129),2017,44,40
+2581,Strelets Arab Revolt Foot Rebels (M127),2017,39,52
+2582,Zvezda Soviet Headquarters in Winter Uniform (6231),2017,,4
+2583,Strelets Serbian Infantry in Winter Uniform (M126),2017,40,52
+2584,Strelets Pickett's Charge 2 (152),2017,42,46
+2585,Strelets British Infantry Standing at Ease (162),2017,45,40
+2586,RedBox Spanish Sailors Set 1 (72102),2017,46,40
+2587,RedBox Spanish Sailors In Battle Set 2 (72103),2017,45,36
+2588,RedBox Spanish Sailors Artillery Set 3 (72104),2017,46,28
+2589,RedBox Italian Sailors Set 1 (72105),2017,36,36
+2590,RedBox Italian Sailors Set 2 (72106),2017,38,40
+2591,RedBox Italian Sailors in Battle Set 3 (72107),2017,43,36
+2592,Linear-A Hannibal Crosses the Alps Set 1 (011),2018,43,50
+2593,Caesar WWII German Winter Unit with Pak 36 / Servants (H097),2017,45,25
+2594,Caesar WWII German Fallschirmjager Heavy Weapons (H098),2017,50,19
+2595,Caesar WWII German Panzer Crews (Set 2 Winter/Greatcoat) (HB05),2017,50,25
+2596,Strelets US Infantry Standing (157),2017,46,48
+2597,Strelets WWI Polish Infantry (Blue Army) (M130),2017,45,52
+2598,Strelets Creusot Long Tom 155mm Gun with Boer Crew (A014),2018,41,10
+2599,Strelets 105mm Cannon Schneider 1913 (A015),2019,47,10
+2600,Strelets Highlanders Standing at Ease (163),2017,46,40
+2601,Mars Austrian Infantry (Late 17th Century) (72102),2017,36,48
+2602,Mars Turkish Infantry (Tufekei) (72104),2017,37,48
+2603,Zvezda German Headquarters in Winter Uniform (6232),2017,,4
+2604,Strelets Red Cavalry in Summer Dress (164),2017,43,14
+2605,Strelets British Camel Corps (165),2018,43,13
+2606,Mars Turkish Field Artillery (72103),2017,34,24
+2607,Mars Turkish Headquarters (72105),2017,32,41
+2608,Strelets Australian Dismounted Camel Corps (M131),2018,44,52
+2609,Strelets Australian Camel Corps (166),2018,41,14
+2610,Strelets Turkish Camel Corps (167),2018,,13
+2611,Strelets Arab Uprising (172),2018,40,14
+2612,HaT Napoleonic Naval Cannon and Crew (8311),2004,,80
+2613,HaT British Marines and Fighting Sailors (8325),2004,,80
+2614,Strelets 8th Army Heavy Weapons Squad (M132),2018,46,45
+2615,Hasegawa Japanese Navy Airmen Set (35116),2018,50,16
+2616,Ultima Ratio Guards of Cardinal Richelieu (UR012),2018,43,24
+2617,Ultima Ratio Musketeers of the King of France (UR011),2018,48,24
+2618,Ultima Ratio Italian Militiamen 1260-1392 (UR010),2018,42,24
+2619,Ultima Ratio Medieval Gunpowder Castle Artillery (UR009),2018,42,24
+2620,Strelets French Line Infantry on the March 1 (173),2019,38,44
+2621,Strelets Confederate Skirmishing (158),2018,43,49
+2622,Strelets sPzB41 AT Gun with DAK Crew (M158),2021,37,32
+2623,Strelets Landwehr on the March (168),2018,47,44
+2624,Strelets Landwehr Standing at Ease (169),2018,47,47
+2625,Strelets Old Guard Standing at Ease (170),2018,44,44
+2626,Strelets Old Guard at Attention (171),2018,40,44
+2627,Zvezda German Anti-Tank Rifle Team (6216),2018,,4
+2628,Zvezda German Sniper Team (6217),2018,,4
+2629,Waterloo 1815 WWI Italian Infantry Set 2 (043),2018,44,51
+2630,Waterloo 1815 WWI Italian Elite Troops (Arditi) (044),,,
+2631,HaT Unmarried Zulu Warriors (8316),2018,39,60
+2632,Italeri British Infantry/Sepoys (6187),1986,,50
+2633,Italeri British 11th Hussars (6188),1985,,12
+2634,Italeri WWII Free French Infantry (6189),1982,,49
+2635,Italeri Warsaw Pact Troops (1980s) (6190),1989,,48
+2636,Italeri NATO Troops (1980s) (6191),1989,,48
+2637,RedBox Moscow Infantry (Ratniki) Set 1 (72111),2018,45,28
+2638,RedBox Moscow Infantry (Ratniki) Set 2 (72112),2018,43,40
+2639,RedBox Moscow Infantry (Pishalniki) (72113),2018,47,48
+2640,RedBox Ukrainian Cossack (Infantry) Set 1 (72114),2018,46,28
+2641,RedBox Ukrainian Cossack (Infantry) Set 2 (72115),2018,44,40
+2642,RedBox Ukrainian Cossack (Infantry) Set 3 (72116),2018,48,48
+2643,Mars German Elite Division (Normandy 1944-45) (72106),2018,29,40
+2644,Mars Imperial Japanese Infantry WWII (72107),2018,35,40
+2645,Strelets Prussian Line Infantry on the March (174),2018,48,44
+2646,RedBox Russian Guard Infantry (72129),2019,41,34
+2647,Caesar Mid-East Militia (Iraq & Syria) (H101),2018,46,33
+2648,Caesar Modern Western Tank Crews Set 1 (Germany & Israel) (H102),2018,,32
+2649,Caesar Modern US Army Tank Crews and Armored Force (H103),2018,48,34
+2650,Caesar WWII German Tank Riders (Camouflage Suit) (H099),2018,48,33
+2651,Strelets Austrian Cuirassiers (257),2022,44,12
+2652,Mars German Panzergrenadiers (72108),2018,32,40
+2653,Strelets Japanese Type 38 75mm Field Gun (176),2018,42,21
+2654,RedBox Chinese Light Cavalry (72117),2018,36,12
+2655,RedBox Chinese Medium Cavalry (72118),2018,42,12
+2656,RedBox Chinese Heavy Cavalry (72119),2018,39,12
+2657,RedBox Korean Light Cavalry (72120),2018,,12
+2658,RedBox Korean Heavy Cavalry Set 1 (72121),2018,,12
+2659,RedBox Korean Heavy Cavalry Set 2 (72122),2018,,12
+2660,RedBox Korean Guerrilla Cavalry (72123),2018,,12
+2661,RedBox Burgundian Crossbowmen (72124),2018,36,32
+2662,First To Fight Polish Artillery (PL1939-055),2018,37,16
+2663,First To Fight German Artillery (PL1939-056),2018,36,14
+2664,Linear-A Germanic Warriors Set 2 (Command) (010),2019,44,40
+2665,Linear-A Battle of Cunaxa Set 1 (015),2018,40,37
+2666,Linear-A The Etruscans Set 1 (014),2018,43,34
+2667,Strelets Union Infantry Firing (159),2018,46,47
+2668,Strelets Pickett's Charge 3 (178),2018,38,40
+2669,Strelets US Infantry in Attack 3 (179),2018,44,39
+2670,Strelets French Line Infantry Standing at Attention (184),2018,42,44
+2671,HaT Napoleonic French in Greatcoats (8234),2018,38,20
+2672,Mars Imperial Japanese Paratroopers (72109),2018,32,40
+2673,Mars Luftwaffe Field Division (72110),2019,39,40
+2674,Mars German Elite Infantry (Winter Dress) (72111),2018,39,40
+2675,First To Fight Polish Motorised Artillery Crew (PL1939-057),2018,44,16
+2676,Strelets British 15 pdr 7 cwt BL Gun (177),2018,45,21
+2677,Strelets Prussian Infantry Standing Shoulder Arms (180),2019,46,45
+2678,Strelets Old Guard on the March (181),2019,43,44
+2679,Strelets 30 pdr Parrott Rifle with US Crew (182),2018,31,21
+2680,Strelets 12 pdr Whitworth Rifle with Confederate Crew (183),2018,40,21
+2681,Strelets Cannone da 105/28 Schneider Ansaldo (A016),2019,47,10
+2682,Strelets British Infantry Standing Shoulder Arms (202),2019,48,45
+2683,HaT Napoleonic Austrian Infantry Marching (8326),2020,43,48
+2684,HaT Napoleonic Austrian Infantry Action (8327),2020,35,48
+2685,HaT Napoleonic Austrian Infantry Command (8328),2020,45,36
+2686,HaT American Civil War Marching (1) (8319),2020,47,48
+2687,HaT American Civil War Command (8320),2020,45,36
+2688,Strelets French Line Infantry on the March 2 (220),2019,36,44
+2689,First To Fight Polish Uhlan Command Dismounted (PL1939-067),2019,31,15
+2690,RedBox Guards of Cardinal Richelieu (72147),2020,44,44
+2691,HaT American Civil War Marching (2) (8332),2020,47,48
+2692,Strelets British Infantry Skirmishing (M133),2019,46,56
+2693,Strelets French Line Infantry at Ease (225),2019,43,48
+2694,Strelets Japanese Type 98 20mm AA/AT Gun (226),2019,43,20
+2695,Strelets 155 mm Cannon GPF Mod 1917 (A018),2019,41,10
+2696,HaT Napoleonic Spanish Infantry Sampler (8330),2019,,38
+2697,Strelets Highlanders Standing Order Arms (200),2019,48,45
+2698,Strelets British Infantry Standing Order Arms (201),2019,49,45
+2699,Strelets Austrian Grenadiers in Winter Dress on the March (209),2019,38,45
+2700,Strelets Prussian Line Infantry Standing Order Arms (211),2020,45,45
+2701,Strelets Russian Infantry on the March 1 (212),2019,46,45
+2703,Strelets Russian Infantry Standing Order Arms (217),2019,49,45
+2704,Strelets Russian Infantry in Overcoats Standing Order Arms (219),2019,49,45
+2705,Linear-A Margiana (044),,,
+2706,Strelets Boer Field Artillery (224),2019,40,14
+2707,Strelets Brunswick Light Guards Battalion (154),2019,45,45
+2708,Strelets Boer Infantry (M138),2019,43,56
+2709,Strelets British Infantry in Attack 1701-1714 (231),2019,45,44
+2710,HaT El Cid Moorish Cavalry Sampler (8339),,,
+2711,First To Fight Polish Uhlans on Horses 1939 (PL1939-071),2019,37,6
+2712,Linear-A Samnite Wars Set 1 (026),2021,40,40
+2713,Linear-A The Army of Pyrrhus of Epirus (Set 1) (028),2021,43,24
+2714,Linear-A Roman Anti-Elephant Wagon (029),2025,,6
+2715,Linear-A Tarentine Horsemen of Magna Graecia (030),2021,44,12
+2716,Linear-A The Army of Athens (031),2022,44,48
+2717,Strelets British Infantry in Advance 1701-1714 (230),2019,46,44
+2718,Ultima Ratio Gladiators Myrmillo Secutor Szissor (UR013),2019,49,24
+2719,Strelets Anglo-Saxon Fyrd (M140),,,
+2720,Strelets Housecarls of King Harold (M141),,,
+2721,Strelets Medieval City Levy (248),,,
+2722,Zvezda Soviet 120mm Mortar and Crew (6147),2020,,4
+2723,Zvezda German 120mm Mortar with Crew (6268),2020,,5
+2724,Zvezda Soviet Machine Gun Squad (6269),2020,,5
+2725,Zvezda German Panzergrenadiers (6270),2020,,5
+2726,Zvezda Soviet Assault Engineers (6271),2021,,4
+2727,"Zvezda Volkssturm, Berlin 1945 (6272)",2021,,5
+2728,Linear-A Trajan's Legions vs Dacians (Set 1) (032),2025,39,48
+2729,First To Fight Polish Uhlans Command on Horses 1939 (PL1939-072),2019,35,6
+2730,Strelets Confederate Infantry in Defence (249),2019,41,49
+2731,Strelets Highlanders 1899-1902 (M139),2020,43,52
+2732,Mars Finnish Army (Winter Dress) 1942-1944 (72114),2019,32,37
+2733,"Linear-A Vigiles Urbani ""Cohortes Vigilum"" (001s)",2020,31,4
+2734,Linear-A Sacrifice Before the Battle (002s),2020,42,4
+2735,Linear-A Legionary Recruits Training (003s),2020,40,4
+2736,Linear-A Waterloo After the Battle French Disaster (004s),2021,39,4
+2737,Linear-A Hittite King Muršili I with Royal Bodyguard (007s),2026,,5
+2738,Linear-A Roman Artillery Set 2 - Onager (092),2024,30,8
+2739,Linear-A Roman Artillery Set 3 - Scorpio (009s),2023,45,6
+2740,Linear-A Hannibal vs Scipio (010s),2023,43,4
+2741,Linear-A Waterloo After the Battle British Disaster (005s),2021,33,4
+2742,Strelets French Fusiliers (Early War) (236),2020,43,44
+2743,Strelets British Infantry Firing Line 1701-1714 (232),2019,45,44
+2745,Strelets Austrian Grenadiers Standing Shoulder Arms (204),2020,41,45
+2747,Strelets Bavarian Infantry at Ease (270),2020,47,44
+2749,Linear-A Indus Culture (Set 1) (042),2024,44,40
+2750,Strelets Bavarian Infantry in Attack (227),2020,41,48
+2751,Strelets Prussian Uhlans (228),2020,46,15
+2752,Strelets Prussian Dragoons (229),2020,44,15
+2753,Strelets Finnish Anti-Tank Squad in Summer Dress (245),2020,40,28
+2754,Strelets Finnish Anti-Tank Squad in Winter Dress (246),2020,42,28
+2755,Strelets American Anti-Tank Squad (247),2020,45,28
+2756,Linear-A Seleucid Infantry Phalanx Set 1 (033),2021,40,24
+2757,Linear-A Ptolemaic Infantry Phalanx Set 1 (034),2021,41,24
+2759,Linear-A Battle of Cunaxa Set 3 (Persian Cavalry) (036),2022,45,12
+2760,RedBox Moscow Noble Cavalry (Siege of Pskov) Set 1 (72127),2020,41,12
+2761,RedBox Moscow Noble Cavalry (Siege of Pskov) Set 2 (72128),2020,41,12
+2762,RedBox Moscow Noble Cavalry (Siege of Kazan) Set 1 (72133),2020,41,12
+2763,RedBox Moscow Noble Cavalry (Siege of Kazan) Set 2 (72134),2020,43,12
+2764,RedBox Moscow Noble Cavalry (Battle of Orsha) Set 1 (72135),2020,42,12
+2765,RedBox Moscow Noble Cavalry (Battle of Orsha) Set 2 (72136),2020,41,12
+2766,Strelets French Musketeers Firing (234),2020,42,44
+2767,Mars Russian Infantry (72115),2020,37,40
+2768,Linear-A The Victory of Waterloo (006s),2021,35,4
+2769,Linear-A Hannibal Crosses the Alps Set 5 (025),2021,43,48
+2770,Linear-A Napoleonic French Cavalry Disaster (027),2023,45,12
+2772,Mars Russian Assault Troops (72116),2020,34,32
+2773,Strelets French Grenadiers (Early War) (235),2020,42,44
+2774,Linear-A Roman Army under King Servius Tullius (038),2022,43,48
+2775,Linear-A Emperor Justinian I and Imperatrix Theodora I (011s),2023,44,4
+2776,Orion Ruff-Puffs (72053),2020,41,48
+2777,Strelets French Musketeers on the March (233),2020,39,44
+2778,Orion ARVN Troops (Early War) (72051),2020,40,48
+2779,Orion ARVN Troops (Late War) (72052),2020,39,43
+2780,Orion British Tank Crew (Summer Dress) (72057),2020,46,48
+2781,Linear-A Eastern Roman Empire Infantry Set 1 (039),2023,39,48
+2782,Linear-A Publius Quinctilius Varus 'Disaster' (012s),2023,37,4
+2783,Strelets Arabs in Skirmish (M142),2020,45,52
+2784,Mars German Volkssturm Defenders (72117),2020,43,40
+2785,Strelets British Cavalry (238),2020,48,12
+2786,Strelets French Pikemen (237),2020,38,36
+2787,Strelets French Infantry Summer Order Arms (222),2020,49,45
+2788,Mars German Night Hunters (72118),2020,39,40
+2789,Mars German Paratroopers (Tropical Uniform) (72119),2020,41,40
+2790,HaT American Civil War Infantry Sampler (8333),2020,,33
+2791,HaT Austrian Infantry Sampler (8338),2020,,33
+2792,HaT Napoleonic British Cavalry Sampler (8340),2020,,16
+2793,Linear-A Roman Frontier Antonine Wall Garrison (013s),2026,44,5
+2794,Strelets Long Range Patrol at Rest (M143),2020,46,56
+2795,First To Fight Field Cannon 75mm wz.1902/26 (PL1939-077),2020,,
+2796,Strelets French Guard Musketeers (242),2023,46,12
+2797,Strelets Russian Infantry Standing Shoulder Arms (216),2020,49,44
+2798,Strelets Bavarian Infantry Standing Order Arms (271),2020,44,44
+2799,Strelets French Royal Horse Grenadiers (241),2021,48,12
+2802,T-Model Middle East Military Man Set (TK7312),2021,38,25
+2803,Mars US Paratroopers (72120),2020,41,40
+2804,Strelets SAS Desert Ambush (M145),2020,44,60
+2805,Strelets Africa Corps Mortar Squad (280),2020,44,44
+2806,Strelets Long Range Desert Group (M144),2020,37,52
+2807,RedBox Mounted Musketeers of the King of France (72146),2020,46,12
+2808,RedBox Bonnie Prince Charlie and Scottish Cavalry (72149),2021,41,12
+2809,Strelets Chevau-Légers and Gendarmes of the Guards (239),2020,47,12
+2810,RedBox Mounted Guards of Cardinal Richelieu (72148),2020,46,12
+2811,Linear-A The Army of Pyrrhus of Epirus (Set 2) (045),2021,41,48
+2812,Linear-A Samnite Wars (2) Italian Ally Cavalry (046),2023,43,12
+2813,Strelets Arabs in Retreat (M148),2020,41,56
+2814,Strelets Bavarian Infantry on the March (272),2020,47,44
+2815,Strelets French Garde du Corps (240),2022,49,12
+2816,Strelets Japanese Type 11 Gun (281),2020,40,36
+2817,Strelets Prussian 7th Uhlans (161),2020,45,14
+2818,Strelets M1916 37mm Gun with French Foreign Legion Crew (291),2020,41,32
+2819,Strelets French Foreign Legion in Camp (M146),2020,47,52
+2820,Strelets French Foreign Legion in Attack (M147),2020,41,52
+2823,Linear-A Seleucid Elephants vs Ptolemaic Elephants (049),2025,48,13
+2824,Mars Eastern Mercenaries (72137),2023,30,18
+2826,RedBox British Dragoons 1745 (72139),2021,43,12
+2827,RedBox British Regiments of Horse 1745 (72140),2021,46,12
+2828,RedBox Prince's Lifeguard and Fitzjames Horse (72141),2021,46,12
+2829,Plastic Soldier Waffen-SS Grenadier Platoon 1944-45 (UMOS001),2020,44,35
+2830,Orion German Panzer Soldiers 1939-40 (72058),2021,48,48
+2831,Orion Viet Cong (72059),2021,36,52
+2832,Orion North Vietnamese Army (72060),2021,40,52
+2833,Orion British Tank Crew (Winter Dress) (72061),2021,45,48
+2834,Zvezda British Headquarters (6174),2021,,4
+2835,Zvezda American Infantry (6278),2021,,5
+2836,Zvezda American Marines (6279),2021,,5
+2837,Zvezda Soviet M-72 Motorcycle with Sidecar and Crew (6277),2021,,2
+2838,Strelets Vikings (250),,,
+2839,Plastic Soldier British Eighth Army Platoon (UMOS002),2020,43,52
+2840,Plastic Soldier Waffen-SS Grenadier 81mm Mortars (UMOS004),2020,41,4
+2841,Plastic Soldier Waffen-SS Grenadier HMGs (UMOS005),2020,39,8
+2842,Plastic Soldier Waffen-SS Grenadier Panzerschrecks (UMOS006),2020,38,4
+2843,Mars German Paratroopers (Winter Uniform) (72121),2021,39,40
+2844,Plastic Soldier Afrika Korps Platoon (UMOS003),2021,43,46
+2845,Orion Japanese Tank Crew WW2 (72067),2024,45,48
+2846,Mars German Panzer Crew in Combat (72122),2021,39,40
+2847,Linear-A Ptolemaic Infantry Phalanx Set 2 (050),2023,43,32
+2848,Strelets French Artillery (244),2021,41,10
+2849,Strelets British Artillery (243),2021,38,10
+2850,Linear-A Army of Syracuse: Infantry (051),2022,44,48
+2852,Plastic Soldier US Marine Corps Platoon (UMOS007),2021,33,56
+2855,Strelets French Dragoons on the March (251),2021,46,12
+2856,HaT Rome's Enemies (8266),,,
+2857,Strelets Dismounted French Dragoons in Skirmish (254),2021,45,24
+2858,Strelets French Dragoons in Attack (253),2021,41,12
+2859,RedBox Ukrainian Registered Cossack Infantry (72142),2023,47,52
+2860,RedBox Ukrainian Zaporozhian Cossack Infantry (72143),2023,47,52
+2861,RedBox Ukrainian Peasant Infantry (72144),2023,46,53
+2862,RedBox Italian Arditi in Armor (72150),2023,42,40
+2863,Strelets French Late War Dragoons in Reserve (252),2021,44,12
+2864,Strelets DAK Desert Patrol (M081),2021,46,56
+2865,Strelets Arabs in Ambush (M149),2021,44,52
+2867,First To Fight Polish Horse Artillery (PL1939-084),2021,31,12
+2868,Strelets Austrian Infantry 1701-1714 on the March (260),2024,42,52
+2869,Italeri Desert Well and Tents (6148),2018,,
+2870,Strelets Dutch Cuirassiers (259),2023,46,12
+2871,Mars US Machine Gunners D-Day (72125),2021,46,32
+2872,Mars US Rangers D-Day (72126),2021,41,40
+2874,Strelets Italian Desert Patrol (M154),2021,46,52
+2876,Linear-A Imperial Roman Centuriones (061),2024,50,40
+2877,Billy V Civil War Union & Confederate Infantry Set (680),,,
+2878,Billy V Lewis & Clark + Indians (681),,,
+2879,Billy V Battle of the Alamo (683),,,
+2880,Billy V American Revolutionary War (684),,,
+2881,Billy V Pilgrims & Eastern Indians (686),,,
+2882,Billy V World War II Easy Company/German Troops (687),,,
+2883,Billy V Korean War (688),,,
+2884,Billy V Civil War Union & Confederate Cavalry (689),,,
+2885,Billy V Civil War Union & Confederate Artillery (690),,,
+2886,MPC American Infantry (1-6020),1967,,48
+2887,MPC Union Infantry (1-6004),1991,,50
+2888,MPC German Infantry (1-6001),1974,,48
+2889,MPC 8th Army 'Desert Rats' (1-6002),1974,,45
+2890,MPC German Afrika Korps (1-6003),1962,,46
+2891,MPC Confederate Infantry (1-6005),2000,,32
+2892,MPC Artillery Batteries (1-6006),1962,,15
+2893,MPC US Marines (1-6007),1975,,44
+2894,MPC US Assault Troops (1-6013),1982,,48
+2895,MPC Soviet Infantry (1-6016),1982,,48
+2896,MPC Russian Infantry (1-6021),1964,,41
+2897,MPC German Infantry (1-6019),1966,,45
+2898,MPC German Paratroops (1-6011),1976,,46
+2899,MPC US Paratroops (1-6010),1975,,48
+2900,MPC British Paratroops (1-6023),1965,,33
+2901,MPC US Cavalry (1-6022),1965,,12
+2902,MPC British Redcoats (1-6018),1971,,40
+2903,MPC Washington's Army (1-6017),1971,,40
+2904,MPC USAAF Personnel (1-6009),,,
+2905,MPC Luftwaffe Personnel (1-6012),1977,,48
+2906,MPC NATO Ground Crew (1-6014),1981,,48
+2907,MPC German Mountain Troops (1-6015),1977,,37
+2908,Italeri Walls and Ruins II (6090),2017,,
+2909,Italeri Battlefield Buildings (6130),2017,,
+2910,LW German 20 mm Flak-38 with Crew (2025b),,27,12
+2911,LW US Army Light Trailer (2026b),,34,16
+2912,Caesar Three Kingdoms (Shu Kingdom Set 1) (TK001),2022,46,33
+2916,Linear-A Neo-Assyrian Empire Set 3 (062),2025,47,40
+2917,Ultima Ratio Confederate Infantry Texas Troops (UR015),2022,40,34
+2918,Strelets Bavarian Infantry in Square (274),2024,46,43
+2919,Strelets Bavarian Infantry 1701-1714 Shooting Line (262),2024,48,52
+2920,Model Kasten JNAF Aircrew 'Rabaul Zero Fighter' (F-11 1800),2016,50,7
+2921,Caesar Modern PRC PLA Troops (H105),2022,49,33
+2923,Plastic Soldier British Eighth Army Vickers MMGs (UMOS012),2022,45,6
+2924,Plastic Soldier British Eighth Army 3 Inch Mortar (UMOS009),2022,44,8
+2925,Plastic Soldier German Afrika Korps MG34 Tripod Teams (UMOS010),2022,41,6
+2926,Plastic Soldier German Afrika Korps 81 mm Mortars (UMOS011),2022,41,6
+2929,Plastic Soldier US Marine Corps Support Weapons (UMOS008),2022,40,26
+2931,Mars Soviet Border Guards (72129),2022,39,40
+2932,Hegemony Gurkhas Indian Mutiny (HG006),,15,21
+2933,Hegemony Romano-Britons (HB007),,30,
+2934,Hegemony Urartians (HB008),,,23
+2935,Hegemony Ancient Dorians (HB009),,,22
+2936,Hegemony Arameans (HB011),,,25
+2937,Strelets Dutch Infantry Firing Line (265),2025,43,52
+2938,HaT Alexander's Macedonian Army (8088),,,60
+2939,HaT Achaemenid Persian Army (8117),,,67
+2940,HaT The Assyrian Army (8128),,,30
+2941,HaT Republican Roman Army (8151),,,72
+2942,HaT Carthaginian Army (8152),,,67
+2943,Ultima Ratio Gladiators Hoplomachus Thracian (UR017),2022,38,27
+2944,Ultima Ratio Carthaginian Army: Iberian Infantry Part 2 (UR018),2022,35,27
+2945,Mars Swiss Mercenaries (72068),2005,,14
+2946,Mars Pirates of the Caribbean Set 2 (72069),,,
+2947,Mars German Volkssturm Defenders Set 2 (72130),2022,41,40
+2948,Mars German Mercenaries (Mid 16th Century) (72131),2008,,40
+2949,Mars Persian Light Cavalry (72132),2022,,12
+2950,Mars Persian Mercenary Cavalry (72133),2022,,12
+2951,Mars Ancient Artillery (72134),2002,,5
+2952,Mars Dacian Army (72135),,,
+2953,Mars Samurai (72136),2004,,30
+2954,Hegemony Phrygians (HB012),2022,25,
+2955,Hegemony Persian War Elephants (HB013),2022,15,8
+2956,Orion Long Range Desert Group (72062),2023,34,48
+2957,Orion German Panzer Soldiers (DAK) (72063),2023,47,48
+2958,Orion French Tank Crew WW2 (72064),2023,47,48
+2959,Orion Polish Tank Crew WW2 (72065),2023,46,48
+2960,Linear-A Legions of Gaius Julius Caesar (Set 1) (063),2025,46,20
+2961,Linear-A Legions of Gaius Julius Caesar (Set 2) (064),2025,45,20
+2963,Orion Italian Tank Crew (72066),2023,49,48
+2964,Strelets 1745 Jacobite Artillery (283),2023,44,10
+2965,Strelets Russian Jaegers in Winter Dress (289),2023,44,44
+2970,RedBox Byzantine Light Cavalry Set 1 (72137),2024,36,12
+2971,Linear-A Neo-Assyrian Empire Siege Engineer Set 4 (083),2025,44,40
+2972,Linear-A Neo-Assyrian Empire Infantry Set 5 (084),2024,47,40
+2973,"Linear-A Dilmun, Magan, Jiroft (085)",2026,,20
+2974,Ultima Ratio Carthaginian Army: Libyan Infantry (UR021),2023,40,27
+2977,Linear-A Bacchanalia in Ancient Rome (Set 1) (088),2024,,40
+2978,Linear-A Roman Artillery (Set 1) Ballista (089),2023,36,2
+2981,Linear-A Gnaeus Pompeius Magnus with General Staff (018s),2026,42,5
+2986,Linear-A Cleopatra VII Philopator (021s),2026,,5
+2989,Linear-A Gaius Julius Caesar at Alesia (008s),2026,43,5
+2990,Linear-A Wilusa (093),2026,,19
+2991,Linear-A Legions of Marcus Licinius Crassus (Set 2) (094),2025,47,20
+3004,Linear-A Pyrrhic Elephants (107),2025,47,10
+3005,Strelets British Infantry in Skirmish (285),2024,43,42
+3006,Strelets British Infantry in Square (286),2024,44,42
+3007,Mars British Paratroopers (72139),2024,42,40
+3008,Mars U.S. Marines (72140),2024,37,32
+3009,Mars U.S. Paratroopers (Part 2) (72141),2024,41,40
+3010,Mars German Artillery Crew (Winter) (72142),2024,46,36
+3011,Strelets Early WWII US Infantry in Combat (M159),2024,36,52
+3012,Strelets Austrian Infantry 1701-1714 in Attack (261),2024,43,44
+3013,HaT French Light Infantry Chasseurs Sampler (8341),2024,,25
+3014,Waterloo 1815 Celtic Warriors (045),,,
+3019,Linear-A Gangs/Revolt in Rome (Set 1) (112),2026,42,20
+3028,HaT AWI American Infantry (8342),2024,47,96
+3029,HaT AWI British Infantry (8343),2025,41,96
+3032,Mars Ukrainain Defenders Set II (72143),2024,44,40
+3033,Orion Hungarian Tank Crew WW2 (72069),2024,49,48
+3034,Orion US Infantry in Vietnam (Middle War) (72070),2024,41,43
+3035,Orion USMC In Vietnam (Early War) (72068),2024,42,44
+3036,HaT Napoleonic Hungarian Infantry (Marching) (8334),2024,47,40
+3037,HaT Napoleonic Hungarian Infantry (Action) (8335),2024,40,40
+3038,Ultima Ratio Burgundian Foot Soldiers (UR022),2024,39,24
+3044,"Linear-A Jesus, the True Story (128)",2025,,20
+3047,Strelets Seminole Warriors (M160),2024,43,56
+3048,Strelets US Volunteers (Seminole Wars) (M161),2024,44,52
+3049,Ultima Ratio Roman Republic Army: Hastati (UR023),2024,40,24
+3052,Linear-A Republican Roman Incendiary Swine (141),2025,47,2
+3054,HaT AWI American Artillery (8344),2025,40,20
+3055,HaT AWI American Cavalry (8346),2025,43,21
+3056,RedBox Tudor Light Infantry (72155),2025,45,43
+3057,HaT American War of Independence British Artillery (8345),2025,41,20
+3058,HaT American War of Independence British Cavalry (8347),2025,33,21
+3059,HaT Hessian Musketeers Charging (8348),2026,41,48
+3060,Ultima Ratio Japanese Warrior Monks (UR024),2025,42,27
+3061,HaT Napoleonic Russian Infantry Marching (8350),2025,46,48
+3062,Strelets British Light Infantry on the March (294),2025,44,44
+3063,Strelets British Light Infantry in Attack (295),2025,41,36
+3064,Strelets Early WWII Infantry in Defence (M162),2025,40,48
+3065,Strelets IJA Infantry in Melee (M163),2025,42,52
+3066,Strelets Holy Roman Empire Grenadiers 1701-1714 (269),2025,47,52
+3067,Orion Finnish Tank Crew WW2 (72071),2025,44,48
+3068,Orion USMC in Vietnam (Late War) (72072),2025,43,43
+3069,Orion Spanish Republican Pilots (72073),2025,45,48
+3070,Ultima Ratio Roman Republican Army: Velites (UR025),2025,43,30
+3071,HaT Napoleonic Russian Infantry Action (8351),2025,40,40
+3072,HaT Napoleonic Russian Infantry Command (8352),2025,44,32
+3073,First To Fight CKM wz.30 in Cavalry Service (PL1939-120),2025,47,6
+3076,Linear-A Gangs/Revolt in Rome (Set 2) (147),2026,38,23
+3077,Linear-A French Engineers (Set 2) (148),2026,46,18
+3080,Ultima Ratio The Thracians (UR026),2025,44,30
+3081,HaT Hessian Musketeers (8349),2026,42,48
+3082,HaT Hessian Grenadiers (8353),2026,43,48
+3086,Strelets British Light Infantry Standing Order Arms (296),2025,45,44
+3087,Strelets British Light Infantry Standing Shoulder Arms (297),2025,47,45
+3088,Strelets British Light Infantry Firing Line (299),2025,43,40
+3089,Strelets British Light Infantry in Square (300),2025,43,39
+3090,Strelets Early Texas Rangers (M165),2025,40,52
+3091,Strelets Comanche Warriors (M166),2025,31,52
+3101,Mars Italian Paratroopers (72145),2026,34,40
+3102,Mars U.S. Chemical Mortar Team (72146),2026,42,32
+3103,Mars German MG Team (72147),2026,40,40
+3104,Mars German Afrika Korps (72148),2026,41,40
+3107,Ultima Ratio French Armies of the Hundred Years War (UR027),2026,44,30
+3108,Heller US Paratroopers (49651),1983,,48
+3109,Heller British Paratroopers (49623),1983,,50
+3110,Heller German Air Force Personnel (49655),1977,,48
+3111,Heller US Air Force Personnel (49648),1974,,42
+3112,Heller British Infantry 8th Army (49609),1974,,45
+3119,Strelets French Line Cavalry in Attack (267),2026,43,12
+3120,Strelets Mounted Seminoles (301),2026,36,13
+3121,Strelets Napoleon in Egypt (303),2026,45,13
+3122,Strelets Apache Warriors (M167),2026,38,48
+3123,Strelets Texas Rangers 2 (M168),2026,39,48
