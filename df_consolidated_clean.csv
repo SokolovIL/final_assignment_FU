@@ -180,16 +180,13 @@ id,header,years_from,years_to,release_year,aggregate_rating,num_figures,manufact
 154,HaT Roman Command (8051),-300,-100,2001.0,46.0,32.0,HaT,200,-200,Древний мир,2000.0,25.0,Italian
 155,HaT Prussian Reserve Infantry (8052),1808,1815,2002.0,43.0,48.0,HaT,7,1811,Новое время,2000.0,24.0,German
 156,HaT Prussian Jäger and Volunteer Jäger (8053),1809,1815,2002.0,41.0,48.0,HaT,6,1812,Новое время,2000.0,24.0,German
-157,HaT Persian Light Infantry (8057),-550,-300,2002.0,48.0,60.0,HaT,250,-425,Древний мир,2000.0,24.0,Iranian
 157,HaT Persian Light Infantry (8057),-550,-300,2002.0,48.0,60.0,HaT,250,-425,Древний мир,2000.0,24.0,Persian
-158,HaT Persian Heavy Infantry (8059),-350,-300,2002.0,42.0,48.0,HaT,50,-325,Древний мир,2000.0,24.0,Iranian
 158,HaT Persian Heavy Infantry (8059),-350,-300,2002.0,42.0,48.0,HaT,50,-325,Древний мир,2000.0,24.0,Persian
 159,HaT Austrian Infantry (8060),1908,1918,2002.0,41.0,48.0,HaT,10,1913,Новейшее время,2000.0,24.0,Austrian
 160,HaT Russian Infantry (8061),1914,1918,2002.0,39.0,48.0,HaT,4,1916,Новейшее время,2000.0,24.0,Russian
 161,HaT 1805 French Line Infantry (8062),1796,1806,2002.0,38.0,48.0,HaT,10,1801,Новое время,2000.0,24.0,French
 162,HaT 1805 French Light Infantry (8063),1801,1812,2002.0,44.0,48.0,HaT,11,1806,Новое время,2000.0,24.0,French
 163,HaT Imperial Roman Auxiliary Infantry (8065),40,160,2003.0,43.0,45.0,HaT,120,100,Древний мир,2000.0,23.0,Italian
-164,HaT Persian Medium Cavalry (8076),-350,-300,2003.0,42.0,12.0,HaT,50,-325,Древний мир,2000.0,23.0,Iranian
 164,HaT Persian Medium Cavalry (8076),-350,-300,2003.0,42.0,12.0,HaT,50,-325,Древний мир,2000.0,23.0,Persian
 165,HaT Imperial Roman Legionaries 1st - 2nd Century AD (8082),30,180,2003.0,36.0,45.0,HaT,150,105,Древний мир,2000.0,23.0,Italian
 166,Heller German Infantry (79605),1936,1945,1974.0,,48.0,Heller,9,1940,Новейшее время,1970.0,52.0,Не указано
@@ -199,7 +196,6 @@ id,header,years_from,years_to,release_year,aggregate_rating,num_figures,manufact
 170,Heller U.S.A.A.F. Personnel (79648),1939,1945,1974.0,,42.0,Heller,6,1942,Новейшее время,1970.0,52.0,USA
 171,Heller German Paratroopers (79653),1938,1945,1976.0,,46.0,Heller,7,1941,Новейшее время,1970.0,50.0,German
 172,HYTTY Samurai (1001),1500,1670,,35.0,18.0,HYTTY,170,1585,Средневековье,,,Japanese
-173,HYTTY Persians (1002),-525,-480,,17.0,14.0,HYTTY,45,-503,Древний мир,,,Iranian
 173,HYTTY Persians (1002),-525,-480,,17.0,14.0,HYTTY,45,-503,Древний мир,,,Persian
 174,HYTTY Historic Figures (1003),-70,1960,,37.0,,HYTTY,2030,945,Средневековье,,,Egyptian
 174,HYTTY Historic Figures (1003),-70,1960,,37.0,,HYTTY,2030,945,Средневековье,,,French
@@ -277,9 +273,9 @@ id,header,years_from,years_to,release_year,aggregate_rating,num_figures,manufact
 224,LW Inquisition (2),1440,1500,2002.0,40.0,6.0,LW,60,1470,Средневековье,2000.0,24.0,Italian
 224,LW Inquisition (2),1440,1500,2002.0,40.0,6.0,LW,60,1470,Средневековье,2000.0,24.0,Spanish
 225,LW Vinea (22),-500,1500,2004.0,,5.0,LW,2000,500,Древний мир,2000.0,22.0,Не указано
-226,LW Parthian Cataphracts 1 (24),-250,250,,17.0,7.0,LW,500,0,Древний мир,,,Iranian
+226,LW Parthian Cataphracts 1 (24),-250,250,,17.0,7.0,LW,500,0,Древний мир,,,Persian
 226,LW Parthian Cataphracts 1 (24),-250,250,,17.0,7.0,LW,500,0,Древний мир,,,Parthian
-227,LW Parthian Cataphracts 2 (25),-250,250,,17.0,7.0,LW,500,0,Древний мир,,,Iranian
+227,LW Parthian Cataphracts 2 (25),-250,250,,17.0,7.0,LW,500,0,Древний мир,,,Persian
 227,LW Parthian Cataphracts 2 (25),-250,250,,17.0,7.0,LW,500,0,Древний мир,,,Parthian
 228,LW Cavalry of Imperial Rome (29),-50,100,,10.0,4.0,LW,150,25,Древний мир,,,Italian
 229,LW Pirates (31),1540,1740,,38.0,15.0,LW,200,1640,Новое время,,,Не указано
@@ -317,7 +313,6 @@ id,header,years_from,years_to,release_year,aggregate_rating,num_figures,manufact
 271,Nexus Gold Rush (ATL18),1830,1890,,,36.0,Nexus,60,1860,Новое время,,,USA
 277,Odemars Wellington's Generals (0),1800,1815,,,20.0,Odemars,15,1807,Новое время,,,Не указано
 278,Odemars Samurai (PF01),1550,1650,,35.0,32.0,Odemars,100,1600,Средневековье,,,Japanese
-279,Odemars Persians (PF02),-550,-300,,17.0,21.0,Odemars,250,-425,Древний мир,,,Iranian
 279,Odemars Persians (PF02),-550,-300,,17.0,21.0,Odemars,250,-425,Древний мир,,,Persian
 280,Odemars Leaders (PF03),-50,1970,,37.0,20.0,Odemars,2020,960,Средневековье,,,Не указано
 281,Odemars German 7.5 cm PaK 40 Gun (104),1941,1945,,,,Odemars,4,1943,Новейшее время,,,German
@@ -352,7 +347,6 @@ id,header,years_from,years_to,release_year,aggregate_rating,num_figures,manufact
 302,Revell Cowboys (02554),1850,1890,1990.0,42.0,50.0,Revell,40,1870,Новое время,1990.0,36.0,USA
 303,Revell Imperial Infantry (02556),1600,1650,1990.0,49.0,47.0,Revell,50,1625,Новое время,1990.0,36.0,Austrian
 303,Revell Imperial Infantry (02556),1600,1650,1990.0,49.0,47.0,Revell,50,1625,Новое время,1990.0,36.0,German
-303,Revell Imperial Infantry (02556),1600,1650,1990.0,49.0,47.0,Revell,50,1625,Новое время,1990.0,36.0,Habsburg Imperial
 304,Revell Swedish Infantry (02557),1610,1648,1990.0,49.0,47.0,Revell,38,1629,Новое время,1990.0,36.0,Swedish
 305,Revell Union Infantry (02559),1861,1865,1991.0,,50.0,Revell,4,1863,Новое время,1990.0,35.0,USA
 306,Revell British Infantry (02560),1768,1796,,,50.0,Revell,28,1782,Новое время,,,British
@@ -362,7 +356,6 @@ id,header,years_from,years_to,release_year,aggregate_rating,num_figures,manufact
 309,Revell Union Artillery (02565),1861,1865,,,18.0,Revell,4,1863,Новое время,,,USA
 310,Revell Imperial Artillery (02566),1600,1660,1991.0,46.0,28.0,Revell,60,1630,Новое время,1990.0,35.0,Austrian
 310,Revell Imperial Artillery (02566),1600,1660,1991.0,46.0,28.0,Revell,60,1630,Новое время,1990.0,35.0,German
-310,Revell Imperial Artillery (02566),1600,1660,1991.0,46.0,28.0,Revell,60,1630,Новое время,1990.0,35.0,Habsburg Imperial
 311,Revell Swedish Cavalry (02567),1625,1650,1991.0,49.0,15.0,Revell,25,1637,Новое время,1990.0,35.0,Swedish
 312,Revell French Grenadier Guards (02570),1804,1815,1992.0,48.0,48.0,Revell,11,1809,Новое время,1990.0,34.0,French
 313,Revell British Infantry (02571),1812,1816,1992.0,44.0,48.0,Revell,4,1814,Новое время,1990.0,34.0,British
@@ -449,9 +442,7 @@ id,header,years_from,years_to,release_year,aggregate_rating,num_figures,manufact
 380,LW Soviet Pilots (23),1939,1945,,41.0,24.0,LW,6,1942,Новейшее время,,,Russian
 381,HaT Waterloo British Line Infantry (7009),1812,1815,1972.0,,43.0,HaT,3,1813,Новое время,1970.0,54.0,British
 382,Atlantic Alpini (111),1960,1975,1971.0,21.0,,Atlantic,15,1967,Современность,1970.0,55.0,Italian
-383,Zvezda Persian Infantry (8006),-550,-300,,49.0,42.0,Zvezda,250,-425,Древний мир,,,Iranian
 383,Zvezda Persian Infantry (8006),-550,-300,,49.0,42.0,Zvezda,250,-425,Древний мир,,,Persian
-384,Italeri Persian Infantry (6025),-550,-300,,,42.0,Italeri,250,-425,Древний мир,,,Iranian
 384,Italeri Persian Infantry (6025),-550,-300,,,42.0,Italeri,250,-425,Древний мир,,,Persian
 385,Airfix Commandos (01732),1940,1945,1968.0,30.0,36.0,Airfix,5,1942,Новейшее время,1960.0,58.0,British
 386,Airfix Commandos (1732),1940,1945,1977.0,40.0,32.0,Airfix,5,1942,Новейшее время,1970.0,49.0,British
@@ -594,13 +585,9 @@ id,header,years_from,years_to,release_year,aggregate_rating,num_figures,manufact
 511,Waterloo 1815 Folgore Division Infantry (002),1942,1943,2003.0,42.0,44.0,Waterloo 1815,1,1942,Новейшее время,2000.0,23.0,Italian
 512,Waterloo 1815 Folgore Division Light Artillery (004),1940,1945,2003.0,42.0,21.0,Waterloo 1815,5,1942,Новейшее время,2000.0,23.0,Italian
 513,LW German Cavalry 1914 (53),1914,1916,2003.0,32.0,6.0,LW,2,1915,Новейшее время,2000.0,23.0,German
-514,HaT Persian Heavy Cavalry (8050),-350,-300,2003.0,42.0,12.0,HaT,50,-325,Древний мир,2000.0,23.0,Iranian
 514,HaT Persian Heavy Cavalry (8050),-350,-300,2003.0,42.0,12.0,HaT,50,-325,Древний мир,2000.0,23.0,Persian
-515,HaT Persian Light Cavalry (8077),-400,-300,2003.0,41.0,12.0,HaT,100,-350,Древний мир,2000.0,23.0,Iranian
 515,HaT Persian Light Cavalry (8077),-400,-300,2003.0,41.0,12.0,HaT,100,-350,Древний мир,2000.0,23.0,Persian
-516,Zvezda Persian Chariot and Cavalry (8008),-550,-300,,45.0,8.0,Zvezda,250,-425,Древний мир,,,Iranian
 516,Zvezda Persian Chariot and Cavalry (8008),-550,-300,,45.0,8.0,Zvezda,250,-425,Древний мир,,,Persian
-517,Italeri Persian Cavalry with Chariot (6036),-550,-300,,,8.0,Italeri,250,-425,Древний мир,,,Iranian
 517,Italeri Persian Cavalry with Chariot (6036),-550,-300,,,8.0,Italeri,250,-425,Древний мир,,,Persian
 518,LW Medieval Knights (12),1400,1480,2003.0,,5.0,LW,80,1440,Средневековье,2000.0,23.0,Не указано
 519,HaT Spanish Cavalry (8055),-300,-100,2003.0,44.0,12.0,HaT,200,-200,Древний мир,2000.0,23.0,CeltIberian
@@ -740,7 +727,6 @@ id,header,years_from,years_to,release_year,aggregate_rating,num_figures,manufact
 620,Orion Red 1st Cavalry (72011),1918,1924,2004.0,46.0,12.0,Orion,6,1921,Новейшее время,2000.0,22.0,Russian
 621,Airfix Royal Horse Artillery (01731),1914,1915,1968.0,29.0,14.0,Airfix,1,1914,Новейшее время,1960.0,58.0,British
 622,Revell Austrian Dragoons (02573),1756,1763,1992.0,45.0,15.0,Revell,7,1759,Новое время,1990.0,34.0,Austrian
-622,Revell Austrian Dragoons (02573),1756,1763,1992.0,45.0,15.0,Revell,7,1759,Новое время,1990.0,34.0,Habsburg Imperial
 623,Atlantic Military Hospital (114),1970,1975,1975.0,,,Atlantic,5,1972,Современность,1970.0,51.0,Italian
 624,HaT French Young Guard (8034),1813,1815,2000.0,38.0,48.0,HaT,2,1814,Новое время,2000.0,26.0,French
 625,BUM La Legion (5000),1934,1939,2004.0,44.0,36.0,BUM,5,1936,Новейшее время,2000.0,22.0,Spanish
@@ -1013,9 +999,9 @@ id,header,years_from,years_to,release_year,aggregate_rating,num_figures,manufact
 871,Strelets Artillery of Charles XII (043),1701,1714,2005.0,42.0,24.0,Strelets,13,1707,Новое время,2000.0,21.0,Swedish
 872,Strelets Roman Auxiliaries Ranks (M124),50,150,2017.0,,40.0,Strelets,100,100,Древний мир,2010.0,9.0,Italian
 873,Strelets French Foreign Legion Artillery (290),1925,1938,2020.0,38.0,18.0,Strelets,13,1931,Новейшее время,2020.0,6.0,French
-874,Linear-A Imperial Guardsmen of Emperor Justinian I (040),527,565,2023.0,44.0,48.0,Linear-A,38,546,Средневековье,2020.0,3.0,Byzantine
+874,Linear-A Imperial Guardsmen of Emperor Justinian I (040),527,565,2023.0,44.0,48.0,Linear-A,38,546,Средневековье,2020.0,3.0,Greek
 874,Linear-A Imperial Guardsmen of Emperor Justinian I (040),527,565,2023.0,44.0,48.0,Linear-A,38,546,Средневековье,2020.0,3.0,Turkish
-875,Linear-A The Nika Revolt (041),500,600,2025.0,41.0,52.0,Linear-A,100,550,Средневековье,2020.0,1.0,Byzantine
+875,Linear-A The Nika Revolt (041),500,600,2025.0,41.0,52.0,Linear-A,100,550,Средневековье,2020.0,1.0,Greek
 875,Linear-A The Nika Revolt (041),500,600,2025.0,41.0,52.0,Linear-A,100,550,Средневековье,2020.0,1.0,Turkish
 876,Emhar Russian Artillery (7208),1854,1855,2005.0,50.0,27.0,Emhar,1,1854,Новое время,2000.0,21.0,Russian
 877,Emhar American Infantry (7209),1917,1918,2005.0,44.0,50.0,Emhar,1,1917,Новейшее время,2000.0,21.0,USA
@@ -1047,7 +1033,7 @@ id,header,years_from,years_to,release_year,aggregate_rating,num_figures,manufact
 904,Caesar Biblical Era Libyan Warriors (H022),-2024,-500,2006.0,46.0,42.0,Caesar,1524,-1262,Древний мир,2000.0,20.0,Libyan
 905,HaT Assyrian Infantry (8092),-699,-609,2006.0,42.0,44.0,HaT,90,-654,Древний мир,2000.0,20.0,Assyrian
 905,HaT Assyrian Infantry (8092),-699,-609,2006.0,42.0,44.0,HaT,90,-654,Древний мир,2000.0,20.0,Syrian
-906,Orion Parthian Heavy Cavalry (72021),-250,230,2006.0,30.0,12.0,Orion,480,-10,Древний мир,2000.0,20.0,Iranian
+906,Orion Parthian Heavy Cavalry (72021),-250,230,2006.0,30.0,12.0,Orion,480,-10,Древний мир,2000.0,20.0,Persian
 906,Orion Parthian Heavy Cavalry (72021),-250,230,2006.0,30.0,12.0,Orion,480,-10,Древний мир,2000.0,20.0,Parthian
 907,Strelets Union General Staff (1) (046),1861,1865,2006.0,39.0,37.0,Strelets,4,1863,Новое время,2000.0,20.0,USA
 908,MiniArt Italian Knights (72008),1401,1499,2005.0,38.0,48.0,MiniArt,98,1450,Средневековье,2000.0,21.0,Italian
@@ -1238,7 +1224,6 @@ id,header,years_from,years_to,release_year,aggregate_rating,num_figures,manufact
 1074,Strelets Union General Staff (2) (080),1861,1865,2006.0,45.0,12.0,Strelets,4,1863,Новое время,2000.0,20.0,USA
 1075,RedBox Ashigaru (Archers and Arquebusiers) (72006),1500,1650,2006.0,40.0,52.0,RedBox,150,1575,Средневековье,2000.0,20.0,Japanese
 1076,Strelets Russian Hussars (076),1914,1921,2006.0,44.0,12.0,Strelets,7,1917,Новейшее время,2000.0,20.0,Russian
-1077,Strelets Russian Army of Alexander Nevsky (082),1200,1300,2006.0,42.0,24.0,Strelets,100,1250,Средневековье,2000.0,20.0,Muscovite
 1077,Strelets Russian Army of Alexander Nevsky (082),1200,1300,2006.0,42.0,24.0,Strelets,100,1250,Средневековье,2000.0,20.0,Russian
 1078,HaT Spanish Guerillas (8116),1808,1814,2006.0,43.0,96.0,HaT,6,1811,Новое время,2000.0,20.0,Spanish
 1081,HaT French Heavy Ambulance (8104),1807,1815,2006.0,,3.0,HaT,8,1811,Новое время,2000.0,20.0,French
@@ -1281,7 +1266,6 @@ id,header,years_from,years_to,release_year,aggregate_rating,num_figures,manufact
 1108,Orion Assyrian Rams (72022),-750,-700,2007.0,,,Orion,50,-725,Древний мир,2000.0,19.0,Iraqi
 1108,Orion Assyrian Rams (72022),-750,-700,2007.0,,,Orion,50,-725,Древний мир,2000.0,19.0,Syrian
 1109,Odemars The Nativity (CREA02),-50,50,2006.0,47.0,11.0,Odemars,100,0,Древний мир,2000.0,20.0,Israeli
-1109,Odemars The Nativity (CREA02),-50,50,2006.0,47.0,11.0,Odemars,100,0,Древний мир,2000.0,20.0,Judean
 1110,Strelets Anglo-Saxons (M003),1000,1066,2006.0,45.0,48.0,Strelets,66,1033,Средневековье,2000.0,20.0,Anglo-Saxon
 1110,Strelets Anglo-Saxons (M003),1000,1066,2006.0,45.0,48.0,Strelets,66,1033,Средневековье,2000.0,20.0,British
 1111,Zvezda French Elite Infantry. Voltigeurs (8042),1805,1813,2006.0,45.0,40.0,Zvezda,8,1809,Новое время,2000.0,20.0,French
@@ -1305,10 +1289,10 @@ id,header,years_from,years_to,release_year,aggregate_rating,num_figures,manufact
 1130,HaT WWI Canadian Infantry (8111),1916,1918,2007.0,39.0,84.0,HaT,2,1917,Новейшее время,2000.0,19.0,Canadian
 1131,Italeri Walls and Ruins (6087),1200,2024,2007.0,,,Italeri,824,1612,Новое время,2000.0,19.0,Не указано
 1132,IMEX German Troops (528),1936,1945,2007.0,42.0,50.0,IMEX,9,1940,Новейшее время,2000.0,19.0,German
-1133,HaT Parthian Heavy Cavalry (8145),-250,250,2007.0,43.0,18.0,HaT,500,0,Древний мир,2000.0,19.0,Iranian
+1133,HaT Parthian Heavy Cavalry (8145),-250,250,2007.0,43.0,18.0,HaT,500,0,Древний мир,2000.0,19.0,Persian
 1133,HaT Parthian Heavy Cavalry (8145),-250,250,2007.0,43.0,18.0,HaT,500,0,Древний мир,2000.0,19.0,Iraqi
 1133,HaT Parthian Heavy Cavalry (8145),-250,250,2007.0,43.0,18.0,HaT,500,0,Древний мир,2000.0,19.0,Parthian
-1134,HaT Parthian Light Cavalry (8144),-249,225,2007.0,46.0,18.0,HaT,474,-12,Древний мир,2000.0,19.0,Iranian
+1134,HaT Parthian Light Cavalry (8144),-249,225,2007.0,46.0,18.0,HaT,474,-12,Древний мир,2000.0,19.0,Persian
 1134,HaT Parthian Light Cavalry (8144),-249,225,2007.0,46.0,18.0,HaT,474,-12,Древний мир,2000.0,19.0,Parthian
 1135,HaT 1806 Prussian Elites (8136),1798,1807,2007.0,44.0,48.0,HaT,9,1802,Новое время,2000.0,19.0,German
 1136,HaT 1806 Prussian Grenadiers (8135),1799,1807,2007.0,41.0,48.0,HaT,8,1803,Новое время,2000.0,19.0,German
@@ -1331,7 +1315,6 @@ id,header,years_from,years_to,release_year,aggregate_rating,num_figures,manufact
 1153,Caesar The Conquistadores (H025),1490,1560,2007.0,45.0,35.0,Caesar,70,1525,Средневековье,2000.0,19.0,Spanish
 1155,Strelets Roman Auxiliaries in Battle (M008),40,180,2007.0,42.0,48.0,Strelets,140,110,Древний мир,2000.0,19.0,Italian
 1156,Odemars Jesus' Home (with Jesus) (CREA03),20,50,2007.0,,1.0,Odemars,30,35,Древний мир,2000.0,19.0,Israeli
-1156,Odemars Jesus' Home (with Jesus) (CREA03),20,50,2007.0,,1.0,Odemars,30,35,Древний мир,2000.0,19.0,Judean
 1157,Zvezda The Janissaries (8050),1501,1799,2007.0,47.0,43.0,Zvezda,298,1650,Новое время,2000.0,19.0,Turkish
 1158,MiniArt Roman Infantry (72012),301,499,2007.0,37.0,48.0,MiniArt,198,400,Древний мир,2000.0,19.0,Italian
 1159,GerMan Musketeers of the French King (0001),1622,1650,2007.0,45.0,22.0,GerMan,28,1636,Новое время,2000.0,19.0,French
@@ -1436,7 +1419,7 @@ id,header,years_from,years_to,release_year,aggregate_rating,num_figures,manufact
 1235,RedBox Korean Infantry (72012),1501,1699,2007.0,35.0,48.0,RedBox,198,1600,Средневековье,2000.0,19.0,North Korean
 1235,RedBox Korean Infantry (72012),1501,1699,2007.0,35.0,48.0,RedBox,198,1600,Средневековье,2000.0,19.0,South Korean
 1236,Italeri PaK 40 AT Gun with Servants (6096),1941,1945,2007.0,47.0,12.0,Italeri,4,1943,Новейшее время,2000.0,19.0,German
-1237,LW Sarmation Cavalry (16),0,0,2006.0,,5.0,LW,0,0,Древний мир,2000.0,20.0,Iranian
+1237,LW Sarmation Cavalry (16),0,0,2006.0,,5.0,LW,0,0,Древний мир,2000.0,20.0,Persian
 1237,LW Sarmation Cavalry (16),0,0,2006.0,,5.0,LW,0,0,Древний мир,2000.0,20.0,Russian
 1237,LW Sarmation Cavalry (16),0,0,2006.0,,5.0,LW,0,0,Древний мир,2000.0,20.0,Sarmatian
 1237,LW Sarmation Cavalry (16),0,0,2006.0,,5.0,LW,0,0,Древний мир,2000.0,20.0,Ukrainian
@@ -1487,7 +1470,6 @@ id,header,years_from,years_to,release_year,aggregate_rating,num_figures,manufact
 1276,Mars Saracens Cavalry & Camels (72006),1090,1150,,,,Mars,60,1120,Средневековье,,,Не указано
 1277,Mars Crusaders (72007),1090,1150,,,,Mars,60,1120,Средневековье,,,Не указано
 1278,Mars Russian Heavy Weapon Team (72008),1941,1945,,,,Mars,4,1943,Новейшее время,,,Russian
-1279,Mars Xerxes Army (72010),-480,-450,2008.0,28.0,48.0,Mars,30,-465,Древний мир,2000.0,18.0,Iranian
 1279,Mars Xerxes Army (72010),-480,-450,2008.0,28.0,48.0,Mars,30,-465,Древний мир,2000.0,18.0,Persian
 1280,Mars Swedish Cavalry Dragoons (72011),1610,1650,,,,Mars,40,1630,Новое время,,,Не указано
 1281,Mars Soviet Assault Group (72012),1941,1945,,,,Mars,4,1943,Новейшее время,,,Не указано
@@ -1510,7 +1492,6 @@ id,header,years_from,years_to,release_year,aggregate_rating,num_figures,manufact
 1294,HaT WWI French Infantry (Early) (8148),1914,1915,2008.0,43.0,92.0,HaT,1,1914,Новейшее время,2000.0,18.0,French
 1295,Strelets Napoleonic French Uhlans in Winter Dress (101),1809,1815,2008.0,39.0,12.0,Strelets,6,1812,Новое время,2000.0,18.0,French
 1296,LW Jewish Infantry (2008),65,75,2008.0,27.0,42.0,LW,10,70,Древний мир,2000.0,18.0,Israeli
-1296,LW Jewish Infantry (2008),65,75,2008.0,27.0,42.0,LW,10,70,Древний мир,2000.0,18.0,Judean
 1297,RedBox Korean Heavy Infantry (72014),1501,1699,2008.0,37.0,48.0,RedBox,198,1600,Средневековье,2000.0,18.0,Korean
 1297,RedBox Korean Heavy Infantry (72014),1501,1699,2008.0,37.0,48.0,RedBox,198,1600,Средневековье,2000.0,18.0,North Korean
 1297,RedBox Korean Heavy Infantry (72014),1501,1699,2008.0,37.0,48.0,RedBox,198,1600,Средневековье,2000.0,18.0,South Korean
@@ -1583,7 +1564,6 @@ id,header,years_from,years_to,release_year,aggregate_rating,num_figures,manufact
 1351,BUM Far-West Ticket Station (2103),1850,1920,2013.0,,4.0,BUM,70,1885,Новое время,2010.0,13.0,USA
 1352,Mars Imperial Field Artillery (72093),1600,1650,2015.0,34.0,24.0,Mars,50,1625,Новое время,2010.0,11.0,Austrian
 1352,Mars Imperial Field Artillery (72093),1600,1650,2015.0,34.0,24.0,Mars,50,1625,Новое время,2010.0,11.0,German
-1352,Mars Imperial Field Artillery (72093),1600,1650,2015.0,34.0,24.0,Mars,50,1625,Новое время,2010.0,11.0,Habsburg Imperial
 1353,Caesar German Army in Stalingrad (HB09),1942,1943,2014.0,38.0,19.0,Caesar,1,1942,Новейшее время,2010.0,12.0,German
 1354,Caesar German Army Combat Team One (HB06),1939,1945,2014.0,44.0,23.0,Caesar,6,1942,Новейшее время,2010.0,12.0,German
 1355,Caesar German Army Combat Team Two (HB07),1939,1945,2014.0,43.0,21.0,Caesar,6,1942,Новейшее время,2010.0,12.0,German
@@ -1636,7 +1616,6 @@ id,header,years_from,years_to,release_year,aggregate_rating,num_figures,manufact
 1394,Caesar Celt Warriors (H064),-150,50,2009.0,48.0,37.0,Caesar,200,-50,Древний мир,2000.0,17.0,Celtic
 1394,Caesar Celt Warriors (H064),-150,50,2009.0,48.0,37.0,Caesar,200,-50,Древний мир,2000.0,17.0,French
 1395,Caesar Greek Warriors (Hoplites) (H065),-600,-400,2009.0,40.0,37.0,Caesar,200,-500,Древний мир,2000.0,17.0,Greek
-1396,Caesar Persian Warriors (H066),-500,-500,2009.0,45.0,42.0,Caesar,0,-500,Древний мир,2000.0,17.0,Iranian
 1396,Caesar Persian Warriors (H066),-500,-500,2009.0,45.0,42.0,Caesar,0,-500,Древний мир,2000.0,17.0,Persian
 1397,Caesar German Nebelwerfer 42 & Raketenwerfer 43 with Crew (H093),1942,1945,2016.0,49.0,10.0,Caesar,3,1943,Новейшее время,2010.0,10.0,German
 1398,Caesar German Panzergrenadiers (Winter Greatcoat East) (CM7714),1939,1945,2012.0,,16.0,Caesar,6,1942,Новейшее время,2010.0,14.0,German
@@ -1727,18 +1706,18 @@ id,header,years_from,years_to,release_year,aggregate_rating,num_figures,manufact
 1468,HaT French Voltigeurs (8218),1804,1812,2009.0,44.0,56.0,HaT,8,1808,Новое время,2000.0,17.0,French
 1469,HaT French Light Infantry Chasseurs (Marching) (8219),1806,1812,2010.0,49.0,40.0,HaT,6,1809,Новое время,2010.0,16.0,French
 1470,HaT 1808-1812 French Light Infantry Carabiniers (8220),1808,1812,2009.0,46.0,56.0,HaT,4,1810,Новое время,2000.0,17.0,French
-1471,HaT Sassanid Levy Infantry (8205),224,651,2013.0,44.0,32.0,HaT,427,437,Древний мир,2010.0,13.0,Iranian
+1471,HaT Sassanid Levy Infantry (8205),224,651,2013.0,44.0,32.0,HaT,427,437,Древний мир,2010.0,13.0,Persian
 1471,HaT Sassanid Levy Infantry (8205),224,651,2013.0,44.0,32.0,HaT,427,437,Древний мир,2010.0,13.0,Iraqi
 1471,HaT Sassanid Levy Infantry (8205),224,651,2013.0,44.0,32.0,HaT,427,437,Древний мир,2010.0,13.0,Sassanian
 1472,RedBox Musketeers of the King of France (72145),1622,1660,2020.0,46.0,44.0,RedBox,38,1641,Новое время,2020.0,6.0,French
-1473,HaT Sassanid Clibanarii (8285),224,651,2017.0,41.0,12.0,HaT,427,437,Древний мир,2010.0,9.0,Iranian
+1473,HaT Sassanid Clibanarii (8285),224,651,2017.0,41.0,12.0,HaT,427,437,Древний мир,2010.0,9.0,Persian
 1473,HaT Sassanid Clibanarii (8285),224,651,2017.0,41.0,12.0,HaT,427,437,Древний мир,2010.0,9.0,Iraqi
 1473,HaT Sassanid Clibanarii (8285),224,651,2017.0,41.0,12.0,HaT,427,437,Древний мир,2010.0,9.0,Sassanian
-1474,HaT Sassanid Light Cavalry (8283),224,651,2017.0,40.0,12.0,HaT,427,437,Древний мир,2010.0,9.0,Iranian
+1474,HaT Sassanid Light Cavalry (8283),224,651,2017.0,40.0,12.0,HaT,427,437,Древний мир,2010.0,9.0,Persian
 1474,HaT Sassanid Light Cavalry (8283),224,651,2017.0,40.0,12.0,HaT,427,437,Древний мир,2010.0,9.0,Sassanian
 1475,Strelets Highlanders in Square (287),1812,1816,2021.0,45.0,43.0,Strelets,4,1814,Новое время,2020.0,5.0,British
 1476,HaT Swedish Artillery (8231),1807,1813,2010.0,42.0,16.0,HaT,6,1810,Новое время,2010.0,16.0,Swedish
-1477,RedBox Byzantine Clibanarii Set 1 (72151),600,1300,2024.0,41.0,12.0,RedBox,700,950,Средневековье,2020.0,2.0,Byzantine
+1477,RedBox Byzantine Clibanarii Set 1 (72151),600,1300,2024.0,41.0,12.0,RedBox,700,950,Средневековье,2020.0,2.0,Greek
 1477,RedBox Byzantine Clibanarii Set 1 (72151),600,1300,2024.0,41.0,12.0,RedBox,700,950,Средневековье,2020.0,2.0,Turkish
 1478,Strelets Russian Infantry in Overcoats Shoulder Arms (218),1811,1816,2021.0,48.0,44.0,Strelets,5,1813,Новое время,2020.0,5.0,Russian
 1479,RedBox Irish Mounted Troops (72055),1450,1530,2015.0,43.0,12.0,RedBox,80,1490,Средневековье,2010.0,11.0,Irish
@@ -1791,7 +1770,6 @@ id,header,years_from,years_to,release_year,aggregate_rating,num_figures,manufact
 1520,Mars Arquebusiers (72027),1618,1648,2009.0,33.0,48.0,Mars,30,1633,Новое время,2000.0,17.0,British
 1520,Mars Arquebusiers (72027),1618,1648,2009.0,33.0,48.0,Mars,30,1633,Новое время,2000.0,17.0,French
 1520,Mars Arquebusiers (72027),1618,1648,2009.0,33.0,48.0,Mars,30,1633,Новое время,2000.0,17.0,German
-1520,Mars Arquebusiers (72027),1618,1648,2009.0,33.0,48.0,Mars,30,1633,Новое время,2000.0,17.0,Habsburg Imperial
 1520,Mars Arquebusiers (72027),1618,1648,2009.0,33.0,48.0,Mars,30,1633,Новое время,2000.0,17.0,Italian
 1520,Mars Arquebusiers (72027),1618,1648,2009.0,33.0,48.0,Mars,30,1633,Новое время,2000.0,17.0,Swedish
 1521,Mars Russian Uhlans (72028),1812,1815,2009.0,27.0,12.0,Mars,3,1813,Новое время,2000.0,17.0,Russian
@@ -1803,7 +1781,7 @@ id,header,years_from,years_to,release_year,aggregate_rating,num_figures,manufact
 1527,Orion Turkish Cavalry Sipahi (72020),1501,1699,2017.0,44.0,12.0,Orion,198,1600,Средневековье,2010.0,9.0,Turkish
 1528,Orion Byzantine Infantry (12th - 15th Century) (72027),1100,1453,2008.0,37.0,44.0,Orion,353,1276,Средневековье,2000.0,18.0,Albanian
 1528,Orion Byzantine Infantry (12th - 15th Century) (72027),1100,1453,2008.0,37.0,44.0,Orion,353,1276,Средневековье,2000.0,18.0,Bulgarian
-1528,Orion Byzantine Infantry (12th - 15th Century) (72027),1100,1453,2008.0,37.0,44.0,Orion,353,1276,Средневековье,2000.0,18.0,Byzantine
+1528,Orion Byzantine Infantry (12th - 15th Century) (72027),1100,1453,2008.0,37.0,44.0,Orion,353,1276,Средневековье,2000.0,18.0,Greek
 1530,Pegasus WWI French Infantry (7199),1916,1918,2010.0,48.0,40.0,Pegasus,2,1917,Новейшее время,2010.0,16.0,French
 1532,Pegasus WWII Russian Infantry (Summer Dress) (7268),1939,1945,2009.0,46.0,40.0,Pegasus,6,1942,Новейшее время,2000.0,17.0,Russian
 1533,Pegasus WWII Russian Infantry (Winter Dress) (7269),1939,1945,2009.0,45.0,40.0,Pegasus,6,1942,Новейшее время,2000.0,17.0,Russian
@@ -1842,7 +1820,6 @@ id,header,years_from,years_to,release_year,aggregate_rating,num_figures,manufact
 1564,Strelets Norman Cavalry on the March (070),1000,1120,2010.0,42.0,12.0,Strelets,120,1060,Средневековье,2010.0,16.0,French
 1564,Strelets Norman Cavalry on the March (070),1000,1120,2010.0,42.0,12.0,Strelets,120,1060,Средневековье,2010.0,16.0,Norman
 1565,Strelets Austro-Hungarian Honved (074),1917,1918,2017.0,42.0,28.0,Strelets,1,1917,Новейшее время,2010.0,9.0,Austrian
-1565,Strelets Austro-Hungarian Honved (074),1917,1918,2017.0,42.0,28.0,Strelets,1,1917,Новейшее время,2010.0,9.0,Habsburg Imperial
 1565,Strelets Austro-Hungarian Honved (074),1917,1918,2017.0,42.0,28.0,Strelets,1,1917,Новейшее время,2010.0,9.0,Hungarian
 1566,Strelets British Cavalry (075),1914,1918,2011.0,40.0,12.0,Strelets,4,1916,Новейшее время,2010.0,15.0,British
 1567,Strelets French Artillery (Egypt) (078),1798,1801,2012.0,45.0,14.0,Strelets,3,1799,Новое время,2010.0,14.0,French
@@ -1889,7 +1866,6 @@ id,header,years_from,years_to,release_year,aggregate_rating,num_figures,manufact
 1598,Zvezda Russian Artillery of Peter the Great (8058),1698,1721,2009.0,48.0,30.0,Zvezda,23,1709,Новое время,2000.0,17.0,Russian
 1599,Zvezda Medieval Peasant Army (8059),1200,1500,2009.0,46.0,42.0,Zvezda,300,1350,Средневековье,2000.0,17.0,Не указано
 1600,Zvezda Austrian Musketeers and Pikemen (8061),1600,1650,2008.0,46.0,45.0,Zvezda,50,1625,Новое время,2000.0,18.0,Austrian
-1600,Zvezda Austrian Musketeers and Pikemen (8061),1600,1650,2008.0,46.0,45.0,Zvezda,50,1625,Новое время,2000.0,18.0,Habsburg Imperial
 1601,Zvezda Russian Foot Warriors (8062),1200,1400,2009.0,48.0,44.0,Zvezda,200,1300,Средневековье,2000.0,17.0,Russian
 1602,Caesar German Mountain Troops (H067),1939,1945,2008.0,44.0,45.0,Caesar,6,1942,Новейшее время,2000.0,18.0,German
 1603,LW Spanish Army 1500-1600 (2016),1501,1580,2008.0,25.0,40.0,LW,79,1540,Средневековье,2000.0,18.0,Spanish
@@ -2069,11 +2045,11 @@ id,header,years_from,years_to,release_year,aggregate_rating,num_figures,manufact
 1746,HaT WW2 British Machine Guns (8228),1939,1945,2009.0,46.0,32.0,HaT,6,1942,Новейшее время,2000.0,17.0,British
 1747,Emhar Portuguese Infantry and Cazadores (7217),1806,1812,2014.0,46.0,46.0,Emhar,6,1809,Новое время,2010.0,12.0,Portuguese
 1748,HaT Zulu War British Infantry (8237),1879,1880,2012.0,43.0,48.0,HaT,1,1879,Новое время,2010.0,14.0,British
-1749,RedBox Byzantine Light Cavalry Set 2 (72138),575,1400,2024.0,37.0,12.0,RedBox,825,987,Средневековье,2020.0,2.0,Byzantine
+1749,RedBox Byzantine Light Cavalry Set 2 (72138),575,1400,2024.0,37.0,12.0,RedBox,825,987,Средневековье,2020.0,2.0,Greek
 1749,RedBox Byzantine Light Cavalry Set 2 (72138),575,1400,2024.0,37.0,12.0,RedBox,825,987,Средневековье,2020.0,2.0,Turkish
-1750,RedBox Byzantine Clibanarii Set 2 (72152),600,1300,2024.0,41.0,12.0,RedBox,700,950,Средневековье,2020.0,2.0,Byzantine
+1750,RedBox Byzantine Clibanarii Set 2 (72152),600,1300,2024.0,41.0,12.0,RedBox,700,950,Средневековье,2020.0,2.0,Greek
 1750,RedBox Byzantine Clibanarii Set 2 (72152),600,1300,2024.0,41.0,12.0,RedBox,700,950,Средневековье,2020.0,2.0,Turkish
-1751,RedBox Byzantine Cataphracts Set 1 (72153),600,1400,2024.0,43.0,12.0,RedBox,800,1000,Средневековье,2020.0,2.0,Byzantine
+1751,RedBox Byzantine Cataphracts Set 1 (72153),600,1400,2024.0,43.0,12.0,RedBox,800,1000,Средневековье,2020.0,2.0,Greek
 1751,RedBox Byzantine Cataphracts Set 1 (72153),600,1400,2024.0,43.0,12.0,RedBox,800,1000,Средневековье,2020.0,2.0,Turkish
 1752,HaT Natal Native Contingent (8192),1878,1879,2013.0,38.0,32.0,HaT,1,1878,Новое время,2010.0,13.0,South African
 1752,HaT Natal Native Contingent (8192),1878,1879,2013.0,38.0,32.0,HaT,1,1878,Новое время,2010.0,13.0,Zulu
@@ -2155,7 +2131,6 @@ id,header,years_from,years_to,release_year,aggregate_rating,num_figures,manufact
 1817,Orion Kievan Rus Infantry (72032),1000,1400,2009.0,41.0,52.0,Orion,400,1200,Средневековье,2000.0,17.0,Ukrainian
 1818,Ykreol Project R.F.Z. (Set 2) (YK06),1945,1945,2009.0,,42.0,Ykreol,0,1945,Новейшее время,2000.0,17.0,Не указано
 1819,Mars Imperial Army (72032),1618,1648,2009.0,26.0,9.0,Mars,30,1633,Новое время,2000.0,17.0,Austrian
-1819,Mars Imperial Army (72032),1618,1648,2009.0,26.0,9.0,Mars,30,1633,Новое время,2000.0,17.0,Habsburg Imperial
 1820,Zvezda Scythian Cavalry (8069),-600,-300,2009.0,47.0,18.0,Zvezda,300,-450,Древний мир,2000.0,17.0,Kazak
 1820,Zvezda Scythian Cavalry (8069),-600,-300,2009.0,47.0,18.0,Zvezda,300,-450,Древний мир,2000.0,17.0,Russian
 1820,Zvezda Scythian Cavalry (8069),-600,-300,2009.0,47.0,18.0,Zvezda,300,-450,Древний мир,2000.0,17.0,Scythian
@@ -2216,7 +2191,6 @@ id,header,years_from,years_to,release_year,aggregate_rating,num_figures,manufact
 1867,Ykreol Spanish Infantry 1808 (YK10),1808,1808,2005.0,,42.0,Ykreol,0,1808,Новое время,2000.0,21.0,Spanish
 1868,HaT WWI British QF 4.5 Inch Howitzer (8243),1914,1918,2011.0,,,HaT,4,1916,Новейшее время,2010.0,15.0,British
 1869,HaT 10cm Feldhaubitze M.14 (8245),1914,1918,2011.0,,,HaT,4,1916,Новейшее время,2010.0,15.0,Austrian
-1869,HaT 10cm Feldhaubitze M.14 (8245),1914,1918,2011.0,,,HaT,4,1916,Новейшее время,2010.0,15.0,Habsburg Imperial
 1869,HaT 10cm Feldhaubitze M.14 (8245),1914,1918,2011.0,,,HaT,4,1916,Новейшее время,2010.0,15.0,Hungarian
 1870,HaT Prussian Infantry Marching (8253),1810,1815,2011.0,50.0,40.0,HaT,5,1812,Новое время,2010.0,15.0,German
 1871,HaT Prussian Infantry Action (8254),1810,1815,2011.0,46.0,40.0,HaT,5,1812,Новое время,2010.0,15.0,German
@@ -2251,16 +2225,15 @@ id,header,years_from,years_to,release_year,aggregate_rating,num_figures,manufact
 1895,GerMan Armed Civilians and Porch (1002),1714,1714,2010.0,,8.0,GerMan,0,1714,Новое время,2010.0,16.0,Spanish
 1896,Mars Swedish Heavy Cavalry (72036),1618,1648,2010.0,33.0,12.0,Mars,30,1633,Новое время,2010.0,16.0,Swedish
 1897,Mars Imperial Mounted Arquebusiers (72037),1618,1648,2010.0,34.0,12.0,Mars,30,1633,Новое время,2010.0,16.0,Austrian
-1897,Mars Imperial Mounted Arquebusiers (72037),1618,1648,2010.0,34.0,12.0,Mars,30,1633,Новое время,2010.0,16.0,Habsburg Imperial
 1898,Mars Imperial Siege Artillery (72038),1618,1648,2010.0,39.0,18.0,Mars,30,1633,Новое время,2010.0,16.0,German
-1898,Mars Imperial Siege Artillery (72038),1618,1648,2010.0,39.0,18.0,Mars,30,1633,Новое время,2010.0,16.0,Habsburg Imperial
+1898,Mars Imperial Siege Artillery (72038),1618,1648,2010.0,39.0,18.0,Mars,30,1633,Новое время,2010.0,16.0,Austrian
 1899,Mars French Infantry and Guard (72039),1635,1648,2010.0,34.0,48.0,Mars,13,1641,Новое время,2010.0,16.0,French
 1900,BUM Schneider Gun (5035),1936,1939,2010.0,,5.0,BUM,3,1937,Новейшее время,2010.0,16.0,Spanish
 1901,LW French Musketeers (2027),1600,1660,2010.0,38.0,42.0,LW,60,1630,Новое время,2010.0,16.0,French
 1902,Valdemar Medieval Repentance (VA131),1120,1500,2010.0,50.0,6.0,Valdemar,380,1310,Средневековье,2010.0,16.0,Не указано
 1903,Valdemar Medieval Organ and Crew (VA132),900,1500,2010.0,49.0,3.0,Valdemar,600,1200,Средневековье,2010.0,16.0,Не указано
 1904,HaT WWI Belgian Carabinier Bicyclists (8275),1914,1915,2014.0,44.0,12.0,HaT,1,1914,Новейшее время,2010.0,12.0,Belgian
-1905,HaT Sassanid Light Infantry (8267),224,651,2013.0,43.0,32.0,HaT,427,437,Древний мир,2010.0,13.0,Iranian
+1905,HaT Sassanid Light Infantry (8267),224,651,2013.0,43.0,32.0,HaT,427,437,Древний мир,2010.0,13.0,Persian
 1905,HaT Sassanid Light Infantry (8267),224,651,2013.0,43.0,32.0,HaT,427,437,Древний мир,2010.0,13.0,Iraqi
 1905,HaT Sassanid Light Infantry (8267),224,651,2013.0,43.0,32.0,HaT,427,437,Древний мир,2010.0,13.0,Sassanian
 1906,HaT WW2 Japanese Bicycle Infantry (8278),1937,1945,2014.0,46.0,12.0,HaT,8,1941,Новейшее время,2010.0,12.0,Japanese
@@ -2270,7 +2243,6 @@ id,header,years_from,years_to,release_year,aggregate_rating,num_figures,manufact
 1910,Strelets French Infantry in Gas Masks (M057),1916,1918,2011.0,40.0,48.0,Strelets,2,1917,Новейшее время,2010.0,15.0,French
 1911,Strelets Russian Infantry in Gas Masks (M058),1916,1918,2011.0,38.0,48.0,Strelets,2,1917,Новейшее время,2010.0,15.0,Russian
 1912,Strelets Austro-Hungarian Infantry in Gas Masks (M059),1916,1918,2011.0,39.0,48.0,Strelets,2,1917,Новейшее время,2010.0,15.0,Austrian
-1912,Strelets Austro-Hungarian Infantry in Gas Masks (M059),1916,1918,2011.0,39.0,48.0,Strelets,2,1917,Новейшее время,2010.0,15.0,Habsburg Imperial
 1912,Strelets Austro-Hungarian Infantry in Gas Masks (M059),1916,1918,2011.0,39.0,48.0,Strelets,2,1917,Новейшее время,2010.0,15.0,Hungarian
 1913,Strelets German Infantry in Gas Masks (M060),1916,1918,2011.0,38.0,48.0,Strelets,2,1917,Новейшее время,2010.0,15.0,German
 1914,Valdemar Medieval Hunting Party (VA111),1100,1450,2010.0,50.0,12.0,Valdemar,350,1275,Средневековье,2010.0,16.0,Не указано
@@ -2335,7 +2307,6 @@ id,header,years_from,years_to,release_year,aggregate_rating,num_figures,manufact
 1967,Preiser Soviet & German Infantry Close Combat Winter (16605),1941,1945,,46.0,16.0,Preiser,4,1943,Новейшее время,,,German
 1967,Preiser Soviet & German Infantry Close Combat Winter (16605),1941,1945,,46.0,16.0,Preiser,4,1943,Новейшее время,,,Russian
 1969,RedBox Swiss Artillery (72065),1490,1600,2015.0,41.0,16.0,RedBox,110,1545,Средневековье,2010.0,11.0,Swiss
-1970,RedBox Russian Artillery (72071),1501,1599,2015.0,46.0,16.0,RedBox,98,1550,Средневековье,2010.0,11.0,Muscovite
 1970,RedBox Russian Artillery (72071),1501,1599,2015.0,46.0,16.0,RedBox,98,1550,Средневековье,2010.0,11.0,Russian
 1971,RedBox Russian Artillery (72072),1601,1699,2015.0,45.0,16.0,RedBox,98,1650,Новое время,2010.0,11.0,Russian
 1972,RedBox Battlefield Accessory Set (72073),1501,1699,2015.0,,,RedBox,198,1600,Средневековье,2010.0,11.0,Не указано
@@ -2368,7 +2339,6 @@ id,header,years_from,years_to,release_year,aggregate_rating,num_figures,manufact
 2000,Zvezda Samurai Commanders (6411),1400,1600,2012.0,,4.0,Zvezda,200,1500,Средневековье,2010.0,14.0,Japanese
 2002,Zvezda French Napoleonic HQ Staff (8080),1805,1814,2011.0,46.0,18.0,Zvezda,9,1809,Новое время,2010.0,15.0,French
 2003,Mars Imperial Light Infantry (72043),1618,1648,2011.0,32.0,48.0,Mars,30,1633,Новое время,2010.0,15.0,Austrian
-2003,Mars Imperial Light Infantry (72043),1618,1648,2011.0,32.0,48.0,Mars,30,1633,Новое время,2010.0,15.0,Habsburg Imperial
 2004,Orion Soviet Artillery Crew (72041),1939,1945,2011.0,38.0,37.0,Orion,6,1942,Новейшее время,2010.0,15.0,Russian
 2007,Valdemar Medieval Grieving Persons (VA136),500,1500,2010.0,46.0,5.0,Valdemar,1000,1000,Средневековье,2010.0,16.0,Не указано
 2008,Valdemar Medieval Mobile Bakery (VA134),500,1500,2010.0,50.0,3.0,Valdemar,1000,1000,Средневековье,2010.0,16.0,Не указано
@@ -2386,7 +2356,6 @@ id,header,years_from,years_to,release_year,aggregate_rating,num_figures,manufact
 2018,Mars Swedish Mercenary Dragoons (72040),1620,1635,2011.0,25.0,12.0,Mars,15,1627,Новое время,2010.0,15.0,Swedish
 2019,Mars Imperial Heavy Cavalry (72041),1618,1625,2011.0,35.0,12.0,Mars,7,1621,Новое время,2010.0,15.0,Austrian
 2019,Mars Imperial Heavy Cavalry (72041),1618,1625,2011.0,35.0,12.0,Mars,7,1621,Новое время,2010.0,15.0,German
-2019,Mars Imperial Heavy Cavalry (72041),1618,1625,2011.0,35.0,12.0,Mars,7,1621,Новое время,2010.0,15.0,Habsburg Imperial
 2020,Mars Teutonic Knights (72050),1400,1450,2011.0,32.0,12.0,Mars,50,1425,Средневековье,2010.0,15.0,German
 2020,Mars Teutonic Knights (72050),1400,1450,2011.0,32.0,12.0,Mars,50,1425,Средневековье,2010.0,15.0,Teutonic
 2021,Mars Polish Knights (72051),1400,1450,2011.0,32.0,12.0,Mars,50,1425,Средневековье,2010.0,15.0,Polish
@@ -2615,7 +2584,7 @@ id,header,years_from,years_to,release_year,aggregate_rating,num_figures,manufact
 2236,Ultima Ratio Carthaginian Army: Iberian Infantry Part 1 (UR016),-250,-140,2024.0,38.0,27.0,Ultima Ratio,110,-195,Древний мир,2020.0,2.0,Carthaginian
 2236,Ultima Ratio Carthaginian Army: Iberian Infantry Part 1 (UR016),-250,-140,2024.0,38.0,27.0,Ultima Ratio,110,-195,Древний мир,2020.0,2.0,CeltIberian
 2236,Ultima Ratio Carthaginian Army: Iberian Infantry Part 1 (UR016),-250,-140,2024.0,38.0,27.0,Ultima Ratio,110,-195,Древний мир,2020.0,2.0,Spanish
-2237,RedBox Byzantine Cataphracts Set 2 (72154),600,1400,2024.0,44.0,12.0,RedBox,800,1000,Средневековье,2020.0,2.0,Byzantine
+2237,RedBox Byzantine Cataphracts Set 2 (72154),600,1400,2024.0,44.0,12.0,RedBox,800,1000,Средневековье,2020.0,2.0,Greek
 2237,RedBox Byzantine Cataphracts Set 2 (72154),600,1400,2024.0,44.0,12.0,RedBox,800,1000,Средневековье,2020.0,2.0,Turkish
 2240,First To Fight Bofors 37 mm wz. 36 Polish AT Gun (PL1939-025),1939,1939,2015.0,43.0,6.0,First To Fight,0,1939,Новейшее время,2010.0,11.0,Polish
 2242,Caesar Chinese Qing Dynasty Troopers (H033),1636,1912,2012.0,,25.0,Caesar,276,1774,Новое время,2010.0,14.0,Chinese
@@ -2630,9 +2599,9 @@ id,header,years_from,years_to,release_year,aggregate_rating,num_figures,manufact
 2251,Ykreol Roman Siege Troops (YK18),0,0,2003.0,,24.0,Ykreol,0,0,Древний мир,2000.0,23.0,Не указано
 2252,Italeri US Infantry 90s (6168),1990,1995,,,,Italeri,5,1992,Современность,,,USA
 2253,Italeri Soviet Special Forces 80s (6169),1980,1985,,,,Italeri,5,1982,Современность,,,Russian
-2254,Orion Byzantine Infantry (7th - 9th Century) (72043),600,899,2012.0,39.0,48.0,Orion,299,749,Средневековье,2010.0,14.0,Byzantine
+2254,Orion Byzantine Infantry (7th - 9th Century) (72043),600,899,2012.0,39.0,48.0,Orion,299,749,Средневековье,2010.0,14.0,Greek
 2254,Orion Byzantine Infantry (7th - 9th Century) (72043),600,899,2012.0,39.0,48.0,Orion,299,749,Средневековье,2010.0,14.0,Turkish
-2255,Orion Byzantine Infantry (10th - 13th Century) (72044),900,1299,2012.0,41.0,48.0,Orion,399,1099,Средневековье,2010.0,14.0,Byzantine
+2255,Orion Byzantine Infantry (10th - 13th Century) (72044),900,1299,2012.0,41.0,48.0,Orion,399,1099,Средневековье,2010.0,14.0,Greek
 2255,Orion Byzantine Infantry (10th - 13th Century) (72044),900,1299,2012.0,41.0,48.0,Orion,399,1099,Средневековье,2010.0,14.0,Turkish
 2256,"Metch Arnhem, Landings (172146)",1944,1944,2012.0,,16.0,Metch,0,1944,Новейшее время,2010.0,14.0,Не указано
 2257,Metch Arnhem Street Fighting (172147),1944,1944,2012.0,,11.0,Metch,0,1944,Новейшее время,2010.0,14.0,Не указано
@@ -2783,7 +2752,7 @@ id,header,years_from,years_to,release_year,aggregate_rating,num_figures,manufact
 2397,Waterloo 1815 Cromwell's Cavalry (033),1642,1650,2014.0,33.0,12.0,Waterloo 1815,8,1646,Новое время,2010.0,12.0,British
 2398,Mars Imperial Mercenary Infantry in Summer Dress (72048),1618,1648,2013.0,35.0,48.0,Mars,30,1633,Новое время,2010.0,13.0,French
 2398,Mars Imperial Mercenary Infantry in Summer Dress (72048),1618,1648,2013.0,35.0,48.0,Mars,30,1633,Новое время,2010.0,13.0,German
-2399,Mars Imperial Mercenary Infantry in Winter Dress (72049),1618,1648,2013.0,37.0,48.0,Mars,30,1633,Новое время,2010.0,13.0,Habsburg Imperial
+2399,Mars Imperial Mercenary Infantry in Winter Dress (72049),1618,1648,2013.0,37.0,48.0,Mars,30,1633,Новое время,2010.0,13.0,Austrian
 2400,Mars Lithuanian-Russian Medium Infantry (72061),1401,1450,2013.0,39.0,48.0,Mars,49,1425,Средневековье,2010.0,13.0,Lithuanian
 2400,Mars Lithuanian-Russian Medium Infantry (72061),1401,1450,2013.0,39.0,48.0,Mars,49,1425,Средневековье,2010.0,13.0,Russian
 2401,Mars Polish Infantry (Early) (72073),1618,1630,2013.0,41.0,48.0,Mars,12,1624,Новое время,2010.0,13.0,Polish
@@ -2879,7 +2848,6 @@ id,header,years_from,years_to,release_year,aggregate_rating,num_figures,manufact
 2479,RedBox Osman Sipahi Set 1 (72094),1501,1620,2016.0,39.0,12.0,RedBox,119,1560,Средневековье,2010.0,10.0,Turkish
 2480,Mars Swedish Dragoons (Set 2) (72095),1630,1635,2016.0,24.0,12.0,Mars,5,1632,Новое время,2010.0,10.0,Swedish
 2481,Mars Imperial Dragoons (72096),1610,1650,2016.0,25.0,12.0,Mars,40,1630,Новое время,2010.0,10.0,Austrian
-2481,Mars Imperial Dragoons (72096),1610,1650,2016.0,25.0,12.0,Mars,40,1630,Новое время,2010.0,10.0,Habsburg Imperial
 2482,RedBox Osman Sipahi Set 2 (72095),1501,1620,2016.0,36.0,12.0,RedBox,119,1560,Средневековье,2010.0,10.0,Turkish
 2483,Panzer vs Tanks Israeli IDF Advance Set (Mitznefet) (022),2001,2016,2015.0,50.0,12.0,Panzer vs Tanks,15,2008,Современность,2010.0,11.0,Israeli
 2484,Panzer vs Tanks Roman Legion Testudo (001),30,150,,,,Panzer vs Tanks,120,90,Древний мир,,,Italian
@@ -2972,9 +2940,7 @@ id,header,years_from,years_to,release_year,aggregate_rating,num_figures,manufact
 2558,Waterloo 1815 Napoleonic French Foot Dragoons (041),1804,1810,2017.0,47.0,52.0,Waterloo 1815,6,1807,Новое время,2010.0,9.0,French
 2559,Strelets US Infantry in Attack 2 (153),1861,1865,2017.0,45.0,47.0,Strelets,4,1863,Новое время,2010.0,9.0,USA
 2560,HaT Austrians Marching (8322),1740,1767,2019.0,43.0,48.0,HaT,27,1753,Новое время,2010.0,7.0,Austrian
-2560,HaT Austrians Marching (8322),1740,1767,2019.0,43.0,48.0,HaT,27,1753,Новое время,2010.0,7.0,Habsburg Imperial
 2561,HaT Austrians Action (8323),1740,1767,2019.0,39.0,48.0,HaT,27,1753,Новое время,2010.0,7.0,Austrian
-2561,HaT Austrians Action (8323),1740,1767,2019.0,39.0,48.0,HaT,27,1753,Новое время,2010.0,7.0,Habsburg Imperial
 2562,HaT Austrians Command (8324),1740,1767,2019.0,44.0,36.0,HaT,27,1753,Новое время,2010.0,7.0,Austrian
 2563,Linear-A Legions of Marcus Licinius Crassus (Set 1) (067),-60,-40,2025.0,47.0,20.0,Linear-A,20,-50,Древний мир,2020.0,1.0,Italian
 2564,Ultima Ratio Gladiators Retiarius Provokator (UR020),-100,300,2023.0,40.0,24.0,Ultima Ratio,400,100,Древний мир,2020.0,3.0,Italian
@@ -3020,7 +2986,6 @@ id,header,years_from,years_to,release_year,aggregate_rating,num_figures,manufact
 2599,Strelets 105mm Cannon Schneider 1913 (A015),1915,1918,2019.0,47.0,10.0,Strelets,3,1916,Новейшее время,2010.0,7.0,French
 2600,Strelets Highlanders Standing at Ease (163),1813,1815,2017.0,46.0,40.0,Strelets,2,1814,Новое время,2010.0,9.0,British
 2601,Mars Austrian Infantry (Late 17th Century) (72102),1660,1690,2017.0,36.0,48.0,Mars,30,1675,Новое время,2010.0,9.0,Austrian
-2601,Mars Austrian Infantry (Late 17th Century) (72102),1660,1690,2017.0,36.0,48.0,Mars,30,1675,Новое время,2010.0,9.0,Habsburg Imperial
 2602,Mars Turkish Infantry (Tufekei) (72104),1580,1699,2017.0,37.0,48.0,Mars,119,1639,Новое время,2010.0,9.0,Turkish
 2603,Zvezda German Headquarters in Winter Uniform (6232),1935,1945,2017.0,,4.0,Zvezda,10,1940,Новейшее время,2010.0,9.0,German
 2604,Strelets Red Cavalry in Summer Dress (164),1918,1924,2017.0,43.0,14.0,Strelets,6,1921,Новейшее время,2010.0,9.0,Russian
@@ -3061,11 +3026,8 @@ id,header,years_from,years_to,release_year,aggregate_rating,num_figures,manufact
 2634,Italeri WWII Free French Infantry (6189),1940,1945,1982.0,,49.0,Italeri,5,1942,Новейшее время,1980.0,44.0,Не указано
 2635,Italeri Warsaw Pact Troops (1980s) (6190),1980,1989,1989.0,,48.0,Italeri,9,1984,Современность,1980.0,37.0,Не указано
 2636,Italeri NATO Troops (1980s) (6191),1980,1989,1989.0,,48.0,Italeri,9,1984,Современность,1980.0,37.0,Не указано
-2637,RedBox Moscow Infantry (Ratniki) Set 1 (72111),1501,1599,2018.0,45.0,28.0,RedBox,98,1550,Средневековье,2010.0,8.0,Muscovite
 2637,RedBox Moscow Infantry (Ratniki) Set 1 (72111),1501,1599,2018.0,45.0,28.0,RedBox,98,1550,Средневековье,2010.0,8.0,Russian
-2638,RedBox Moscow Infantry (Ratniki) Set 2 (72112),1501,1599,2018.0,43.0,40.0,RedBox,98,1550,Средневековье,2010.0,8.0,Muscovite
 2638,RedBox Moscow Infantry (Ratniki) Set 2 (72112),1501,1599,2018.0,43.0,40.0,RedBox,98,1550,Средневековье,2010.0,8.0,Russian
-2639,RedBox Moscow Infantry (Pishalniki) (72113),1501,1599,2018.0,47.0,48.0,RedBox,98,1550,Средневековье,2010.0,8.0,Muscovite
 2639,RedBox Moscow Infantry (Pishalniki) (72113),1501,1599,2018.0,47.0,48.0,RedBox,98,1550,Средневековье,2010.0,8.0,Russian
 2640,RedBox Ukrainian Cossack (Infantry) Set 1 (72114),1501,1599,2018.0,46.0,28.0,RedBox,98,1550,Средневековье,2010.0,8.0,Cossack
 2640,RedBox Ukrainian Cossack (Infantry) Set 1 (72114),1501,1599,2018.0,46.0,28.0,RedBox,98,1550,Средневековье,2010.0,8.0,Ukrainian
@@ -3084,7 +3046,6 @@ id,header,years_from,years_to,release_year,aggregate_rating,num_figures,manufact
 2649,Caesar Modern US Army Tank Crews and Armored Force (H103),1998,2009,2018.0,48.0,34.0,Caesar,11,2003,Современность,2010.0,8.0,USA
 2650,Caesar WWII German Tank Riders (Camouflage Suit) (H099),1942,1945,2018.0,48.0,33.0,Caesar,3,1943,Новейшее время,2010.0,8.0,German
 2651,Strelets Austrian Cuirassiers (257),1680,1710,2022.0,44.0,12.0,Strelets,30,1695,Новое время,2020.0,4.0,Austrian
-2651,Strelets Austrian Cuirassiers (257),1680,1710,2022.0,44.0,12.0,Strelets,30,1695,Новое время,2020.0,4.0,Habsburg Imperial
 2652,Mars German Panzergrenadiers (72108),1942,1945,2018.0,32.0,40.0,Mars,3,1943,Новейшее время,2010.0,8.0,German
 2653,Strelets Japanese Type 38 75mm Field Gun (176),1927,1945,2018.0,42.0,21.0,Strelets,18,1936,Новейшее время,2010.0,8.0,Japanese
 2654,RedBox Chinese Light Cavalry (72117),1501,1699,2018.0,36.0,12.0,RedBox,198,1600,Средневековье,2010.0,8.0,Chinese
@@ -3099,7 +3060,6 @@ id,header,years_from,years_to,release_year,aggregate_rating,num_figures,manufact
 2662,First To Fight Polish Artillery (PL1939-055),1939,1939,2018.0,37.0,16.0,First To Fight,0,1939,Новейшее время,2010.0,8.0,Polish
 2663,First To Fight German Artillery (PL1939-056),1939,1941,2018.0,36.0,14.0,First To Fight,2,1940,Новейшее время,2010.0,8.0,German
 2664,Linear-A Germanic Warriors Set 2 (Command) (010),1,50,2019.0,44.0,40.0,Linear-A,49,25,Древний мир,2010.0,7.0,German
-2665,Linear-A Battle of Cunaxa Set 1 (015),-401,-401,2018.0,40.0,37.0,Linear-A,0,-401,Древний мир,2010.0,8.0,Iranian
 2665,Linear-A Battle of Cunaxa Set 1 (015),-401,-401,2018.0,40.0,37.0,Linear-A,0,-401,Древний мир,2010.0,8.0,Persian
 2666,Linear-A The Etruscans Set 1 (014),-899,-650,2018.0,43.0,34.0,Linear-A,249,-775,Древний мир,2010.0,8.0,Etruscan
 2666,Linear-A The Etruscans Set 1 (014),-899,-650,2018.0,43.0,34.0,Linear-A,249,-775,Древний мир,2010.0,8.0,Italian
@@ -3208,24 +3168,17 @@ id,header,years_from,years_to,release_year,aggregate_rating,num_figures,manufact
 2753,Strelets Finnish Anti-Tank Squad in Summer Dress (245),1939,1945,2020.0,40.0,28.0,Strelets,6,1942,Новейшее время,2020.0,6.0,Finnish
 2754,Strelets Finnish Anti-Tank Squad in Winter Dress (246),1941,1942,2020.0,42.0,28.0,Strelets,1,1941,Новейшее время,2020.0,6.0,Finnish
 2755,Strelets American Anti-Tank Squad (247),1945,1960,2020.0,45.0,28.0,Strelets,15,1952,Современность,2020.0,6.0,USA
-2756,Linear-A Seleucid Infantry Phalanx Set 1 (033),-250,-170,2021.0,40.0,24.0,Linear-A,80,-210,Древний мир,2020.0,5.0,Iranian
+2756,Linear-A Seleucid Infantry Phalanx Set 1 (033),-250,-170,2021.0,40.0,24.0,Linear-A,80,-210,Древний мир,2020.0,5.0,Persian
 2756,Linear-A Seleucid Infantry Phalanx Set 1 (033),-250,-170,2021.0,40.0,24.0,Linear-A,80,-210,Древний мир,2020.0,5.0,Iraqi
 2756,Linear-A Seleucid Infantry Phalanx Set 1 (033),-250,-170,2021.0,40.0,24.0,Linear-A,80,-210,Древний мир,2020.0,5.0,Seleucid
 2756,Linear-A Seleucid Infantry Phalanx Set 1 (033),-250,-170,2021.0,40.0,24.0,Linear-A,80,-210,Древний мир,2020.0,5.0,Syrian
 2757,Linear-A Ptolemaic Infantry Phalanx Set 1 (034),-230,-180,2021.0,41.0,24.0,Linear-A,50,-205,Древний мир,2020.0,5.0,Egyptian
-2759,Linear-A Battle of Cunaxa Set 3 (Persian Cavalry) (036),-401,-401,2022.0,45.0,12.0,Linear-A,0,-401,Древний мир,2020.0,4.0,Iranian
 2759,Linear-A Battle of Cunaxa Set 3 (Persian Cavalry) (036),-401,-401,2022.0,45.0,12.0,Linear-A,0,-401,Древний мир,2020.0,4.0,Persian
-2760,RedBox Moscow Noble Cavalry (Siege of Pskov) Set 1 (72127),1560,1599,2020.0,41.0,12.0,RedBox,39,1579,Средневековье,2020.0,6.0,Muscovite
 2760,RedBox Moscow Noble Cavalry (Siege of Pskov) Set 1 (72127),1560,1599,2020.0,41.0,12.0,RedBox,39,1579,Средневековье,2020.0,6.0,Russian
-2761,RedBox Moscow Noble Cavalry (Siege of Pskov) Set 2 (72128),1501,1599,2020.0,41.0,12.0,RedBox,98,1550,Средневековье,2020.0,6.0,Muscovite
 2761,RedBox Moscow Noble Cavalry (Siege of Pskov) Set 2 (72128),1501,1599,2020.0,41.0,12.0,RedBox,98,1550,Средневековье,2020.0,6.0,Russian
-2762,RedBox Moscow Noble Cavalry (Siege of Kazan) Set 1 (72133),1501,1599,2020.0,41.0,12.0,RedBox,98,1550,Средневековье,2020.0,6.0,Muscovite
 2762,RedBox Moscow Noble Cavalry (Siege of Kazan) Set 1 (72133),1501,1599,2020.0,41.0,12.0,RedBox,98,1550,Средневековье,2020.0,6.0,Russian
-2763,RedBox Moscow Noble Cavalry (Siege of Kazan) Set 2 (72134),1501,1599,2020.0,43.0,12.0,RedBox,98,1550,Средневековье,2020.0,6.0,Muscovite
 2763,RedBox Moscow Noble Cavalry (Siege of Kazan) Set 2 (72134),1501,1599,2020.0,43.0,12.0,RedBox,98,1550,Средневековье,2020.0,6.0,Russian
-2764,RedBox Moscow Noble Cavalry (Battle of Orsha) Set 1 (72135),1501,1540,2020.0,42.0,12.0,RedBox,39,1520,Средневековье,2020.0,6.0,Muscovite
 2764,RedBox Moscow Noble Cavalry (Battle of Orsha) Set 1 (72135),1501,1540,2020.0,42.0,12.0,RedBox,39,1520,Средневековье,2020.0,6.0,Russian
-2765,RedBox Moscow Noble Cavalry (Battle of Orsha) Set 2 (72136),1501,1599,2020.0,41.0,12.0,RedBox,98,1550,Средневековье,2020.0,6.0,Muscovite
 2765,RedBox Moscow Noble Cavalry (Battle of Orsha) Set 2 (72136),1501,1599,2020.0,41.0,12.0,RedBox,98,1550,Средневековье,2020.0,6.0,Russian
 2766,Strelets French Musketeers Firing (234),1701,1708,2020.0,42.0,44.0,Strelets,7,1704,Новое время,2020.0,6.0,French
 2767,Mars Russian Infantry (72115),1939,1945,2020.0,37.0,40.0,Mars,6,1942,Новейшее время,2020.0,6.0,Russian
@@ -3238,7 +3191,7 @@ id,header,years_from,years_to,release_year,aggregate_rating,num_figures,manufact
 2772,Mars Russian Assault Troops (72116),1943,1945,2020.0,34.0,32.0,Mars,2,1944,Новейшее время,2020.0,6.0,Russian
 2773,Strelets French Grenadiers (Early War) (235),1701,1713,2020.0,42.0,44.0,Strelets,12,1707,Новое время,2020.0,6.0,French
 2774,Linear-A Roman Army under King Servius Tullius (038),-599,-501,2022.0,43.0,48.0,Linear-A,98,-550,Древний мир,2020.0,4.0,Italian
-2775,Linear-A Emperor Justinian I and Imperatrix Theodora I (011s),527,565,2023.0,44.0,4.0,Linear-A,38,546,Средневековье,2020.0,3.0,Byzantine
+2775,Linear-A Emperor Justinian I and Imperatrix Theodora I (011s),527,565,2023.0,44.0,4.0,Linear-A,38,546,Средневековье,2020.0,3.0,Greek
 2775,Linear-A Emperor Justinian I and Imperatrix Theodora I (011s),527,565,2023.0,44.0,4.0,Linear-A,38,546,Средневековье,2020.0,3.0,Italian
 2776,Orion Ruff-Puffs (72053),1964,1975,2020.0,41.0,48.0,Orion,11,1969,Современность,2020.0,6.0,South Vietnamese
 2776,Orion Ruff-Puffs (72053),1964,1975,2020.0,41.0,48.0,Orion,11,1969,Современность,2020.0,6.0,Vietnamese
@@ -3248,7 +3201,7 @@ id,header,years_from,years_to,release_year,aggregate_rating,num_figures,manufact
 2779,Orion ARVN Troops (Late War) (72052),1969,1975,2020.0,39.0,43.0,Orion,6,1972,Современность,2020.0,6.0,South Vietnamese
 2779,Orion ARVN Troops (Late War) (72052),1969,1975,2020.0,39.0,43.0,Orion,6,1972,Современность,2020.0,6.0,Vietnamese
 2780,Orion British Tank Crew (Summer Dress) (72057),1942,1945,2020.0,46.0,48.0,Orion,3,1943,Новейшее время,2020.0,6.0,British
-2781,Linear-A Eastern Roman Empire Infantry Set 1 (039),501,599,2023.0,39.0,48.0,Linear-A,98,550,Средневековье,2020.0,3.0,Byzantine
+2781,Linear-A Eastern Roman Empire Infantry Set 1 (039),501,599,2023.0,39.0,48.0,Linear-A,98,550,Средневековье,2020.0,3.0,Greek
 2781,Linear-A Eastern Roman Empire Infantry Set 1 (039),501,599,2023.0,39.0,48.0,Linear-A,98,550,Средневековье,2020.0,3.0,Italian
 2781,Linear-A Eastern Roman Empire Infantry Set 1 (039),501,599,2023.0,39.0,48.0,Linear-A,98,550,Средневековье,2020.0,3.0,Turkish
 2782,Linear-A Publius Quinctilius Varus 'Disaster' (012s),1,20,2023.0,37.0,4.0,Linear-A,19,10,Древний мир,2020.0,3.0,Italian
@@ -3349,7 +3302,6 @@ id,header,years_from,years_to,release_year,aggregate_rating,num_figures,manufact
 2865,Strelets Arabs in Ambush (M149),1900,1930,2021.0,44.0,52.0,Strelets,30,1915,Новейшее время,2020.0,5.0,Arab
 2867,First To Fight Polish Horse Artillery (PL1939-084),1939,1939,2021.0,31.0,12.0,First To Fight,0,1939,Новейшее время,2020.0,5.0,Polish
 2868,Strelets Austrian Infantry 1701-1714 on the March (260),1700,1714,2024.0,42.0,52.0,Strelets,14,1707,Новое время,2020.0,2.0,Austrian
-2868,Strelets Austrian Infantry 1701-1714 on the March (260),1700,1714,2024.0,42.0,52.0,Strelets,14,1707,Новое время,2020.0,2.0,Habsburg Imperial
 2869,Italeri Desert Well and Tents (6148),1500,2000,2018.0,,,Italeri,500,1750,Новое время,2010.0,8.0,Не указано
 2870,Strelets Dutch Cuirassiers (259),1707,1713,2023.0,46.0,12.0,Strelets,6,1710,Новое время,2020.0,3.0,Dutch
 2871,Mars US Machine Gunners D-Day (72125),1943,1945,2021.0,46.0,32.0,Mars,2,1944,Новейшее время,2020.0,5.0,USA
@@ -3428,10 +3380,8 @@ id,header,years_from,years_to,release_year,aggregate_rating,num_figures,manufact
 2946,Mars Pirates of the Caribbean Set 2 (72069),1650,1730,,,,Mars,80,1690,Новое время,,,Не указано
 2947,Mars German Volkssturm Defenders Set 2 (72130),1944,1945,2022.0,41.0,40.0,Mars,1,1944,Новейшее время,2020.0,4.0,German
 2948,Mars German Mercenaries (Mid 16th Century) (72131),1540,1560,2008.0,,40.0,Mars,20,1550,Средневековье,2000.0,18.0,German
-2949,Mars Persian Light Cavalry (72132),-500,-230,2022.0,,12.0,Mars,270,-365,Древний мир,2020.0,4.0,Iranian
 2949,Mars Persian Light Cavalry (72132),-500,-230,2022.0,,12.0,Mars,270,-365,Древний мир,2020.0,4.0,Persian
 2949,Mars Persian Light Cavalry (72132),-500,-230,2022.0,,12.0,Mars,270,-365,Древний мир,2020.0,4.0,Scythian
-2950,Mars Persian Mercenary Cavalry (72133),-500,-230,2022.0,,12.0,Mars,270,-365,Древний мир,2020.0,4.0,Iranian
 2950,Mars Persian Mercenary Cavalry (72133),-500,-230,2022.0,,12.0,Mars,270,-365,Древний мир,2020.0,4.0,Persian
 2951,Mars Ancient Artillery (72134),-100,-100,2002.0,,5.0,Mars,0,-100,Древний мир,2000.0,24.0,Не указано
 2952,Mars Dacian Army (72135),100,110,,,,Mars,10,105,Древний мир,,,Dacian
@@ -3440,7 +3390,6 @@ id,header,years_from,years_to,release_year,aggregate_rating,num_figures,manufact
 2954,Hegemony Phrygians (HB012),-1100,100,2022.0,25.0,,Hegemony,1200,-500,Древний мир,2020.0,4.0,Phrygian
 2954,Hegemony Phrygians (HB012),-1100,100,2022.0,25.0,,Hegemony,1200,-500,Древний мир,2020.0,4.0,Turkish
 2955,Hegemony Persian War Elephants (HB013),-500,-300,2022.0,15.0,8.0,Hegemony,200,-400,Древний мир,2020.0,4.0,Indian
-2955,Hegemony Persian War Elephants (HB013),-500,-300,2022.0,15.0,8.0,Hegemony,200,-400,Древний мир,2020.0,4.0,Iranian
 2955,Hegemony Persian War Elephants (HB013),-500,-300,2022.0,15.0,8.0,Hegemony,200,-400,Древний мир,2020.0,4.0,Persian
 2956,Orion Long Range Desert Group (72062),1941,1943,2023.0,34.0,48.0,Orion,2,1942,Новейшее время,2020.0,3.0,British
 2957,Orion German Panzer Soldiers (DAK) (72063),1941,1942,2023.0,47.0,48.0,Orion,1,1941,Новейшее время,2020.0,3.0,German
@@ -3451,7 +3400,7 @@ id,header,years_from,years_to,release_year,aggregate_rating,num_figures,manufact
 2963,Orion Italian Tank Crew (72066),1935,1943,2023.0,49.0,48.0,Orion,8,1939,Новейшее время,2020.0,3.0,Italian
 2964,Strelets 1745 Jacobite Artillery (283),1745,1746,2023.0,44.0,10.0,Strelets,1,1745,Новое время,2020.0,3.0,British
 2965,Strelets Russian Jaegers in Winter Dress (289),1809,1815,2023.0,44.0,44.0,Strelets,6,1812,Новое время,2020.0,3.0,Russian
-2970,RedBox Byzantine Light Cavalry Set 1 (72137),575,1400,2024.0,36.0,12.0,RedBox,825,987,Средневековье,2020.0,2.0,Byzantine
+2970,RedBox Byzantine Light Cavalry Set 1 (72137),575,1400,2024.0,36.0,12.0,RedBox,825,987,Средневековье,2020.0,2.0,Greek
 2970,RedBox Byzantine Light Cavalry Set 1 (72137),575,1400,2024.0,36.0,12.0,RedBox,825,987,Средневековье,2020.0,2.0,Turkish
 2971,Linear-A Neo-Assyrian Empire Siege Engineer Set 4 (083),-911,-605,2025.0,44.0,40.0,Linear-A,306,-758,Древний мир,2020.0,1.0,Assyrian
 2972,Linear-A Neo-Assyrian Empire Infantry Set 5 (084),-740,-612,2024.0,47.0,40.0,Linear-A,128,-676,Древний мир,2020.0,2.0,Assyrian
@@ -3480,7 +3429,6 @@ id,header,years_from,years_to,release_year,aggregate_rating,num_figures,manufact
 3010,Mars German Artillery Crew (Winter) (72142),1942,1945,2024.0,46.0,36.0,Mars,3,1943,Новейшее время,2020.0,2.0,German
 3011,Strelets Early WWII US Infantry in Combat (M159),1941,1942,2024.0,36.0,52.0,Strelets,1,1941,Новейшее время,2020.0,2.0,USA
 3012,Strelets Austrian Infantry 1701-1714 in Attack (261),1701,1714,2024.0,43.0,44.0,Strelets,13,1707,Новое время,2020.0,2.0,Austrian
-3012,Strelets Austrian Infantry 1701-1714 in Attack (261),1701,1714,2024.0,43.0,44.0,Strelets,13,1707,Новое время,2020.0,2.0,Habsburg Imperial
 3013,HaT French Light Infantry Chasseurs Sampler (8341),1806,1812,2024.0,,25.0,HaT,6,1809,Новое время,2020.0,2.0,French
 3014,Waterloo 1815 Celtic Warriors (045),-300,200,,,,Waterloo 1815,500,-50,Древний мир,,,Не указано
 3019,Linear-A Gangs/Revolt in Rome (Set 1) (112),-200,-27,2026.0,42.0,20.0,Linear-A,173,-114,Древний мир,2020.0,0.0,Italian
@@ -3495,7 +3443,6 @@ id,header,years_from,years_to,release_year,aggregate_rating,num_figures,manufact
 3038,Ultima Ratio Burgundian Foot Soldiers (UR022),1419,1480,2024.0,39.0,24.0,Ultima Ratio,61,1449,Средневековье,2020.0,2.0,Burgundian
 3038,Ultima Ratio Burgundian Foot Soldiers (UR022),1419,1480,2024.0,39.0,24.0,Ultima Ratio,61,1449,Средневековье,2020.0,2.0,French
 3044,"Linear-A Jesus, the True Story (128)",25,35,2025.0,,20.0,Linear-A,10,30,Древний мир,2020.0,1.0,Israeli
-3044,"Linear-A Jesus, the True Story (128)",25,35,2025.0,,20.0,Linear-A,10,30,Древний мир,2020.0,1.0,Judean
 3047,Strelets Seminole Warriors (M160),1816,1858,2024.0,43.0,56.0,Strelets,42,1837,Новое время,2020.0,2.0,USA
 3048,Strelets US Volunteers (Seminole Wars) (M161),1816,1858,2024.0,44.0,52.0,Strelets,42,1837,Новое время,2020.0,2.0,USA
 3049,Ultima Ratio Roman Republic Army: Hastati (UR023),-270,-110,2024.0,40.0,24.0,Ultima Ratio,160,-190,Древний мир,2020.0,2.0,Italian
@@ -3514,7 +3461,7 @@ id,header,years_from,years_to,release_year,aggregate_rating,num_figures,manufact
 3064,Strelets Early WWII Infantry in Defence (M162),1940,1942,2025.0,40.0,48.0,Strelets,2,1941,Новейшее время,2020.0,1.0,USA
 3065,Strelets IJA Infantry in Melee (M163),1938,1945,2025.0,42.0,52.0,Strelets,7,1941,Новейшее время,2020.0,1.0,Japanese
 3066,Strelets Holy Roman Empire Grenadiers 1701-1714 (269),1701,1714,2025.0,47.0,52.0,Strelets,13,1707,Новое время,2020.0,1.0,German
-3066,Strelets Holy Roman Empire Grenadiers 1701-1714 (269),1701,1714,2025.0,47.0,52.0,Strelets,13,1707,Новое время,2020.0,1.0,Habsburg Imperial
+3066,Strelets Holy Roman Empire Grenadiers 1701-1714 (269),1701,1714,2025.0,47.0,52.0,Strelets,13,1707,Новое время,2020.0,1.0,Austrian
 3067,Orion Finnish Tank Crew WW2 (72071),1937,1945,2025.0,44.0,48.0,Orion,8,1941,Новейшее время,2020.0,1.0,Finnish
 3068,Orion USMC in Vietnam (Late War) (72072),1970,1973,2025.0,43.0,43.0,Orion,3,1971,Современность,2020.0,1.0,USA
 3069,Orion Spanish Republican Pilots (72073),1930,1939,2025.0,45.0,48.0,Orion,9,1934,Новейшее время,2020.0,1.0,Spanish

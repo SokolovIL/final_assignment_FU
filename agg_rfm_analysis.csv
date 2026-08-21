@@ -1,0 +1,615 @@
+manufacturer,nationality,Recency,Frequency,Magnitude
+Airfix,Confederate,64,2,22.5
+Airfix,Arab,62,1,38.0
+Airfix,Japanese,62,1,44.0
+Airfix,Celtic,57,1,41.0
+Almark,British,54,2,30.0
+Atlantic,Chinese,54,1,23.0
+Airfix,French,51,6,34.0
+Atlantic,British,51,1,22.0
+Atlantic,Egyptian,50,3,37.333333333333336
+Atlantic,Russian,50,2,29.0
+Airfix,Australian,50,1,44.0
+Airfix,Nepalese,50,1,40.0
+Atlantic,Japanese,50,1,27.0
+Matchbox,USA,50,1,43.0
+Atlantic,USA,49,16,24.1875
+Atlantic,German,49,3,28.0
+Atlantic,Greek,49,3,29.0
+Matchbox,German,49,2,43.0
+Atlantic,Indian,49,1,24.0
+Atlantic,Italian,48,24,21.833333333333332
+Matchbox,Australian,46,1,49.0
+Matchbox,New Zealand,46,1,49.0
+Airfix,German,45,10,39.9
+Airfix,Italian,45,3,36.333333333333336
+Airfix,Spanish,45,1,43.0
+Airfix,USA,44,17,32.23529411764706
+Airfix,Russian,44,2,34.0
+Esci,Japanese,44,1,45.0
+Matchbox,British,43,4,43.5
+Esci,South African,42,1,37.0
+Esci,Zulu,42,1,37.0
+Esci,Confederate,41,1,44.0
+Esci,Australian,40,1,46.0
+Esci,Austrian,40,1,36.0
+Esci,Vietnamese,40,1,47.0
+Esci,Indian,39,2,42.0
+Esci,Afghan,39,1,41.0
+Esci,Sudanese,39,1,41.0
+Esci,Russian,38,4,40.75
+Esci,British,37,14,40.714285714285715
+Esci,French,37,10,39.4
+Esci,German,37,9,42.22222222222222
+Esci,USA,37,8,43.5
+Esci,Italian,37,4,44.75
+Esci,Polish,37,2,39.5
+Fujimi,USA,37,2,43.0
+Esci,Belgian,37,1,43.0
+Esci,Czech,37,1,46.0
+Esci,Dutch,37,1,43.0
+Esci,East German,37,1,46.0
+Esci,Hungarian,37,1,46.0
+Revell,Anglo-Saxon,37,1,45.0
+Revell,Australian,37,1,43.0
+Revell,Celtic,37,1,45.0
+Revell,Norman,37,1,47.0
+Accurate,USA,35,2,48.0
+Revell,Swedish,35,2,49.0
+Accurate,Confederate,35,1,48.0
+Revell,Aztec,35,1,46.0
+Revell,Mexican,35,1,46.0
+Revell,Spanish,35,1,41.0
+Fujimi,German,34,1,26.0
+Preiser,Spanish,34,1,46.0
+Revell,Japanese,33,1,47.0
+Revell,Austrian,32,5,45.6
+Gulliver,USA,32,1,43.0
+IMEX,Confederate,31,3,38.333333333333336
+Revell,Russian,31,3,44.0
+IMEX,Texian,29,1,48.0
+Hasegawa,USA,28,5,36.8
+Hasegawa,German,28,3,34.666666666666664
+Italeri,Confederate,28,2,47.5
+Hasegawa,British,28,1,33.0
+Italeri,Frankish,28,1,46.0
+HaT,Numidian,27,1,39.0
+Waterloo 1815,Confederate,27,1,19.0
+Italeri,Gaul,26,1,40.0
+HaT,Algerian,25,4,40.25
+HaT,Tunisian,25,3,40.666666666666664
+HaT,Libyan,25,2,36.0
+A Call To Arms,South African,25,1,43.0
+A Call To Arms,Zulu,25,1,43.0
+HaT,Bulgarian,25,1,41.0
+HaT,Portuguese,25,1,35.0
+HaT,Thracian,25,1,41.0
+A Call To Arms,French,24,3,39.666666666666664
+A Call To Arms,USA,24,2,40.0
+HYTTY,Algerian,24,1,19.0
+HYTTY,Greek,24,1,19.0
+HYTTY,Libyan,24,1,19.0
+HYTTY,Spanish,24,1,19.0
+HYTTY,Tunisian,24,1,19.0
+HaT,Pictish,24,1,33.0
+LW,Afghan,24,1,27.0
+LW,Polish,24,1,27.0
+LW,Scythian,24,1,27.0
+LW,Tajik,24,1,27.0
+LW,Ukrainian,24,1,27.0
+LW,Uzbek,24,1,27.0
+Orion,Danish,24,1,46.0
+Orion,Norwegian,24,1,46.0
+Orion,Swedish,24,1,46.0
+Orion,Viking,24,1,46.0
+Preiser,USA,24,1,46.0
+Waterloo 1815,Belgian,24,1,37.0
+Waterloo 1815,Polish,24,1,44.0
+Zvezda,Macedonian,24,1,37.0
+HaT,CeltIberian,23,3,38.0
+Dark Dream Studio,Russian,23,1,48.0
+LW,German,23,1,32.0
+Lucky Toys,Hun,23,1,38.0
+Zvezda,Seleucid,23,1,46.0
+Zvezda,Syrian,23,1,46.0
+HaT,Dutch,22,3,40.0
+Lucky Toys,USA,22,2,24.5
+Odemars,Italian,22,2,29.0
+Caesar,Japanese,22,1,43.0
+Evolution,Carthaginian,22,1,30.0
+Evolution,Tunisian,22,1,30.0
+HaT,Dacian,22,1,40.0
+HaT,Nubian,22,1,30.0
+HaT,Sea People,22,1,32.0
+LW,Japanese,22,1,34.0
+Lucky Toys,Austrian,22,1,32.0
+Orion,Chinese,22,1,49.0
+Preiser,Russian,22,1,45.0
+MiniArt,French,21,5,34.6
+Zvezda,Japanese,21,3,47.0
+MiniArt,Burgundian,21,2,34.5
+Waterloo 1815,Sudanese,21,2,41.0
+A Call To Arms,Belgian,21,1,32.0
+A Call To Arms,Dutch,21,1,32.0
+Emhar,Russian,21,1,50.0
+Emhar,Saxon,21,1,45.0
+Emhar,USA,21,1,44.0
+HaT,Goth,21,1,43.0
+HaT,Ukrainian,21,1,43.0
+IMEX,Chinese,21,1,47.0
+IMEX,North Korean,21,1,45.0
+IMEX,South Korean,21,1,46.0
+LW,Portuguese,21,1,37.0
+LW,Swiss,21,1,37.0
+Odemars,Portuguese,21,1,26.0
+Odemars,Spanish,21,1,39.0
+Pegasus,Mexican,21,1,50.0
+Waterloo 1815,Egyptian,21,1,41.0
+Zvezda,Saxon,21,1,44.0
+HaT,Syrian,20,5,40.6
+HaT,Assyrian,20,4,42.0
+IMEX,Mexican,20,4,34.5
+Evolution,Ukrainian,20,3,33.0
+LW,Italian,20,3,25.0
+Caesar,Assyrian,20,2,44.5
+Caesar,Hittite,20,2,45.5
+Caesar,Sea People,20,2,48.0
+Caesar,Turkish,20,2,45.5
+Evolution,Russian,20,2,34.0
+Evolution,Sarmatian,20,2,33.0
+HaT,Sumerian,20,2,41.0
+IMEX,British,20,2,44.0
+Waterloo 1815,Austrian,20,2,26.5
+Caesar,Anatolian,20,1,46.0
+Caesar,Arab,20,1,46.0
+Caesar,Belize,20,1,43.0
+Caesar,Guatamalan,20,1,43.0
+Caesar,Incan,20,1,48.0
+Caesar,Libyan,20,1,46.0
+Caesar,Mayan,20,1,43.0
+Caesar,Mitannian,20,1,48.0
+Caesar,Peruvian,20,1,48.0
+Coates & Shine,Burundi,20,1,30.0
+Coates & Shine,Rwandan,20,1,30.0
+Coates & Shine,Serbian,20,1,29.0
+Coates & Shine,Tanzanian,20,1,30.0
+Evolution,Dacian,20,1,22.0
+Evolution,Romanian,20,1,22.0
+Lucky Toys,Indian,20,1,44.0
+MiniArt,Swiss,20,1,41.0
+Odemars,Bosnian,20,1,39.0
+Odemars,Israeli,20,1,47.0
+Orion,Parthian,20,1,30.0
+Orion,Persian,20,1,30.0
+Orion,Scottish,20,1,39.0
+RedBox,Afghan,20,1,35.0
+RedBox,Pictish,20,1,34.0
+Strelets,Cossack,20,1,43.0
+Zvezda,Carthaginian,20,1,47.0
+Italeri,French,19,15,42.6
+Zvezda,Italian,19,4,46.0
+Italeri,Austrian,19,3,38.666666666666664
+MiniArt,Italian,19,3,36.333333333333336
+HaT,Nassau,19,2,42.5
+HaT,Parthian,19,2,44.5
+MiniArt,German,19,2,41.0
+Odemars,German,19,2,42.0
+Zvezda,Tunisian,19,2,45.5
+Caesar,Nubian,19,1,44.0
+Caesar,Sudanese,19,1,44.0
+Coates & Shine,German,19,1,35.0
+Coates & Shine,Goth,19,1,35.0
+Coates & Shine,Greek,19,1,43.0
+Coates & Shine,Macedonian,19,1,47.0
+Coates & Shine,Polish,19,1,35.0
+IMEX,German,19,1,42.0
+LW,Dacian,19,1,36.0
+LW,Romanian,19,1,36.0
+MiniArt,Czech,19,1,35.0
+MiniArt,Hussite,19,1,35.0
+Strelets,Breton,19,1,40.0
+Zvezda,Algerian,19,1,44.0
+Zvezda,Danish,19,1,46.0
+Zvezda,Egyptian,19,1,42.0
+Zvezda,Norwegian,19,1,46.0
+Zvezda,Viking,19,1,46.0
+IMEX,USA,18,18,43.166666666666664
+BUM,Spanish,18,7,41.42857142857143
+HaT,Celtic,18,6,41.0
+Coates & Shine,Indian,18,4,42.5
+Lucky Toys,Italian,18,4,34.25
+Emhar,German,18,3,42.0
+LW,Russian,18,3,25.333333333333332
+Odemars,French,18,3,36.666666666666664
+RedBox,Korean,18,3,36.666666666666664
+RedBox,North Korean,18,3,36.666666666666664
+RedBox,South Korean,18,3,36.666666666666664
+Caesar,Belgian,18,2,44.5
+Caesar,Czech,18,2,44.5
+Caesar,Dutch,18,2,44.5
+Caesar,Polish,18,2,44.5
+Caesar,Yugoslavian,18,2,44.5
+Emhar,Danish,18,2,47.5
+Emhar,Norwegian,18,2,47.5
+Emhar,Swedish,18,2,47.5
+Emhar,Viking,18,2,47.5
+HaT,Egyptian,18,2,36.5
+Italeri,Arab,18,2,39.0
+Italeri,Egyptian,18,2,39.0
+Italeri,Iraqi,18,2,39.0
+Italeri,Mongolian,18,2,44.5
+Italeri,Syrian,18,2,39.0
+LW,Spanish,18,2,32.5
+Odemars,British,18,2,32.5
+Orion,Scythian,18,2,42.5
+Zvezda,British,18,2,47.0
+Zvezda,Turkish,18,2,46.0
+Caesar,Bosnian,18,1,45.0
+Caesar,Croatian,18,1,45.0
+Caesar,Norwegian,18,1,45.0
+Caesar,Serbian,18,1,45.0
+Eduard,British,18,1,45.0
+GerMan,Austrian,18,1,36.0
+HaT,Gaul,18,1,47.0
+Italeri,Turkish,18,1,35.0
+LW,Israeli,18,1,27.0
+Mars,Persian,18,1,28.0
+Orion,Bulgarian,18,1,37.0
+Orion,Kazakhstani,18,1,43.0
+Orion,Kyrgyzstani,18,1,43.0
+Orion,Tajikistani,18,1,43.0
+Orion,Turkmenistani,18,1,43.0
+Orion,Uzbek,18,1,43.0
+Pegasus,Italian,18,1,50.0
+Pobeda,Finnish,18,1,36.0
+RedBox,Indian,18,1,28.0
+Tragik,French,18,1,41.0
+Tragik,German,18,1,42.0
+Valiant,USA,18,1,47.0
+Zvezda,Austrian,18,1,46.0
+HaT,Greek,17,8,41.25
+Italeri,Russian,17,5,40.6
+Dark Dream Studio,German,17,4,42.0
+GerMan,French,17,4,43.5
+HaT,Bavarian,17,4,38.25
+HaT,Macedonian,17,4,41.0
+Pegasus,USA,17,4,48.5
+HaT,Australian,17,3,44.333333333333336
+Dark Dream Studio,British,17,2,46.0
+Dark Dream Studio,French,17,2,46.0
+HaT,New Zealand,17,2,44.5
+HaT,Saxon,17,2,33.0
+Orion,Albanian,17,2,36.5
+Waterloo 1815,Dutch,17,2,41.0
+Waterloo 1815,Japanese,17,2,47.0
+Zvezda,Polish,17,2,47.5
+Caesar,Celtic,17,1,48.0
+Caesar,Persian,17,1,45.0
+Caesar,Somalian,17,1,42.0
+Dark Dream Studio,Italian,17,1,44.0
+Dark Dream Studio,Spanish,17,1,44.0
+GerMan,Hungarian,17,1,37.0
+Italeri,Chinese,17,1,46.0
+Legio,French,17,1,49.0
+Lucky Toys,Romanian,17,1,44.0
+Lucky Toys,Turkish,17,1,44.0
+Lucky Toys,Wallacian,17,1,44.0
+Mars,Saxon,17,1,38.0
+Mars,Scottish,17,1,36.0
+Orion,Bosnian,17,1,36.0
+Orion,Georgian,17,1,42.0
+Orion,Khazar,17,1,42.0
+Orion,Serbian,17,1,36.0
+Orion,Slav,17,1,36.0
+Strelets,Mongolian,17,1,40.0
+Valdemar,Croatian,17,1,49.0
+Valdemar,Cuman,17,1,46.0
+Valdemar,German,17,1,48.0
+Valdemar,Russian,17,1,45.0
+Valdemar,Ukrainian,17,1,46.0
+Valdemar,Welsh,17,1,49.0
+Waterloo 1815,Brunswick,17,1,45.0
+Waterloo 1815,Nassau,17,1,45.0
+Zvezda,Kazak,17,1,47.0
+Zvezda,Scythian,17,1,47.0
+Zvezda,Ukrainian,17,1,45.0
+Italeri,British,16,11,41.18181818181818
+Italeri,USA,16,11,43.18181818181818
+GerMan,Spanish,16,9,40.333333333333336
+Orion,Ukrainian,16,8,42.0
+Strelets,Dacian,16,6,38.5
+Italeri,Italian,16,5,41.4
+RedBox,USA,16,5,36.6
+Zvezda,Swedish,16,4,45.5
+GerMan,British,16,3,38.0
+HaT,Swedish,16,3,39.666666666666664
+Metch,British,16,2,40.0
+Pegasus,French,16,2,48.0
+GerMan,Indian,16,1,41.0
+Italeri,Goth,16,1,41.0
+LW,French,16,1,38.0
+Orion,CeltIberian,16,1,33.0
+Orion,Cuman,16,1,43.0
+Orion,Pecheneg,16,1,43.0
+Orion,Portuguese,16,1,33.0
+Pobeda,Russian,16,1,37.0
+RedBox,Austrian,16,1,37.0
+RedBox,Nepalese,16,1,36.0
+Airfix,British,15,23,35.130434782608695
+Zvezda,French,15,8,45.75
+Strelets,Romanian,15,7,38.57142857142857
+BUM,USA,15,4,37.75
+HaT,Sudanese,15,4,41.25
+BUM,British,15,3,40.0
+HaT,Canadian,15,2,38.0
+Orion,Israeli,15,2,42.5
+RedBox,Czech,15,2,39.0
+RedBox,Hussite,15,2,39.0
+Strelets,Egyptian,15,2,42.5
+BUM,Canadian,15,1,35.0
+BUM,French,15,1,35.0
+Caesar,Israeli,15,1,46.0
+Orion,Bohemian,15,1,39.0
+Orion,Czech,15,1,39.0
+Zvezda,Greek,15,1,47.0
+Zvezda,Mongolian,15,1,47.0
+Revell,German,14,18,44.666666666666664
+Zvezda,Russian,14,17,46.76470588235294
+Revell,British,14,12,45.416666666666664
+Revell,USA,14,7,45.142857142857146
+Waterloo 1815,USA,14,7,41.0
+Caesar,Egyptian,14,6,48.0
+Revell,French,14,6,46.5
+Armourfast,German,14,5,43.8
+HaT,Andalusian,14,4,42.75
+Plastic Soldier,Russian,14,4,46.5
+Caesar,Greek,14,3,45.333333333333336
+HaT,Almoravid,14,3,44.0
+HaT,Brunswick,14,3,41.666666666666664
+HaT,W&uuml;rttemberg,14,3,45.0
+Orion,Greek,14,3,39.0
+Caesar,Mexican,14,2,45.0
+HaT,Moroccan,14,2,44.5
+Revell,Italian,14,2,47.5
+Caesar,Aztec,14,1,47.0
+Caesar,Mycenaean,14,1,49.0
+MM,Italian,14,1,46.0
+MM,Swiss,14,1,46.0
+Revell,Belgian,14,1,50.0
+Strelets,Sarmatian,14,1,38.0
+Caesar,Italian,13,10,45.2
+A Call To Arms,British,13,9,41.111111111111114
+Caesar,British,13,7,45.57142857142857
+Pegasus,German,13,7,48.0
+Pegasus,Russian,13,7,47.42857142857143
+HaT,Carthaginian,13,5,39.2
+Zvezda,German,13,5,45.6
+HaT,Turkish,13,4,43.25
+Mars,Teutonic,13,4,31.0
+Caesar,Frankish,13,3,46.0
+Strelets,Frankish,13,3,37.0
+Caesar,Spanish,13,2,45.5
+Strelets,Ukrainian,13,2,38.5
+Valiant,British,13,2,44.0
+Ykreol,French,13,2,37.0
+Linear-B,British,13,1,48.0
+Linear-B,Celtic,13,1,46.0
+Mars,Hungarian,13,1,37.0
+Strelets,Estonian,13,1,39.0
+Strelets,Latvian,13,1,39.0
+Strelets,Lithuanian,13,1,39.0
+HaT,Spanish,12,20,41.25
+Italeri,German,12,13,40.46153846153846
+Linear-B,Italian,12,11,40.45454545454545
+Mars,Lithuanian,12,7,34.142857142857146
+Emhar,British,12,5,44.2
+Mars,Greek,12,4,30.5
+Emhar,French,12,3,41.666666666666664
+HaT,Indian,12,3,42.0
+HaT,Tanzanian,12,2,39.5
+Mars,Algerian,12,2,35.5
+Mars,Mycenaean,12,2,31.5
+Toxso,USA,12,2,41.5
+Emhar,Portuguese,12,1,46.0
+Emhar,Spanish,12,1,47.0
+HaT,Cameroonian,12,1,39.0
+HaT,Hun,12,1,41.0
+HaT,Japanese,12,1,46.0
+HaT,Kenyan,12,1,40.0
+Mars,Sea People,12,1,32.0
+Mars,Tunisian,12,1,37.0
+Ultima Ratio,Afghan,12,1,44.0
+Orion,Russian,11,19,42.1578947368421
+Waterloo 1815,British,11,7,42.285714285714285
+RedBox,Swiss,11,5,40.0
+Mars,Spanish,11,4,34.5
+RedBox,Irish,11,3,41.0
+Ultima Ratio,Russian,11,3,40.666666666666664
+Mars,Dutch,11,2,35.5
+Panzer vs Tanks,Israeli,11,2,50.0
+RedBox,Albanian,11,2,38.5
+RedBox,Serbian,11,2,38.5
+Linear-B,Pontic,11,1,39.0
+Linear-B,Turkish,11,1,39.0
+Mars,Crimean,11,1,36.0
+Toxso,German,11,1,45.0
+Ultima Ratio,Polish,11,1,41.0
+RedBox,German,10,13,38.53846153846154
+RedBox,Japanese,10,12,39.666666666666664
+Mars,Polish,10,11,36.90909090909091
+Strelets,Norman,10,10,43.1
+Preiser,German,10,9,46.44444444444444
+Strelets,Swedish,10,8,40.75
+Strelets,Anglo-Saxon,10,4,41.75
+HaT,Romanian,10,3,41.666666666666664
+Panzer vs Tanks,German,10,3,50.0
+RedBox,Dutch,10,3,38.333333333333336
+Strelets,Danish,10,3,41.666666666666664
+Strelets,Norwegian,10,3,41.666666666666664
+Strelets,Viking,10,3,41.666666666666664
+HaT,Polish,10,2,41.5
+Strelets,Saxon,10,2,42.0
+Linear-A,Israeli,10,1,43.0
+Linear-A,Palestinian,10,1,43.0
+Model Kasten,Japanese,10,1,50.0
+Panzer vs Tanks,USA,10,1,50.0
+Strelets,Pakistani,10,1,39.0
+Mars,French,9,12,35.333333333333336
+HaT,Persian,9,11,42.90909090909091
+Mars,Austrian,9,11,33.54545454545455
+HaT,Iraqi,9,9,42.111111111111114
+RedBox,Spanish,9,9,41.888888888888886
+Caesar,French,9,8,45.75
+Mars,Swedish,9,8,32.375
+Strelets,Polish,9,7,42.857142857142854
+Mars,Turkish,9,6,32.5
+Waterloo 1815,French,9,6,45.0
+HaT,Sassanian,9,4,42.0
+Strelets,Hungarian,9,3,41.0
+Strelets,Indian,9,3,42.0
+Ultima Ratio,Swiss,9,2,39.5
+Mars,Burgundian,9,1,31.0
+Strelets,Serbian,9,1,40.0
+Ultima Ratio,British,9,1,42.0
+HaT,French,8,41,41.146341463414636
+Caesar,German,8,39,45.64102564102564
+Strelets,Turkish,8,9,42.111111111111114
+Caesar,USA,8,8,44.75
+Strelets,Confederate,8,8,42.25
+Valiant,German,8,7,44.42857142857143
+Caesar,Syrian,8,6,45.666666666666664
+HaT,Belgian,8,6,39.166666666666664
+RedBox,Chinese,8,6,37.0
+Waterloo 1815,German,8,6,42.833333333333336
+First To Fight,German,8,5,38.8
+Caesar,Iraqi,8,3,45.666666666666664
+HaT,Zulu,8,3,39.0
+RedBox,Burgundian,8,3,39.0
+Hasegawa,Japanese,8,2,41.5
+Mars,Japanese,8,2,33.5
+Strelets,Greek,8,2,44.0
+Strelets,New Zealand,8,2,40.0
+Linear-A,Etruscan,8,1,43.0
+Strelets,Celtic,8,1,45.0
+Strelets,Gaul,8,1,43.0
+HaT,South African,7,7,39.857142857142854
+Strelets,South African,7,7,40.42857142857143
+Strelets,Boer,7,6,40.666666666666664
+Orion,Turkish,7,5,43.0
+Hegemony,British,7,2,24.5
+Strelets,Rifian,7,2,37.0
+Mars,Finnish,7,1,32.0
+Strelets,Brunswick,7,1,45.0
+RedBox,Russian,6,20,41.6
+HaT,Austrian,6,18,41.72222222222222
+Waterloo 1815,Italian,6,16,43.1875
+Strelets,Finnish,6,4,41.75
+Orion,South Vietnamese,6,3,40.0
+Strelets,Syrian,6,3,44.0
+Linear-A,Spanish,6,2,45.0
+Linear-A,Tunisian,6,2,44.0
+Linear-A,Algerian,6,1,41.0
+Strelets,Iraqi,6,1,45.0
+Strelets,Italian,5,40,41.15
+HaT,Italian,5,27,40.0
+RedBox,French,5,16,41.125
+Strelets,Arab,5,8,42.5
+Strelets,Scottish,5,7,39.0
+Orion,Vietnamese,5,6,38.166666666666664
+Strelets,Australian,5,6,41.833333333333336
+RedBox,Scottish,5,5,41.4
+Strelets,Moroccan,5,4,36.0
+Linear-A,German,5,3,40.0
+Linear-A,Celtic,5,2,44.5
+Linear-A,Minoan,5,1,41.0
+T-Model,Afghan,5,1,38.0
+T-Model,Iraqi,5,1,38.0
+T-Model,Pakistani,5,1,38.0
+T-Model,Syrian,5,1,38.0
+Plastic Soldier,German,4,11,43.45454545454545
+Caesar,Chinese,4,5,46.8
+Plastic Soldier,British,4,5,44.6
+Plastic Soldier,USA,4,4,40.0
+Linear-A,Persian,4,3,41.666666666666664
+Ultima Ratio,USA,4,2,40.0
+Hegemony,Indian,4,1,15.0
+Hegemony,Persian,4,1,15.0
+Hegemony,Phrygian,4,1,25.0
+Hegemony,Turkish,4,1,25.0
+Mars,Australian,4,1,42.0
+Mars,Canadian,4,1,42.0
+Ultima Ratio,Confederate,4,1,40.0
+Strelets,Russian,3,57,42.54385964912281
+RedBox,Italian,3,13,39.23076923076923
+Mars,Russian,3,11,35.0
+Orion,German,3,8,43.375
+RedBox,Ukrainian,3,8,44.75
+Orion,Polish,3,6,43.5
+Orion,British,3,5,42.0
+Orion,Italian,3,5,42.4
+Mars,Tatar,3,4,32.75
+RedBox,Cossack,3,4,46.25
+Linear-A,British,3,3,37.666666666666664
+Linear-A,Carthaginian,3,3,45.333333333333336
+Orion,French,3,2,43.0
+Ultima Ratio,Libyan,3,1,40.0
+Ultima Ratio,Tunisian,3,1,42.0
+RedBox,Turkish,2,19,39.21052631578947
+RedBox,Greek,2,8,39.875
+Strelets,Bavarian,2,7,45.42857142857143
+Mars,British,2,6,36.5
+Mars,Ukrainian,2,5,38.4
+Ultima Ratio,Carthaginian,2,3,40.0
+HaT,Hungarian,2,2,43.5
+Linear-A,Iraqi,2,2,43.5
+Ultima Ratio,CeltIberian,2,2,36.5
+Ultima Ratio,Spanish,2,2,36.5
+Linear-A,Harappan,2,1,44.0
+Linear-A,Indian,2,1,44.0
+Linear-A,Pakistani,2,1,44.0
+Orion,Hungarian,2,1,49.0
+Orion,Japanese,2,1,45.0
+Ultima Ratio,Burgundian,2,1,39.0
+Strelets,British,1,87,42.632183908045974
+Strelets,German,1,41,43.26829268292683
+HaT,British,1,35,42.6
+RedBox,British,1,24,39.333333333333336
+HaT,Russian,1,15,41.13333333333333
+Linear-A,Greek,1,14,42.714285714285715
+First To Fight,Polish,1,13,38.15384615384615
+Strelets,Austrian,1,12,42.416666666666664
+HaT,USA,1,11,42.09090909090909
+Strelets,Japanese,1,11,41.90909090909091
+Ultima Ratio,Italian,1,6,42.0
+Orion,USA,1,5,42.2
+Linear-A,Assyrian,1,4,46.25
+Linear-A,Syrian,1,4,45.25
+Strelets,Dutch,1,4,42.75
+Linear-A,Albanian,1,3,43.666666666666664
+Linear-A,Egyptian,1,3,44.0
+Linear-A,Epirote,1,3,43.666666666666664
+Linear-A,Turkish,1,3,41.333333333333336
+Orion,Spanish,1,3,39.0
+Linear-A,Seleucid,1,2,44.0
+Strelets,Spanish,1,2,43.5
+Ultima Ratio,Japanese,1,2,42.0
+Linear-A,Dacian,1,1,39.0
+Orion,Finnish,1,1,44.0
+Strelets,Texian,1,1,40.0
+Ultima Ratio,Bulgarian,1,1,44.0
+Ultima Ratio,Greek,1,1,44.0
+Ultima Ratio,Thracian,1,1,44.0
+Strelets,French,0,86,41.56976744186046
+HaT,German,0,57,40.719298245614034
+Linear-A,Italian,0,37,42.648648648648646
+Strelets,USA,0,36,41.083333333333336
+Mars,German,0,29,36.58620689655172
+Mars,USA,0,7,40.857142857142854
+Linear-A,French,0,5,44.4
+Ultima Ratio,French,0,4,43.5
+HaT,Hessian,0,3,42.0
+Mars,Italian,0,3,34.666666666666664
+Linear-A,Romanian,0,2,42.0
+Linear-A,Bulgarian,0,1,45.0
+Linear-A,Goth,0,1,45.0
+Linear-A,Macedonian,0,1,48.0
