@@ -211,7 +211,11 @@ ID,header,manufacturer,nationality,years_from,years_to,aggregate_rating,max_comp
 873,Strelets French Foreign Legion Artillery (290),Strelets,French,1925,1938,38,0.06220493198856457,True
 612,Atlantic The March on Rome - Mussolini and the Black Shirts (9007),Atlantic,Italian,1922,1939,31,0.06216867469879518,True
 2425,Mars Late Mycenaean Light Infantry (72087),Mars,Greek,-1250,-1200,31,0.06163356274211973,True
+3080,Ultima Ratio The Thracians (UR026),Ultima Ratio,Thracian,-650,30,44,0.06075336933827174,False
 943,Caesar Assyrian Cavalry (H010),Caesar,Assyrian,-710,-612,46,0.06069874644019755,True
+949,Caesar Assyrian Chariot (H011),Caesar,Assyrian,-699,-601,43,0.06069874644019755,True
+1300,Orion Scythian Cavalry (72024),Orion,Polish,-699,-101,43,0.060599373920759404,False
+235,LW Scythians (45),LW,Polish,-650,-250,27,0.060599373920759404,True
 2526,Strelets Mounted Rif Rebels (190),Strelets,Moroccan,1921,1928,27,0.06031986544921502,True
 842,Caesar Assyrian Army (H007),Caesar,Syrian,-710,-612,46,0.06028832913588216,False
 760,Hasegawa US Pilot/Ground Crew Set (35007),Hasegawa,USA,1980,1988,46,0.06016572513817147,False
@@ -242,11 +246,8 @@ ID,header,manufacturer,nationality,years_from,years_to,aggregate_rating,max_comp
 1742,HaT Württemberg Artillery (8232),HaT,German,1810,1813,44,0.0597988396532947,True
 1514,Lucky Toys Vlad Tzepes (TL0011),Lucky Toys,Romanian,1450,1475,44,0.05971007950379187,False
 2507,Mars British Commonwealth Troops (72127),Mars,Australian,1943,1945,42,0.05934689816865012,False
-3080,Ultima Ratio The Thracians (UR026),Ultima Ratio,Bulgarian,-650,30,44,0.05931545331228763,False
-949,Caesar Assyrian Chariot (H011),Caesar,Assyrian,-699,-601,43,0.058672901123446676,True
-1300,Orion Scythian Cavalry (72024),Orion,Polish,-699,-101,43,0.05857352860400853,False
-235,LW Scythians (45),LW,Polish,-650,-250,27,0.05857352860400853,True
 1452,HaT Zulus (8191),HaT,South African,1820,1879,40,0.05814627757030784,True
+1820,Zvezda Scythian Cavalry (8069),Zvezda,Kazak,-600,-300,47,0.05757746755796153,False
 1920,Orion Hussite War Wagon and Command (72039),Orion,Bohemian,1412,1436,39,0.05747870652267664,False
 1593,Waterloo 1815 Japanese 70mm Gun (003),Waterloo 1815,Japanese,1931,1945,47,0.05629933043381321,True
 2816,Strelets Japanese Type 11 Gun (281),Strelets,Japanese,1931,1940,40,0.05629933043381321,True
@@ -256,7 +257,6 @@ ID,header,manufacturer,nationality,years_from,years_to,aggregate_rating,max_comp
 3069,Orion Spanish Republican Pilots (72073),Orion,Spanish,1930,1939,45,0.056225214467868774,False
 1338,BUM Rif War 1920-1927 (5100),BUM,Spanish,1920,1927,41,0.056225214467868774,False
 467,Revell German Crisis Reaction Forces (KRK) (02522),Revell,German,2000,2000,44,0.056158295281434456,True
-1820,Zvezda Scythian Cavalry (8069),Zvezda,Kazak,-600,-300,47,0.05588869566366164,False
 1042,IMEX Mexican Round Hat Infantry (553),IMEX,Mexican,1820,1850,48,0.054880902638667774,False
 2920,Model Kasten JNAF Aircrew 'Rabaul Zero Fighter' (F-11 1800),Model Kasten,Japanese,1933,1945,50,0.05450820872773757,True
 2141,Strelets WWII Japanese Troops in Tropical Uniform (M114),Strelets,Japanese,1932,1945,41,0.05450820872773757,True
@@ -271,13 +271,14 @@ ID,header,manufacturer,nationality,years_from,years_to,aggregate_rating,max_comp
 2604,Strelets Red Cavalry in Summer Dress (164),Strelets,Russian,1918,1924,43,0.05435937867606749,True
 1248,Strelets Russian Infantry in Winter Uniform (M017),Strelets,Russian,1882,1925,42,0.05435937867606749,False
 559,LW Soviet 45mm Anti-Tank Gun 1932 (21),LW,Russian,1933,1945,31,0.05435937867606749,False
+1395,Caesar Greek Warriors (Hoplites) (H065),Caesar,Greek,-600,-400,40,0.05433947668507215,True
+72,Atlantic Greek Life in the Acropolis (1508),Atlantic,Greek,-600,-200,38,0.05433947668507215,False
 3067,Orion Finnish Tank Crew WW2 (72071),Orion,Finnish,1937,1945,44,0.053194284383437526,False
 1151,Zvezda Russian Infantry of Peter the Great (8049),Zvezda,Russian,1698,1725,45,0.0526706067817676,False
 1641,Strelets Court and Army of Peter I (905),Strelets,Russian,1696,1725,45,0.0526706067817676,False
 870,Strelets Artillery of Peter I (042),Strelets,Russian,1700,1725,44,0.0526706067817676,True
 568,Strelets Russian Dragoons of Peter I (010),Strelets,Russian,1699,1725,37,0.0526706067817676,True
-1395,Caesar Greek Warriors (Hoplites) (H065),Caesar,Greek,-600,-400,40,0.05265070479077226,True
-72,Atlantic Greek Life in the Acropolis (1508),Atlantic,Greek,-600,-200,38,0.05265070479077226,False
+2774,Linear-A Roman Army under King Servius Tullius (038),Linear-A,Italian,-599,-501,43,0.05259896729776248,True
 586,Revell Austrian Artillery (02579),Revell,Austrian,1756,1763,48,0.05199810441369571,True
 622,Revell Austrian Dragoons (02573),Revell,Austrian,1756,1763,45,0.05199810441369571,True
 499,Revell Austrian Infantry (02574),Revell,Austrian,1756,1763,40,0.05199810441369571,True
@@ -294,7 +295,6 @@ ID,header,manufacturer,nationality,years_from,years_to,aggregate_rating,max_comp
 1796,Strelets Red Army in Winter Dress (M044),Strelets,Russian,1918,1923,44,0.05107565554826214,True
 2053,BUM Whaleboat Rangers (2002),BUM,British,1756,1763,44,0.0510636733637376,True
 2047,Waterloo 1815 Roger's Rangers (035),Waterloo 1815,British,1757,1763,40,0.0510636733637376,True
-2774,Linear-A Roman Army under King Servius Tullius (038),Linear-A,Italian,-599,-501,43,0.05100401606425702,True
 64,Atlantic Italian Carabinieri Police (116),Atlantic,Italian,1965,1972,26,0.05100401606425702,True
 955,Strelets Australian Lancers (054),Strelets,Australian,1895,1905,41,0.05094673891092098,False
 3035,Orion USMC In Vietnam (Early War) (72068),Orion,USA,1965,1968,42,0.049653230521518286,True
@@ -334,8 +334,13 @@ ID,header,manufacturer,nationality,years_from,years_to,aggregate_rating,max_comp
 2970,RedBox Byzantine Light Cavalry Set 1 (72137),RedBox,Greek,575,1400,36,0.045473424239997735,True
 189,IMEX Mexican Artillery At The Alamo (520),IMEX,Mexican,1830,1840,31,0.044789460831266004,True
 184,IMEX Mexican Infantry (510),IMEX,Mexican,1830,1840,30,0.044789460831266004,True
+1246,Orion Scythian Infantry (72025),Orion,Polish,-550,-250,42,0.044787898277825755,True
 3068,Orion USMC in Vietnam (Late War) (72072),Orion,USA,1970,1973,43,0.04435424949523782,True
 28,Airfix Indians (01708),Airfix,USA,1830,1870,25,0.04435424949523782,True
+383,Zvezda Persian Infantry (8006),Zvezda,Persian,-550,-300,49,0.044336345562180544,False
+157,HaT Persian Light Infantry (8057),HaT,Persian,-550,-300,48,0.044336345562180544,True
+516,Zvezda Persian Chariot and Cavalry (8008),Zvezda,Persian,-550,-300,45,0.044336345562180544,True
+279,Odemars Persians (PF02),Odemars,Persian,-550,-300,17,0.044336345562180544,True
 699,Strelets Russian Terek Cossacks (026),Strelets,Russian,1830,1915,42,0.04426793686866572,False
 1120,Emhar Zouaves (7212),Emhar,French,1830,1914,40,0.044232554674429984,False
 781,Strelets Zouaves (033),Strelets,French,1830,1914,37,0.044232554674429984,True
@@ -344,16 +349,12 @@ ID,header,manufacturer,nationality,years_from,years_to,aggregate_rating,max_comp
 552,Italeri Austrian Grenadiers and Infantry (6005),Italeri,Austrian,1798,1809,40,0.044023348246168464,True
 134,HaT Austrian Cuirassiers (8015),HaT,Austrian,1798,1810,39,0.044023348246168464,True
 101,Esci Prussian and Austrian Infantry (226),Esci,Austrian,1798,1808,36,0.044023348246168464,True
-1246,Orion Scythian Infantry (72025),Orion,Polish,-550,-250,42,0.04362086078989493,True
 956,Strelets Bengal Lancers (057),Strelets,Indian,1875,1910,43,0.043320885489220265,False
 2099,HaT Colonial Bengal Lancers (8289),HaT,Indian,1864,1910,43,0.043320885489220265,False
 2813,Strelets Arabs in Retreat (M148),Strelets,Arab,1900,1920,41,0.043295852479625446,True
 1821,Mars Saxon Infantry (72035),Mars,German,1700,1721,38,0.043280557646152865,False
 1337,RedBox Japanese Infantry (72020),RedBox,Japanese,1882,1910,33,0.043249729432404974,False
-383,Zvezda Persian Infantry (8006),Zvezda,Persian,-550,-300,49,0.04316930807424972,False
-157,HaT Persian Light Infantry (8057),HaT,Persian,-550,-300,48,0.04316930807424972,True
-516,Zvezda Persian Chariot and Cavalry (8008),Zvezda,Persian,-550,-300,45,0.04316930807424972,True
-279,Odemars Persians (PF02),Odemars,Persian,-550,-300,17,0.04316930807424972,True
+173,HYTTY Persians (1002),HYTTY,Persian,-525,-480,17,0.04316930807424972,True
 1135,HaT 1806 Prussian Elites (8136),HaT,German,1798,1807,44,0.04310869428002622,True
 1741,HaT 1806 Prussian Artillery (8230),HaT,German,1798,1806,43,0.04310869428002622,True
 1025,Strelets Russian Dragoons (058),Strelets,Russian,1882,1918,43,0.04310089938073489,True
@@ -388,11 +389,11 @@ ID,header,manufacturer,nationality,years_from,years_to,aggregate_rating,max_comp
 1084,Zvezda Swedish Infantry (8048),Zvezda,Swedish,1706,1721,39,0.04233616281254204,True
 1271,Mars Swedish Infantry (72020),Mars,Swedish,1704,1721,36,0.04233616281254204,True
 114,HaT Saxons (6006),HaT,German,150,600,24,0.04221838082045685,False
-173,HYTTY Persians (1002),HYTTY,Persian,-525,-480,17,0.04205655139971104,True
 2828,RedBox Prince's Lifeguard and Fitzjames Horse (72141),RedBox,British,1745,1746,46,0.04201504356164837,True
 1598,Zvezda Russian Artillery of Peter the Great (8058),Zvezda,Russian,1698,1721,48,0.04198814270619621,True
 1850,Zvezda Dragoons of Peter I (8072),Zvezda,Russian,1701,1721,47,0.04198814270619621,True
-1623,Linear-A Goths (Set 1) (058),Linear-A,Bulgarian,401,599,45,0.04195551104425587,False
+1848,Zvezda Spartans (8068),Zvezda,Greek,-520,-475,47,0.041968240715200875,True
+1623,Linear-A Goths (Set 1) (058),Linear-A,Thracian,401,599,45,0.04195551104425587,False
 2598,Strelets Creusot Long Tom 155mm Gun with Boer Crew (A014),Strelets,Boer,1898,1902,41,0.04184778931345453,True
 1550,RedBox Chinese Regiment (72032),RedBox,British,1899,1906,32,0.041501519032025105,True
 1471,HaT Sassanid Levy Infantry (8205),HaT,Persian,224,651,44,0.04140581840477018,False
@@ -411,7 +412,6 @@ ID,header,manufacturer,nationality,years_from,years_to,aggregate_rating,max_comp
 2113,Strelets 1745 British Artillery (284),Strelets,British,1745,1746,41,0.04091398369597565,True
 2808,RedBox Bonnie Prince Charlie and Scottish Cavalry (72149),RedBox,British,1745,1746,41,0.04091398369597565,True
 2933,Hegemony Romano-Britons (HB007),Hegemony,British,409,620,30,0.04091398369597565,True
-1848,Zvezda Spartans (8068),Zvezda,Greek,-520,-475,47,0.04090606388950486,True
 875,Linear-A The Nika Revolt (041),Linear-A,Greek,500,600,41,0.04090606388950486,False
 2781,Linear-A Eastern Roman Empire Infantry Set 1 (039),Linear-A,Greek,501,599,39,0.04090606388950486,True
 2554,Strelets Turkish Infantry in Tropical Uniform (M122),Strelets,Turkish,1914,1919,43,0.040901862981125296,False
@@ -420,6 +420,7 @@ ID,header,manufacturer,nationality,years_from,years_to,aggregate_rating,max_comp
 2708,Strelets Boer Infantry (M138),Strelets,Boer,1899,1902,43,0.04083486665507909,True
 2535,Strelets Pom-Pom Gun with Boer Crew (188),Strelets,Boer,1899,1902,41,0.04083486665507909,True
 1020,HaT Assyrian Cavalry (8125),HaT,Assyrian,-699,-609,44,0.04053033084232218,True
+1086,HaT Assyrian Chariots (8124),HaT,Assyrian,-670,-609,44,0.04053033084232218,True
 905,HaT Assyrian Infantry (8092),HaT,Assyrian,-699,-609,42,0.04053033084232218,True
 912,HaT Assyrian Allied Infantry (8121),HaT,Assyrian,-699,-609,38,0.04053033084232218,True
 881,Strelets Lieb-Drabants of Charles XII (044),Strelets,Swedish,1700,1720,39,0.04025901702006982,True
@@ -427,8 +428,8 @@ ID,header,manufacturer,nationality,years_from,years_to,aggregate_rating,max_comp
 139,HaT Brunswick Leib Infantry (8026),HaT,Brunswick,1810,1815,41,0.03995692220872696,True
 816,Strelets Guard of Peter I (031),Strelets,Russian,1695,1720,42,0.039910996913723996,False
 159,HaT Austrian Infantry (8060),HaT,Austrian,1908,1918,41,0.03986260589789338,False
-1086,HaT Assyrian Chariots (8124),HaT,Assyrian,-670,-609,44,0.03955949096105799,True
 115,HaT Franks (6007),HaT,Belgian,150,500,29,0.039509400545433955,False
+232,LW Bactrian Cavalry (38),LW,Afghan,-490,-300,27,0.03903075193889031,False
 116,HaT Visigoths (6008),HaT,French,370,550,26,0.039014871118185454,False
 1028,Strelets German Uhlans (072),Strelets,German,1908,1915,44,0.038947951931751136,False
 1027,Strelets German Hussars (060),Strelets,German,1910,1916,41,0.038947951931751136,False
@@ -439,14 +440,19 @@ ID,header,manufacturer,nationality,years_from,years_to,aggregate_rating,max_comp
 1485,Waterloo 1815 Italian Mountain Troops 'Alpini' (057),Waterloo 1815,Italian,1909,1916,45,0.03886851754845469,True
 1590,Waterloo 1815 Napoleonic Mounted Line Officers (028),Waterloo 1815,British,1813,1815,45,0.03874447059230652,True
 129,HaT Brunswick Avant Garde (8008),HaT,Brunswick,1814,1815,38,0.03874447059230652,True
-232,LW Bactrian Cavalry (38),LW,Afghan,-490,-300,27,0.03830156523561858,False
+1891,Orion Iberian Infantry (72035),Orion,CeltIberian,-500,-130,33,0.03871628934583278,False
 1737,Italeri Gothic Cavalry (6138),Italeri,Goth,300,500,41,0.03814937741884513,False
-1891,Orion Iberian Infantry (72035),Orion,CeltIberian,-500,-130,33,0.03786185118502629,False
 2849,Strelets British Artillery (243),Strelets,British,1701,1715,38,0.037354471775431136,True
+2955,Hegemony Persian War Elephants (HB013),Hegemony,Indian,-500,-300,15,0.03733981836357483,True
+701,LW War Elephant (32),LW,Indian,-500,-200,12,0.03733981836357483,True
 1631,Valdemar Croatian Light Cavalryman (VI003),Valdemar,Croatian,1200,1240,49,0.03714329712057781,False
 1228,MiniArt Germanic Warriors (72013),MiniArt,German,301,499,42,0.03712762715438078,True
+335,Zvezda Greek Infantry (8005),Zvezda,Greek,-500,-380,49,0.03709993026409412,True
+1446,HaT Greek Catapult (8184),HaT,Greek,-500,-400,49,0.03709993026409412,True
 874,Linear-A Imperial Guardsmen of Emperor Justinian I (040),Linear-A,Greek,527,565,44,0.03709993026409412,True
 2775,Linear-A Emperor Justinian I and Imperatrix Theodora I (011s),Linear-A,Greek,527,565,44,0.03709993026409412,True
+2734,Linear-A Sacrifice Before the Battle (002s),Linear-A,Greek,-500,-300,42,0.03709993026409412,True
+502,Atlantic Greek Cavalry (1510),Atlantic,Greek,-500,-350,22,0.03709993026409412,True
 1736,Italeri Late Imperial Legion (6137),Italeri,Italian,300,500,45,0.037048192771084336,False
 288,Orion Roman Sailors (72006),Orion,Italian,-500,500,44,0.037048192771084336,False
 745,HaT Late Roman Cataphracts (8086),HaT,Italian,236,500,44,0.037048192771084336,True
@@ -460,8 +466,7 @@ ID,header,manufacturer,nationality,years_from,years_to,aggregate_rating,max_comp
 1056,RedBox Afghan Warriors (72004),RedBox,Afghan,1860,1900,35,0.0366440747969474,True
 827,HaT WWII Polish Infantry (8115),HaT,Polish,1935,1939,40,0.03654574334221958,False
 2408,First To Fight Polish Infantry (PL1939-019),First To Fight,Polish,1935,1939,40,0.03654574334221958,True
-2955,Hegemony Persian War Elephants (HB013),Hegemony,Indian,-500,-300,15,0.036485380202768335,True
-701,LW War Elephant (32),LW,Indian,-500,-200,12,0.036485380202768335,True
+2465,Linear-B Mithridatic Heavy Infantry (078),Linear-B,Pontic,-110,-63,39,0.03648861286150368,False
 885,Fujimi Japanese Infantry (76030),Fujimi,Japanese,1935,1945,21,0.03641422414595304,True
 490,IMEX American Pioneers (516),IMEX,USA,1840,1890,49,0.03635170672085507,True
 343,IMEX Sioux Indians (508),IMEX,USA,1840,1880,43,0.03635170672085507,True
@@ -472,7 +477,6 @@ ID,header,manufacturer,nationality,years_from,years_to,aggregate_rating,max_comp
 784,BUM Republican Army (5001),BUM,Spanish,1935,1939,43,0.03634010818000861,True
 1184,BUM Spanish Security Forces (5010),BUM,Spanish,1935,1939,41,0.03634010818000861,True
 1327,BUM National Regular Army (5005),BUM,Spanish,1935,1940,41,0.03634010818000861,False
-2465,Linear-B Mithridatic Heavy Infantry (078),Linear-B,Pontic,-110,-63,39,0.03628147633767181,False
 2495,Panzer vs Tanks German U-Boat Crew Set 1 (012),Panzer vs Tanks,German,1935,1945,50,0.03627318899357429,True
 2146,Caesar WWII German Infantry Marching (H081),Caesar,German,1935,1945,48,0.03627318899357429,True
 1834,HaT WW2 German Tank Riders (8262),HaT,German,1935,1945,45,0.03627318899357429,True
@@ -482,10 +486,6 @@ ID,header,manufacturer,nationality,years_from,years_to,aggregate_rating,max_comp
 814,Strelets British Light Dragoons (040),Strelets,British,1840,1870,47,0.03625341190975842,True
 1068,Strelets British Hussars (050),Strelets,British,1840,1857,43,0.03625341190975842,True
 96,Esci Lord Cardigan's 11th Hussars (220),Esci,British,1840,1857,33,0.03625341190975842,True
-335,Zvezda Greek Infantry (8005),Zvezda,Greek,-500,-380,49,0.036245492103287626,True
-1446,HaT Greek Catapult (8184),HaT,Greek,-500,-400,49,0.036245492103287626,True
-2734,Linear-A Sacrifice Before the Battle (002s),Linear-A,Greek,-500,-300,42,0.036245492103287626,True
-502,Atlantic Greek Cavalry (1510),Atlantic,Greek,-500,-350,22,0.036245492103287626,True
 2958,Orion French Tank Crew WW2 (72064),Orion,French,1935,1940,47,0.03623001190004723,False
 2742,Strelets French Fusiliers (Early War) (236),Strelets,French,1700,1715,43,0.03623001190004723,True
 2963,Orion Italian Tank Crew (72066),Orion,Italian,1935,1943,49,0.036193754610277844,True
@@ -544,6 +544,7 @@ ID,header,manufacturer,nationality,years_from,years_to,aggregate_rating,max_comp
 92,Esci British Infantry (215),Esci,British,1812,1816,37,0.03388727546444814,True
 1292,Odemars British Infantry for Hougoumont (PF20),Odemars,British,1812,1816,36,0.03388727546444814,True
 1055,RedBox Colonial British Army 1890 (72003),RedBox,British,1885,1895,32,0.03388727546444814,True
+1230,Coates & Shine Theban Army (8129),Coates & Shine,Greek,-490,-320,43,0.033879355657977346,True
 1424,HaT Australian Light Horse (8153),HaT,Australian,1914,1918,44,0.03362600153348623,True
 747,HaT Gothic Cavalry (8085),HaT,Goth,200,450,43,0.0334974363211209,False
 1239,Coates & Shine Gothic Army (8133),Coates & Shine,German,160,390,35,0.0334974363211209,True
@@ -552,7 +553,6 @@ ID,header,manufacturer,nationality,years_from,years_to,aggregate_rating,max_comp
 2919,Strelets Bavarian Infantry 1701-1714 Shooting Line (262),Strelets,Bavarian,1701,1713,48,0.03320330532028365,False
 1136,HaT 1806 Prussian Grenadiers (8135),HaT,German,1799,1807,41,0.033177865844992285,True
 644,HaT British Marines and Sailors (8098),HaT,British,1799,1808,40,0.033158088761176416,True
-1230,Coates & Shine Theban Army (8129),Coates & Shine,Greek,-490,-320,43,0.03315016895470562,True
 1062,Italeri Mamelukes (6082),Italeri,French,1799,1815,48,0.033134688751465226,True
 1302,GerMan Napoleonic French Camel Corps (0022),GerMan,French,1799,1802,43,0.033134688751465226,True
 126,HaT 1805 Napoleonic French Mamelukes (8001),HaT,French,1799,1815,38,0.033134688751465226,True
@@ -574,9 +574,12 @@ ID,header,manufacturer,nationality,years_from,years_to,aggregate_rating,max_comp
 2943,Ultima Ratio Gladiators Hoplomachus Thracian (UR017),Ultima Ratio,Italian,-100,300,38,0.032396251673360105,True
 1312,Lucky Toys Garibaldi 'Red Shirts' (TL0009),Lucky Toys,Italian,1846,1860,33,0.032396251673360105,False
 2912,Caesar Three Kingdoms (Shu Kingdom Set 1) (TK001),Caesar,Chinese,210,263,46,0.03236679833103934,False
+397,HaT Hannibal's Carthaginians - African Infantry (8020),HaT,Algerian,-480,-146,37,0.03228222401263184,True
 2651,Strelets Austrian Cuirassiers (257),Strelets,Austrian,1680,1710,44,0.03206121399487759,False
 2868,Strelets Austrian Infantry 1701-1714 on the March (260),Strelets,Austrian,1700,1714,42,0.03206121399487759,False
 2754,Strelets Finnish Anti-Tank Squad in Winter Dress (246),Strelets,Finnish,1941,1942,42,0.032028343308212255,True
+1396,Caesar Persian Warriors (H066),Caesar,Persian,-500,-500,45,0.031859653873029255,True
+1279,Mars Xerxes Army (72010),Mars,Persian,-480,-450,28,0.031859653873029255,True
 1095,Caesar Inca Warriors (H026),Caesar,Incan,1300,1570,48,0.031783135357020154,False
 697,Strelets British Heavy Dragoons (023),Strelets,British,1847,1855,43,0.031779262994989885,True
 1545,RedBox French Marines (72026),RedBox,French,1895,1901,38,0.031755862985278695,True
@@ -585,7 +588,6 @@ ID,header,manufacturer,nationality,years_from,years_to,aggregate_rating,max_comp
 2319,Strelets Catapult with Roman Crew (A009),Strelets,Italian,300,450,25,0.03171960569550931,True
 2520,Caesar Chinese Han Dynasty Troopers (H043),Caesar,Chinese,-206,220,48,0.03171431828096893,False
 1479,RedBox Irish Mounted Troops (72055),RedBox,Irish,1450,1530,43,0.03168092930258267,False
-397,HaT Hannibal's Carthaginians - African Infantry (8020),HaT,Algerian,-480,-146,37,0.03162974396256143,True
 2392,Strelets Finnish Army 1944 (M096),Strelets,Finnish,1944,1944,42,0.031552023030332804,True
 2732,Mars Finnish Army (Winter Dress) 1942-1944 (72114),Mars,Finnish,1942,1944,32,0.031552023030332804,True
 1714,Zvezda Swedish Artillery of Charles XII (8066),Zvezda,Swedish,1700,1710,50,0.03148678523578984,True
@@ -600,8 +602,6 @@ ID,header,manufacturer,nationality,years_from,years_to,aggregate_rating,max_comp
 1219,Orion Cossack Cavalry (72014),Orion,Polish,1550,1700,44,0.03141911437738063,False
 546,HaT Imperial Roman Auxiliaries (8074),HaT,German,-100,250,35,0.03134768175372681,True
 2268,RedBox Irish Troops (72044),RedBox,Irish,1460,1487,40,0.03126485506775516,True
-1396,Caesar Persian Warriors (H066),Caesar,Persian,-500,-500,45,0.031207173822958845,True
-1279,Mars Xerxes Army (72010),Mars,Persian,-480,-450,28,0.031207173822958845,True
 2432,Strelets Bavarian Cuirassiers (258),Strelets,German,1684,1710,47,0.031146560028735344,False
 1604,LW Russian Artillery 1500-1700 (2018),LW,Russian,1500,1700,21,0.03113876512944402,False
 2039,Strelets British Dragoons (256),Strelets,British,1700,1714,47,0.031126782944919475,True
@@ -613,12 +613,12 @@ ID,header,manufacturer,nationality,years_from,years_to,aggregate_rating,max_comp
 74,Atlantic Gladiators and Christians (1517),Atlantic,Italian,30,250,32,0.031067125645438898,True
 2733,"Linear-A Vigiles Urbani ""Cohortes Vigilum"" (001s)",Linear-A,Italian,-25,250,31,0.031067125645438898,True
 365,Odemars Roman Siege Troops (PF04),Odemars,Italian,100,230,22,0.031067125645438898,True
+657,Evolution Carthaginian Mercenaries (EVF029),Evolution,Carthaginian,-450,-50,30,0.03100015794933559,False
 1113,Strelets Vikings (M004),Strelets,Danish,750,1100,45,0.03095047196948258,True
 1727,Pegasus California Gold Miners (7050),Pegasus,USA,1849,1860,47,0.03059549174279029,True
 59,Atlantic Gold Rush (1010),Atlantic,USA,1848,1890,30,0.03059549174279029,True
 323,Strelets Carolingian Cavalry (008),Strelets,French,750,900,35,0.03051697401550951,False
 1311,Lucky Toys Piedmont Infantry and Bersaglieri (TL0006),Lucky Toys,Italian,1848,1850,40,0.030437539632213063,True
-657,Evolution Carthaginian Mercenaries (EVF029),Evolution,Carthaginian,-450,-50,30,0.030392281798634783,False
 1372,Caesar Aztec Warriors (H028),Caesar,Aztec,1400,1500,47,0.029923182039696666,False
 643,Revell Aztecs (02569),Revell,Aztec,1450,1525,46,0.029923182039696666,False
 1255,Italeri Mongol Cavalry (6124),Italeri,Mongolian,1200,1350,47,0.029323030463523934,False
@@ -628,14 +628,17 @@ ID,header,manufacturer,nationality,years_from,years_to,aggregate_rating,max_comp
 1189,Strelets Medieval Levy (2) (M006),Strelets,British,1100,1400,41,0.02928633438814362,False
 1071,Strelets Scottish Army of Robert Bruce (081),Strelets,British,1300,1330,39,0.02928633438814362,True
 1528,Orion Byzantine Infantry (12th - 15th Century) (72027),Orion,Albanian,1100,1453,37,0.029211582758617224,False
-2811,Linear-A The Army of Pyrrhus of Epirus (Set 2) (045),Linear-A,Albanian,-299,-270,41,0.028855612703010437,False
-2713,Linear-A The Army of Pyrrhus of Epirus (Set 1) (028),Linear-A,Albanian,-297,-272,43,0.02851099492812973,True
+2811,Linear-A The Army of Pyrrhus of Epirus (Set 2) (045),Linear-A,Albanian,-299,-270,41,0.029032798257076463,False
+2759,Linear-A Battle of Cunaxa Set 3 (Persian Cavalry) (036),Linear-A,Persian,-401,-401,45,0.028814746972700672,True
+2665,Linear-A Battle of Cunaxa Set 1 (015),Linear-A,Persian,-401,-401,40,0.028814746972700672,True
+2716,Linear-A The Army of Athens (031),Linear-A,Greek,-415,-413,44,0.028726436288190504,True
+2850,Linear-A Army of Syracuse: Infantry (051),Linear-A,Greek,-415,-413,44,0.028726436288190504,True
+2501,Linear-A Battle of Cunaxa Set 2 (019),Linear-A,Greek,-401,-399,37,0.028726436288190504,True
+2713,Linear-A The Army of Pyrrhus of Epirus (Set 1) (028),Linear-A,Albanian,-297,-272,43,0.0286817083629086,True
 1201,Strelets Muslim Archers (M014),Strelets,Arab,1000,1400,44,0.028406173331278237,False
 3060,Ultima Ratio Japanese Warrior Monks (UR024),Ultima Ratio,Japanese,980,1590,42,0.028346086758665522,False
 1073,RedBox Japanese Warrior Monks (72005),RedBox,Japanese,900,1595,40,0.028346086758665522,False
 1890,Orion Cumans (Polovets) and Pechenegs (72034),Orion,Cuman,800,1250,43,0.028282967175040016,False
-2759,Linear-A Battle of Cunaxa Set 3 (Persian Cavalry) (036),Linear-A,Persian,-401,-401,45,0.028265665400510273,True
-2665,Linear-A Battle of Cunaxa Set 1 (015),Linear-A,Persian,-401,-401,40,0.028265665400510273,True
 1817,Orion Kievan Rus Infantry (72032),Orion,Russian,1000,1400,41,0.028243608027200013,False
 1647,Strelets Scottish Schiltron (M036),Strelets,British,1280,1320,38,0.028240464726828566,True
 1412,Mars Medieval Arkbalista (72065),Mars,British,1200,1500,37,0.028205051606286773,False
@@ -650,14 +653,11 @@ ID,header,manufacturer,nationality,years_from,years_to,aggregate_rating,max_comp
 2477,Strelets English Men-At-Arms 13th-14th Century (M118),Strelets,British,1201,1399,45,0.028185274522470903,True
 880,Strelets Medieval Britain (071),Strelets,British,1200,1450,44,0.028185274522470903,True
 35,Airfix Robin Hood (01720),Airfix,British,1100,1380,41,0.028185274522470903,True
-2716,Linear-A The Army of Athens (031),Linear-A,Greek,-415,-413,44,0.028177354716000105,True
-2850,Linear-A Army of Syracuse: Infantry (051),Linear-A,Greek,-415,-413,44,0.028177354716000105,True
-2501,Linear-A Battle of Cunaxa Set 2 (019),Linear-A,Greek,-401,-399,37,0.028177354716000105,True
 2618,Ultima Ratio Italian Militiamen 1260-1392 (UR010),Ultima Ratio,Italian,1260,1392,42,0.028125617222990326,False
+3004,Linear-A Pyrrhic Elephants (107),Linear-A,Albanian,-280,-270,47,0.028017145348947992,True
 558,Esci Colonial India British Infantry (232),Esci,British,1873,1890,43,0.027885873552070752,True
 746,Waterloo 1815 Dervish Infantry (011),Waterloo 1815,Sudanese,1880,1885,41,0.027871792574459493,True
 794,Waterloo 1815 Anglo-Egyptian Army (013),Waterloo 1815,British,1880,1886,41,0.027871792574459493,True
-3004,Linear-A Pyrrhic Elephants (107),Linear-A,Albanian,-280,-270,47,0.02785835595623174,True
 302,Revell Cowboys (02554),Revell,USA,1850,1890,42,0.027752200070157485,True
 869,Strelets US Cavalry (1) (041),Strelets,USA,1865,1890,42,0.027752200070157485,True
 31,Airfix Wagon Train (01715),Airfix,USA,1850,1890,35,0.027752200070157485,True
@@ -691,6 +691,7 @@ ID,header,manufacturer,nationality,years_from,years_to,aggregate_rating,max_comp
 944,Waterloo 1815 Austrian Artillery 1859 (018),Waterloo 1815,Austrian,1859,1859,24,0.027092327459726,True
 2458,Linear-A Roman Army of Maximinus Thrax (1): Infantry (069),Linear-A,Italian,235,238,47,0.027079747561675273,True
 884,Waterloo 1815 Italian Bersaglieri (015),Waterloo 1815,Italian,1850,1875,39,0.027079747561675273,False
+631,HaT Carthaginian Allies (8058),HaT,Carthaginian,-400,-200,35,0.026843424753133623,True
 410,Strelets The Scottish Army of Wallace (007),Strelets,British,1280,1310,38,0.02679050906000543,True
 1232,Emhar Prussian Infantry (7213),Emhar,German,1870,1871,45,0.026660759684501267,False
 1245,Zvezda English Infantry of the 100 Years War (8060),Zvezda,British,1330,1430,46,0.026640982600685398,True
@@ -705,7 +706,6 @@ ID,header,manufacturer,nationality,years_from,years_to,aggregate_rating,max_comp
 581,Emhar Viking Warriors (7205),Emhar,Danish,801,999,45,0.026611171447556824,True
 3073,First To Fight CKM wz.30 in Cavalry Service (PL1939-120),First To Fight,Polish,1936,1939,47,0.026450227842229036,True
 1815,First To Fight Polish Uhlans Dismounted (PL1939-066),First To Fight,Polish,1936,1939,26,0.026450227842229036,True
-631,HaT Carthaginian Allies (8058),HaT,Carthaginian,-400,-200,35,0.026402327616562762,True
 1802,Strelets Anglo-Saxons Before Battle (M050),Strelets,Anglo-Saxon,900,1066,49,0.026318336645171476,False
 628,Strelets Anglo-Saxons (016),Strelets,Anglo-Saxon,900,1066,36,0.026318336645171476,True
 210,Italeri Union Artillery Set (6032),Italeri,USA,1860,1870,42,0.026256191220864533,True
@@ -740,6 +740,7 @@ ID,header,manufacturer,nationality,years_from,years_to,aggregate_rating,max_comp
 2661,RedBox Burgundian Crossbowmen (72124),RedBox,Burgundian,1401,1499,36,0.02604953703128131,True
 866,MiniArt Burgundian Mounted Knights (72006),MiniArt,Burgundian,1401,1499,29,0.02604953703128131,True
 981,Orion Medieval Siege Troops (72019),Orion,British,1350,1500,39,0.02589494820696761,True
+2944,Ultima Ratio Carthaginian Army: Iberian Infantry Part 2 (UR018),Ultima Ratio,CeltIberian,-400,-100,35,0.025793328295011412,False
 213,Italeri Union Artillery (6038),Italeri,USA,1860,1868,42,0.025787744005429367,True
 406,Strelets English Cavalry of Edward I (014),Strelets,British,1275,1310,37,0.025689449194332716,True
 1036,MiniArt Swiss Infantry (72009),MiniArt,Swiss,1450,1490,41,0.025626504262933957,False
@@ -748,16 +749,17 @@ ID,header,manufacturer,nationality,years_from,years_to,aggregate_rating,max_comp
 2574,Ultima Ratio Swiss Infantry (Uri) (UR007),Ultima Ratio,Swiss,1401,1499,38,0.025626504262933957,True
 856,LW Swiss Mercenaries (8),LW,Swiss,1470,1490,37,0.025626504262933957,True
 1632,Valdemar Welsh Crusader (VI002),Valdemar,Welsh,1097,1300,49,0.025488667177380294,False
+1220,Coates & Shine Indian Infantry IV BC (8154),Coates & Shine,Indian,-400,-300,38,0.025466953770875673,True
 2519,RedBox Scottish Light Cavalry (72108),RedBox,British,1450,1490,43,0.025466636494645173,True
 2264,RedBox Continental Mercenaries (72042),RedBox,Dutch,1460,1485,40,0.025392534617121456,False
-2944,Ultima Ratio Carthaginian Army: Iberian Infantry Part 2 (UR018),Ultima Ratio,CeltIberian,-400,-100,35,0.02535223115844055,False
+515,HaT Persian Light Cavalry (8077),HaT,Persian,-400,-300,41,0.025315376355905125,True
 6,Accurate Hundred Years War English Men-At-Arms (7206),Accurate,British,1340,1450,45,0.025234985477865755,True
 1256,HaT British Camel Corps (8194),HaT,British,1884,1885,43,0.025234985477865755,True
 412,Italeri English Knights and Archers (6027),Italeri,British,1340,1450,41,0.025234985477865755,True
+153,HaT Alexander's Allied Cavalry (8049),HaT,Greek,-380,-280,37,0.025227065671394957,True
 1752,HaT Natal Native Contingent (8192),HaT,South African,1878,1879,38,0.025138463272628205,True
 1707,RedBox Stradioti Set 2 (72075),RedBox,Albanian,1495,1580,39,0.025125913410552956,False
 2403,RedBox Stradioti Set 1 (72074),RedBox,Albanian,1495,1580,38,0.025125913410552956,True
-1220,Coates & Shine Indian Infantry IV BC (8154),Coates & Shine,Indian,-400,-300,38,0.025025856634304813,True
 2937,Strelets Dutch Infantry Firing Line (265),Strelets,Dutch,1701,1714,43,0.02497082798110712,False
 3066,Strelets Holy Roman Empire Grenadiers 1701-1714 (269),Strelets,German,1701,1714,47,0.024883933444103064,True
 3012,Strelets Austrian Infantry 1701-1714 in Attack (261),Strelets,Austrian,1701,1714,43,0.024883933444103064,True
@@ -765,9 +767,7 @@ ID,header,manufacturer,nationality,years_from,years_to,aggregate_rating,max_comp
 1185,Strelets Norman Knights (085),Strelets,French,950,1150,44,0.024882684534737593,True
 2318,Strelets Norman Army Camp (909),Strelets,French,900,1150,44,0.024882684534737593,False
 1644,Strelets Normans on the March (M039),Strelets,French,900,1100,41,0.024882684534737593,True
-515,HaT Persian Light Cavalry (8077),HaT,Persian,-400,-300,41,0.024874279219334265,True
 1344,Hegemony British Army Fusiliers (HG005),Hegemony,British,1857,1858,16,0.024793888341294895,True
-153,HaT Alexander's Allied Cavalry (8049),HaT,Greek,-380,-280,37,0.024785968534824097,True
 2870,Strelets Dutch Cuirassiers (259),Strelets,Dutch,1707,1713,46,0.024566474147260667,True
 574,Orion Boxer Rebellion (72009),Orion,Chinese,1900,1901,49,0.024537037730194403,False
 728,Caesar Japanese Samurai with Ninja (H003),Caesar,Japanese,1401,1699,43,0.024526388865167077,False
@@ -993,6 +993,11 @@ ID,header,manufacturer,nationality,years_from,years_to,aggregate_rating,max_comp
 685,Zvezda Samurai Warriors - Cavalry (8025),Zvezda,Japanese,1501,1699,46,0.01990897967378863,True
 1490,RedBox Samurai Artillery Set 1 (72090),RedBox,Japanese,1501,1699,41,0.01990897967378863,True
 2451,RedBox European Mounted Men-at-Arms (72047),RedBox,Dutch,1455,1485,38,0.019904512298207458,False
+1163,Coates & Shine Macedonian Elephant (8141),Coates & Shine,Macedonian,-330,-250,47,0.019883534916608533,False
+148,HaT Alexander's Light Infantry (8044),HaT,Greek,-350,-300,43,0.019883534916608533,True
+336,Zvezda Macedonian Cavalry (8007),Zvezda,Macedonian,-350,-300,43,0.019883534916608533,False
+151,HaT Alexander's Macedonian Cavalry (8047),HaT,Greek,-350,-300,37,0.019883534916608533,True
+373,LW Macedonian Artillery (37),LW,Macedonian,-350,-250,17,0.019883534916608533,False
 805,IMEX Pilgrims (521),IMEX,USA,1607,1680,49,0.01984646224869066,True
 2588,RedBox Spanish Sailors Artillery Set 3 (72104),RedBox,Spanish,1501,1699,46,0.019834863707844198,False
 2860,RedBox Ukrainian Zaporozhian Cossack Infantry (72143),RedBox,Ukrainian,1601,1699,47,0.01980650094232312,True
@@ -1033,23 +1038,18 @@ ID,header,manufacturer,nationality,years_from,years_to,aggregate_rating,max_comp
 2589,RedBox Italian Sailors Set 1 (72105),RedBox,Italian,1501,1699,36,0.019688510138113433,True
 342,Revell Australian Infantry (02501),Revell,Australian,1939,1943,43,0.019678249855867715,False
 2475,Strelets 8th Army Australian Heavy Weapons Squad (M156),Strelets,Australian,1939,1943,39,0.019678249855867715,True
+147,HaT Macedonian Phalangites (8043),HaT,Greek,-350,-320,40,0.01963264371133801,True
+341,Zvezda Macedonian Phalanx (8019),Zvezda,Macedonian,-350,-320,37,0.01963264371133801,True
+469,HYTTY Macedonian Infantry (2002),HYTTY,Macedonian,-350,-320,17,0.01963264371133801,True
 2467,Mars Buccaneers (72082),Mars,British,1620,1660,37,0.019629595943321428,True
 310,Revell Imperial Artillery (02566),Revell,Austrian,1600,1660,46,0.01954270140631737,False
 413,Airfix Sheriff of Nottingham (01721),Airfix,British,1160,1199,28,0.019452892892454887,True
-1163,Coates & Shine Macedonian Elephant (8141),Coates & Shine,Macedonian,-330,-250,47,0.019387266598491017,False
-148,HaT Alexander's Light Infantry (8044),HaT,Greek,-350,-300,43,0.019387266598491017,True
-336,Zvezda Macedonian Cavalry (8007),Zvezda,Macedonian,-350,-300,43,0.019387266598491017,False
-151,HaT Alexander's Macedonian Cavalry (8047),HaT,Greek,-350,-300,37,0.019387266598491017,True
-373,LW Macedonian Artillery (37),LW,Macedonian,-350,-250,17,0.019387266598491017,False
 910,Coates & Shine WWI Serbian Infantry (8122),Coates & Shine,Serbian,1914,1915,29,0.019298206980436886,False
 1585,Valdemar Teutonic Infantry on the March (VA110),Valdemar,German,1200,1300,48,0.019184425777444468,True
 203,Italeri Teutonic Knights (6019),Italeri,German,1189,1299,45,0.019184425777444468,True
 2516,RedBox Scottish Heavy Cavalry (72056),RedBox,British,1460,1485,44,0.01917824180918396,True
 2267,RedBox Scottish Troops (72043),RedBox,British,1460,1485,34,0.01917824180918396,True
 1077,Strelets Russian Army of Alexander Nevsky (082),Strelets,Russian,1200,1300,42,0.019176630878153144,True
-147,HaT Macedonian Phalangites (8043),HaT,Greek,-350,-320,40,0.01914722377070592,True
-341,Zvezda Macedonian Phalanx (8019),Zvezda,Macedonian,-350,-320,37,0.01914722377070592,True
-469,HYTTY Macedonian Infantry (2002),HYTTY,Macedonian,-350,-320,17,0.01914722377070592,True
 1234,Zvezda Roman Auxiliary Infantry (8052),Zvezda,Italian,40,180,48,0.01910499139414802,True
 1168,Zvezda Roman Imperial Legionaries (8043),Zvezda,Italian,30,180,44,0.01910499139414802,True
 2793,Linear-A Roman Frontier Antonine Wall Garrison (013s),Linear-A,Italian,142,164,44,0.01910499139414802,True
@@ -1067,11 +1067,12 @@ ID,header,manufacturer,nationality,years_from,years_to,aggregate_rating,max_comp
 2028,RedBox Men-at-Arms and Retinue (72040),RedBox,British,1455,1485,34,0.018883186711245285,True
 300,Revell Anglo-Saxons (02551),Revell,Anglo-Saxon,1000,1066,45,0.018802156919255193,True
 1110,Strelets Anglo-Saxons (M003),Strelets,Anglo-Saxon,1000,1066,45,0.018802156919255193,True
-150,HaT Alexander's Thracians (8046),HaT,Bulgarian,-350,-300,41,0.018598188649239834,True
 1472,RedBox Musketeers of the King of France (72145),RedBox,French,1622,1660,46,0.018584870346648068,True
 1901,LW French Musketeers (2027),LW,French,1600,1660,38,0.018584870346648068,False
+585,HaT Numidian Cavalry (8024),HaT,Algerian,-300,100,39,0.01857566560567492,False
 2299,Caesar Medieval European Knights 13th Century (H087),Caesar,British,1201,1299,45,0.0185378809535863,True
 1459,HaT El Cid Spanish Light Cavalry (8201),HaT,Andalusian,1050,1100,39,0.018534050277540876,True
+150,HaT Alexander's Thracians (8046),HaT,Thracian,-350,-300,41,0.018506527676590584,True
 240,Matchbox Japanese Infantry (P5007),Matchbox,Japanese,1938,1945,49,0.018500486153872123,True
 291,Revell Japanese Infantry (02507),Revell,Japanese,1938,1945,47,0.018500486153872123,True
 1229,Waterloo 1815 Japanese Infantry (022),Waterloo 1815,Japanese,1938,1945,47,0.018500486153872123,True
@@ -1081,12 +1082,13 @@ ID,header,manufacturer,nationality,years_from,years_to,aggregate_rating,max_comp
 2553,Strelets Imperial Japanese Army Heavy Weapons Team (M121),Strelets,Japanese,1938,1945,39,0.018500486153872123,True
 2644,Mars Imperial Japanese Infantry WWII (72107),Mars,Japanese,1938,1945,35,0.018500486153872123,True
 78,Atlantic Sendai Japanese (85),Atlantic,Japanese,1938,1945,27,0.018500486153872123,True
+2987,Linear-A Alexander the Great with General Staff (1) (022s),Linear-A,Macedonian,-340,-323,48,0.018457416486649784,True
 2133,Mars Swedish Infantry (72094),Mars,Swedish,1600,1625,40,0.018437184234381617,False
+2171,Linear-A The Folk of Judea (001),Linear-A,Israeli,-100,100,43,0.018392811849543254,False
 501,Esci Commonwealth Infantry (231),Esci,Australian,1940,1942,46,0.018377566663708846,True
 2385,Mars Polish Field Artillery (72063),Mars,Polish,1400,1450,44,0.0183695133759724,False
 2137,Mars Polish Siege Bombard (72062),Mars,Polish,1400,1450,40,0.0183695133759724,True
 2021,Mars Polish Knights (72051),Mars,Polish,1400,1450,32,0.0183695133759724,True
-585,HaT Numidian Cavalry (8024),HaT,Algerian,-300,100,39,0.018359853905265035,False
 1138,Pegasus German Army Infantry 1939 (7499),Pegasus,German,1938,1941,48,0.018359451001493374,True
 776,Armourfast WWII German Zundapp Motorcycle (99011),Armourfast,German,1938,1945,45,0.018359451001493374,True
 876,Emhar Russian Artillery (7208),Emhar,Russian,1854,1855,50,0.01835165610220205,True
@@ -1107,7 +1109,6 @@ ID,header,manufacturer,nationality,years_from,years_to,aggregate_rating,max_comp
 278,Odemars Samurai (PF01),Odemars,Japanese,1550,1650,35,0.018237994179705865,True
 709,LW Samurai Warriors (2011),LW,Japanese,1550,1650,34,0.018237994179705865,True
 1179,RedBox Japanese Peasant Infantry (72010),RedBox,Japanese,1540,1650,33,0.018237994179705865,True
-2171,Linear-A The Folk of Judea (001),Linear-A,Israeli,-100,100,43,0.01822822228736333,False
 2586,RedBox Spanish Sailors Set 1 (72102),RedBox,Spanish,1501,1650,46,0.018163878213761434,True
 2587,RedBox Spanish Sailors In Battle Set 2 (72103),RedBox,Spanish,1501,1630,45,0.018163878213761434,True
 1349,Mars Spanish Field Artillery (72092),Mars,Spanish,1600,1650,37,0.018163878213761434,True
@@ -1115,20 +1116,27 @@ ID,header,manufacturer,nationality,years_from,years_to,aggregate_rating,max_comp
 2308,Mars Russian Medium Cavalry (72059),Mars,Russian,1401,1450,38,0.01808916412803579,True
 2479,RedBox Osman Sipahi Set 1 (72094),RedBox,Turkish,1501,1620,39,0.018065061228660886,True
 2482,RedBox Osman Sipahi Set 2 (72095),RedBox,Turkish,1501,1620,36,0.018065061228660886,True
-2987,Linear-A Alexander the Great with General Staff (1) (022s),Linear-A,Macedonian,-340,-323,48,0.018021249681610854,True
+1183,Coates & Shine Indian Elephant (8142),Coates & Shine,Indian,-340,-300,48,0.018052556958403587,True
+894,Lucky Toys King Porus' Army (TL0008),Lucky Toys,Indian,-340,-300,44,0.018052556958403587,True
+983,Coates & Shine Indian Cavalry (8131),Coates & Shine,Indian,-340,-300,41,0.018052556958403587,True
+176,HYTTY Alexander The Great Cavalry (2003),HYTTY,Greek,-336,-320,28,0.018021249681610854,True
+1420,HaT Celtic Chariot (8139),HaT,British,-350,90,41,0.017986165455007048,False
 1554,RedBox Chinese Boxers (72035),RedBox,Chinese,1900,1900,37,0.01791185568332561,True
-176,HYTTY Alexander The Great Cavalry (2003),HYTTY,Greek,-336,-320,28,0.01760270577778562,True
-1183,Coates & Shine Indian Elephant (8142),Coates & Shine,Indian,-340,-300,48,0.01755628864028607,True
-894,Lucky Toys King Porus' Army (TL0008),Lucky Toys,Indian,-340,-300,44,0.01755628864028607,True
-983,Coates & Shine Indian Cavalry (8131),Coates & Shine,Indian,-340,-300,41,0.01755628864028607,True
+158,HaT Persian Heavy Infantry (8059),HaT,Persian,-350,-300,42,0.01790097954343304,True
+164,HaT Persian Medium Cavalry (8076),HaT,Persian,-350,-300,42,0.01790097954343304,True
+514,HaT Persian Heavy Cavalry (8050),HaT,Persian,-350,-300,42,0.01790097954343304,True
+152,HaT Alexander's Thessalian Cavalry (8048),HaT,Greek,-350,-300,43,0.01781266885892287,True
+149,HaT Greek Mercenary Hoplites (8045),HaT,Greek,-350,-280,40,0.01781266885892287,True
+1447,HaT Macedonian Hypaspists (8185),HaT,Macedonian,-320,-320,44,0.017809842301617494,True
+2812,Linear-A Samnite Wars (2) Italian Ally Cavalry (046),Linear-A,Italian,-350,-250,43,0.017760931365913092,True
+2712,Linear-A Samnite Wars Set 1 (026),Linear-A,Italian,-343,-298,40,0.017760931365913092,True
+652,Odemars Oscan Infantry (PF10),Odemars,Italian,-350,150,36,0.017760931365913092,True
+597,HaT Dacians (8069),HaT,Dacian,-168,106,40,0.01768700745208706,False
 2015,HaT WWI Indian Infantry (8236),HaT,Indian,1914,1918,41,0.01755628864028607,False
-1420,HaT Celtic Chariot (8139),HaT,British,-350,90,41,0.017489897136889532,False
-597,HaT Dacians (8069),HaT,Dacian,-168,106,40,0.017471195751677174,False
 1539,RedBox US Marines (72016),RedBox,USA,1900,1900,36,0.017422615158372803,True
-158,HaT Persian Heavy Infantry (8059),HaT,Persian,-350,-300,42,0.017404711225315523,True
-164,HaT Persian Medium Cavalry (8076),HaT,Persian,-350,-300,42,0.017404711225315523,True
-514,HaT Persian Heavy Cavalry (8050),HaT,Persian,-350,-300,42,0.017404711225315523,True
-1447,HaT Macedonian Hypaspists (8185),HaT,Macedonian,-320,-320,44,0.01739971198443038,True
+349,Zvezda War Elephants (8011),Zvezda,Seleucid,-300,-200,46,0.01740737572357237,False
+1325,HaT Gallic Command (8138),HaT,Celtic,-300,100,47,0.01740636516710578,True
+206,Italeri Gaul Warriors (6022),Italeri,French,-250,100,40,0.01740636516710578,False
 1107,Strelets Norman Archers (M002),Strelets,French,1000,1150,47,0.01736650480882131,True
 1564,Strelets Norman Cavalry on the March (070),Strelets,French,1000,1120,42,0.01736650480882131,True
 1795,Strelets Norman Army Before Battle (M043),Strelets,French,1000,1100,41,0.01736650480882131,True
@@ -1153,8 +1161,6 @@ ID,header,manufacturer,nationality,years_from,years_to,aggregate_rating,max_comp
 411,Strelets Army of Henry V (006),Strelets,British,1413,1422,38,0.017324320347276153,True
 1541,RedBox British Royal Marine Light Infantry (72022),RedBox,British,1900,1900,36,0.017324320347276153,True
 621,Airfix Royal Horse Artillery (01731),Airfix,British,1914,1915,29,0.017324320347276153,True
-152,HaT Alexander's Thessalian Cavalry (8048),HaT,Greek,-350,-300,43,0.017316400540805355,True
-149,HaT Greek Mercenary Hoplites (8045),HaT,Greek,-350,-280,40,0.017316400540805355,True
 1939,HaT WWI Turkish Cavalry (8274),HaT,Turkish,1914,1918,46,0.017312199632425793,True
 829,HaT WWI Ottoman Artillery and Machine Guns (8094),HaT,Turkish,1914,1918,44,0.017312199632425793,True
 1376,Caesar WWI French Infantry (1914) (H034),Caesar,French,1914,1915,46,0.017300920337564966,False
@@ -1163,65 +1169,59 @@ ID,header,manufacturer,nationality,years_from,years_to,aggregate_rating,max_comp
 1544,RedBox French Sailors (72025),RedBox,French,1900,1900,41,0.017300920337564966,True
 1546,RedBox French Infantry (72027),RedBox,French,1900,1900,38,0.017300920337564966,True
 2786,Strelets French Pikemen (237),Strelets,French,1690,1699,38,0.017300920337564966,True
-2812,Linear-A Samnite Wars (2) Italian Ally Cavalry (046),Linear-A,Italian,-350,-250,43,0.017264663047795576,True
-2712,Linear-A Samnite Wars Set 1 (026),Linear-A,Italian,-343,-298,40,0.017264663047795576,True
-652,Odemars Oscan Infantry (PF10),Odemars,Italian,-350,150,36,0.017264663047795576,True
 1548,RedBox Italian Sailors (72029),RedBox,Italian,1900,1900,36,0.017264663047795576,True
 1822,Strelets Dacian Heavy Infantry (M021(2)),Strelets,Dacian,50,150,41,0.017259788371683814,False
 1039,Evolution Dacian Cavalry (EVF036),Evolution,Dacian,50,150,22,0.017259788371683814,True
-349,Zvezda War Elephants (8011),Zvezda,Seleucid,-300,-200,46,0.017230190169506342,False
-1325,HaT Gallic Command (8138),HaT,Celtic,-300,100,47,0.017190553466695895,True
-206,Italeri Gaul Warriors (6022),Italeri,French,-250,100,40,0.017190553466695895,False
 2220,Strelets 8th Army Australian Infantry in Attack (M155),Strelets,Australian,1941,1943,43,0.017171301024923213,True
 2642,RedBox Ukrainian Cossack (Infantry) Set 3 (72116),RedBox,Cossack,1501,1599,48,0.01712835400288913,False
 2640,RedBox Ukrainian Cossack (Infantry) Set 1 (72114),RedBox,Cossack,1501,1599,46,0.01712835400288913,True
 2641,RedBox Ukrainian Cossack (Infantry) Set 2 (72115),RedBox,Cossack,1501,1599,44,0.01712835400288913,True
 2168,Mars Teutonic Mounted Sergeants (72053),Mars,German,1420,1450,33,0.017104054603306926,True
+2823,Linear-A Seleucid Elephants vs Ptolemaic Elephants (049),Linear-A,Egyptian,-290,-170,48,0.017056285829404504,False
 1436,HaT El Cid Andalusian Infantry (8168),HaT,Spanish,1000,1100,48,0.01693609317330636,False
 1832,HaT El Cid Spanish Command (8248),HaT,Spanish,1000,1100,48,0.01693609317330636,True
 48,Airfix Australian Infantry (01750),Airfix,Australian,1942,1945,44,0.016915426495483835,True
 2472,Strelets Hastings 1066: Norman Army (910),Strelets,French,1030,1090,47,0.016911578141200055,True
 2208,Strelets Norman Train (128),Strelets,French,1050,1150,41,0.016911578141200055,True
 2536,Strelets Bavarian Infantry Firing Line (273),Strelets,Bavarian,1807,1812,45,0.016899359377783488,True
-2823,Linear-A Seleucid Elephants vs Ptolemaic Elephants (049),Linear-A,Egyptian,-290,-170,48,0.016885572394625636,False
+519,HaT Spanish Cavalry (8055),HaT,CeltIberian,-300,-100,44,0.016732457947951532,True
+398,HaT Hannibal's Carthaginians - Spanish Infantry (8019),HaT,CeltIberian,-300,-100,35,0.016732457947951532,True
 197,Italeri Saracen Warriors (6010),Italeri,Arab,1096,1150,43,0.016641052970406123,True
 1663,Strelets Lawrence of Arabia (115),Strelets,Arab,1915,1918,44,0.016601405518850015,True
-519,HaT Spanish Cavalry (8055),HaT,CeltIberian,-300,-100,44,0.016516646247541646,True
-398,HaT Hannibal's Carthaginians - Spanish Infantry (8019),HaT,CeltIberian,-300,-100,35,0.016516646247541646,True
+1146,Zvezda Carthaginian Numidian Cavalry (8031),Zvezda,Algerian,-300,100,44,0.01652786351324916,True
 2314,Eduard Royal Flying Corps 1917 (7503),Eduard,British,1915,1917,45,0.01639447023543492,True
 2599,Strelets 105mm Cannon Schneider 1913 (A015),Strelets,French,1915,1918,47,0.016371070225723733,False
 1938,HaT WWI French Cavalry (8273),HaT,French,1915,1918,46,0.016371070225723733,True
 37,Airfix WWI French Infantry (01728),Airfix,French,1915,1918,44,0.016371070225723733,True
 2508,Strelets WWI French Infantry in Summer Dress (M134),Strelets,French,1915,1918,40,0.016371070225723733,True
 2036,Strelets WWI French Field Kitchen (292),Strelets,French,1915,1918,38,0.016371070225723733,True
+1394,Caesar Celt Warriors (H064),Caesar,British,-150,50,48,0.016339691920419255,True
+1291,HaT Gallic Chariot with Warrior Queen (8140),HaT,British,-250,90,46,0.016339691920419255,True
+301,Revell Celts (Gauls) (02553),Revell,British,-300,100,45,0.016339691920419255,True
+2769,Linear-A Hannibal Crosses the Alps Set 5 (025),Linear-A,Celtic,-250,-100,43,0.016339691920419255,True
+497,HaT Celtic Cavalry (8022),HaT,British,-300,100,38,0.016339691920419255,True
+230,LW Celtic Warriors (33),LW,Celtic,-300,100,9,0.016339691920419255,True
 1811,HaT WWI Italian Artillery Crew (8259),HaT,Italian,1915,1918,45,0.016334812935954342,True
 2862,RedBox Italian Arditi in Armor (72150),RedBox,Italian,1915,1918,42,0.016334812935954342,True
 2453,HaT WWI Italian Heavy Weapons (8222),HaT,Italian,1915,1918,38,0.016334812935954342,True
-1146,Zvezda Carthaginian Numidian Cavalry (8031),Zvezda,Algerian,-300,100,44,0.016312051812839273,True
-1394,Caesar Celt Warriors (H064),Caesar,British,-150,50,48,0.01612388022000937,True
-1291,HaT Gallic Chariot with Warrior Queen (8140),HaT,British,-250,90,46,0.01612388022000937,True
-301,Revell Celts (Gauls) (02553),Revell,British,-300,100,45,0.01612388022000937,True
-2769,Linear-A Hannibal Crosses the Alps Set 5 (025),Linear-A,Celtic,-250,-100,43,0.01612388022000937,True
-497,HaT Celtic Cavalry (8022),HaT,British,-300,100,38,0.01612388022000937,True
-230,LW Celtic Warriors (33),LW,Celtic,-300,100,9,0.01612388022000937,True
-1221,Strelets Germanic Horsemen (098),Strelets,German,-200,50,38,0.01597808051421186,True
-598,HaT Ancient Germans (8068),HaT,German,-200,100,27,0.01597808051421186,True
+1221,Strelets Germanic Horsemen (098),Strelets,German,-200,50,38,0.016193892214621745,True
+598,HaT Ancient Germans (8068),HaT,German,-200,100,27,0.016193892214621745,True
+916,Zvezda Republican Roman Cavalry (8038),Zvezda,Italian,-299,-1,47,0.0161144578313253,True
+3052,Linear-A Republican Roman Incendiary Swine (141),Linear-A,Italian,-280,-50,47,0.0161144578313253,True
+154,HaT Roman Command (8051),HaT,Italian,-300,-100,46,0.0161144578313253,True
+705,Zvezda Republican Roman Infantry (8034),Zvezda,Italian,-299,-101,45,0.0161144578313253,True
+1999,Strelets Republican Roman Legion (Ceremonial March) (M102),Strelets,Italian,-180,-30,44,0.0161144578313253,True
+3070,Ultima Ratio Roman Republican Army: Velites (UR025),Ultima Ratio,Italian,-300,-100,43,0.0161144578313253,True
+2179,Strelets Roman Republican Legion Before Battle (M080),Strelets,Italian,-150,-30,42,0.0161144578313253,True
+3019,Linear-A Gangs/Revolt in Rome (Set 1) (112),Linear-A,Italian,-200,-27,42,0.0161144578313253,True
+3049,Ultima Ratio Roman Republic Army: Hastati (UR023),Ultima Ratio,Italian,-270,-110,40,0.0161144578313253,True
+617,HaT Italian Allies (8040),HaT,Italian,-300,-102,39,0.0161144578313253,True
+209,Italeri Roman Cavalry (6028),Italeri,Italian,-200,20,37,0.0161144578313253,True
+282,Odemars Roman Republic Infantry (PF06),Odemars,Italian,-200,-30,28,0.0161144578313253,True
+569,Atlantic Roman Legion (1515),Atlantic,Italian,-200,-50,18,0.0161144578313253,True
+587,Atlantic Roman Cavalry (1516),Atlantic,Italian,-200,-50,14,0.0161144578313253,True
 322,Strelets Army of Joan d'Arc (005),Strelets,French,1420,1435,38,0.015934903420684803,True
 2259,Mars French Field Artillery (72044),Mars,French,1601,1650,37,0.015934903420684803,True
-916,Zvezda Republican Roman Cavalry (8038),Zvezda,Italian,-299,-1,47,0.015898646130915413,True
-3052,Linear-A Republican Roman Incendiary Swine (141),Linear-A,Italian,-280,-50,47,0.015898646130915413,True
-154,HaT Roman Command (8051),HaT,Italian,-300,-100,46,0.015898646130915413,True
-705,Zvezda Republican Roman Infantry (8034),Zvezda,Italian,-299,-101,45,0.015898646130915413,True
-1999,Strelets Republican Roman Legion (Ceremonial March) (M102),Strelets,Italian,-180,-30,44,0.015898646130915413,True
-3070,Ultima Ratio Roman Republican Army: Velites (UR025),Ultima Ratio,Italian,-300,-100,43,0.015898646130915413,True
-2179,Strelets Roman Republican Legion Before Battle (M080),Strelets,Italian,-150,-30,42,0.015898646130915413,True
-3019,Linear-A Gangs/Revolt in Rome (Set 1) (112),Linear-A,Italian,-200,-27,42,0.015898646130915413,True
-3049,Ultima Ratio Roman Republic Army: Hastati (UR023),Ultima Ratio,Italian,-270,-110,40,0.015898646130915413,True
-617,HaT Italian Allies (8040),HaT,Italian,-300,-102,39,0.015898646130915413,True
-209,Italeri Roman Cavalry (6028),Italeri,Italian,-200,20,37,0.015898646130915413,True
-282,Odemars Roman Republic Infantry (PF06),Odemars,Italian,-200,-30,28,0.015898646130915413,True
-569,Atlantic Roman Legion (1515),Atlantic,Italian,-200,-50,18,0.015898646130915413,True
-587,Atlantic Roman Cavalry (1516),Atlantic,Italian,-200,-50,14,0.015898646130915413,True
 2728,Linear-A Trajan's Legions vs Dacians (Set 1) (032),Linear-A,Dacian,80,110,39,0.015892687314393434,True
 1570,Strelets Dacian Cavalry (103),Strelets,Dacian,100,110,38,0.015892687314393434,True
 2481,Mars Imperial Dragoons (72096),Mars,Austrian,1610,1650,25,0.01587715000783699,True
@@ -1232,36 +1232,36 @@ ID,header,manufacturer,nationality,years_from,years_to,aggregate_rating,max_comp
 1383,Caesar Roman Legionary (Set II) (H051),Caesar,Italian,50,150,46,0.015687238750922053,True
 1149,Strelets Roman Legion on the March (M007),Strelets,Italian,25,150,44,0.015687238750922053,True
 1493,Strelets Roman Senate 2 (138),Strelets,Italian,-100,150,44,0.015687238750922053,True
+1331,Caesar Republican Roman Army (H045),Caesar,Italian,-120,30,43,0.015687238750922053,True
 1724,Strelets Roman Auxiliaries Before Battle (M033),Strelets,Italian,50,150,43,0.015687238750922053,True
 1253,Strelets Roman Cavalry in Battle (100),Strelets,Italian,20,150,42,0.015687238750922053,True
 1725,Strelets Roman Auxiliaries Advancing (M034),Strelets,Italian,50,150,41,0.015687238750922053,True
 743,HaT Imperial Roman Auxiliary Cavalry (8066),HaT,Italian,35,150,39,0.015687238750922053,True
 1575,Strelets Roman Legion in Advance (M020),Strelets,Italian,25,150,39,0.015687238750922053,True
+205,Italeri Roman Infantry (6021),Italeri,Italian,-120,-30,38,0.015687238750922053,True
 889,Lucky Toys Roman Commander's Cavalry (TL0007),Lucky Toys,Italian,80,150,37,0.015687238750922053,True
 1646,Strelets Roman Velites (M037),Strelets,Italian,-30,150,37,0.015687238750922053,True
 1645,Strelets Roman Infantry in Winter Dress (M038),Strelets,Italian,50,150,34,0.015687238750922053,True
 610,Airfix Romans (01730),Airfix,Italian,40,150,24,0.015687238750922053,True
+1109,Odemars The Nativity (CREA02),Odemars,Israeli,-50,50,47,0.015557253252790237,True
 1577,Strelets Dacian Light Infantry (M022),Strelets,Dacian,85,108,33,0.015534941243326788,True
 554,Italeri Austrian and Russian Allied General Staff (6037),Italeri,Austrian,1804,1814,33,0.015498258877705607,True
-1331,Caesar Republican Roman Army (H045),Caesar,Italian,-120,30,43,0.01548010222709018,True
-205,Italeri Roman Infantry (6021),Italeri,Italian,-120,-30,38,0.01548010222709018,True
 1440,HaT El Cid Spanish Infantry (8176),HaT,Spanish,1050,1099,45,0.015423462003465702,True
 1467,HaT El Cid Spanish Heavy Cavalry (8213),HaT,Spanish,1050,1100,40,0.015423462003465702,True
-1109,Odemars The Nativity (CREA02),Odemars,Israeli,-50,50,47,0.015401249638893569,True
+2236,Ultima Ratio Carthaginian Army: Iberian Infantry Part 1 (UR016),Ultima Ratio,Carthaginian,-250,-140,38,0.015309776932628104,True
 304,Revell Swedish Infantry (02557),Revell,Swedish,1610,1648,49,0.015302721248749247,False
 2473,Strelets Hastings 1066: Anglo-Saxon Army (912),Strelets,Anglo-Saxon,1050,1070,37,0.015297992047037457,False
 1563,Strelets Mounted Praetorians (069),Strelets,Italian,60,140,44,0.01527710843373494,True
 1150,Strelets Roman Legion in Battle (M009),Strelets,Italian,20,140,42,0.01527710843373494,True
 1696,Mars Polish Infantry Mercenaries (Haiduks) (72033),Mars,Polish,1610,1640,39,0.015235050390340031,True
-2236,Ultima Ratio Carthaginian Army: Iberian Infantry Part 1 (UR016),Ultima Ratio,Carthaginian,-250,-140,38,0.015122170644893148,True
 1190,Caesar Roman Legionary (H041),Caesar,Italian,10,120,47,0.015078134319456041,True
+1625,HaT Carthaginian Veterans (8212),HaT,Carthaginian,-217,-145,39,0.015066788845389442,True
 2471,Strelets Stamford Bridge (911),Strelets,British,1050,1080,43,0.014981828271646088,False
 2814,Strelets Bavarian Infantry on the March (272),Strelets,Bavarian,1808,1815,47,0.01496105058706506,True
 2798,Strelets Bavarian Infantry Standing Order Arms (271),Strelets,Bavarian,1808,1815,44,0.01496105058706506,True
 1437,HaT Bavarian Fusiliers (8169),HaT,Bavarian,1808,1815,42,0.01496105058706506,True
 2750,Strelets Bavarian Infantry in Attack (227),Strelets,Bavarian,1808,1814,41,0.01496105058706506,True
 140,HaT Bavarian Infantry (8028),HaT,Bavarian,1808,1815,37,0.01496105058706506,True
-1625,HaT Carthaginian Veterans (8212),HaT,Carthaginian,-217,-145,39,0.014882756010754198,True
 1244,LW Dacian Infantry (2010),LW,Dacian,85,106,36,0.014858124352119625,True
 2517,RedBox Spanish Infantry (Set 1) (72096),RedBox,Spanish,1550,1599,48,0.014838130385732633,True
 1708,RedBox Jinetes Set 1 (72076),RedBox,Spanish,1501,1599,41,0.014838130385732633,True
@@ -1279,15 +1279,19 @@ ID,header,manufacturer,nationality,years_from,years_to,aggregate_rating,max_comp
 2761,RedBox Moscow Noble Cavalry (Siege of Pskov) Set 2 (72128),RedBox,Russian,1501,1599,41,0.014763416300006991,True
 2762,RedBox Moscow Noble Cavalry (Siege of Kazan) Set 1 (72133),RedBox,Russian,1501,1599,41,0.014763416300006991,True
 2765,RedBox Moscow Noble Cavalry (Battle of Orsha) Set 2 (72136),RedBox,Russian,1501,1599,41,0.014763416300006991,True
+969,Odemars Iberian Infantry (PF13),Odemars,CeltIberian,-300,-150,18,0.014757577293257286,True
 1781,RedBox English Sailors Artillery 16-17th Century (72083),RedBox,British,1501,1599,37,0.014751434115482447,True
 1775,RedBox English Sailors in Battle 16-17th Century (72082),RedBox,British,1501,1599,35,0.014751434115482447,True
 1434,RedBox Turkish Siege Artillery Gun (72069),RedBox,Turkish,1501,1599,37,0.014739313400632087,True
+1040,Zvezda Carthaginian Infantry (8010),Zvezda,Carthaginian,-300,-146,47,0.01470219549375358,True
+399,HaT Carthaginian Command and Cavalry (8056),HaT,Algerian,-300,-200,44,0.01470219549375358,True
 2518,RedBox Italian Infantry (Set 1) (72099),RedBox,Italian,1501,1599,46,0.01469177681600187,True
+521,HaT Italian Ally Cavalry (8054),HaT,Italian,-300,-140,41,0.01469177681600187,True
+138,HaT Roman Cavalry (8021),HaT,Italian,-270,-140,38,0.01469177681600187,True
 2568,RedBox Italian Infantry (Set 2) (72100),RedBox,Italian,1501,1599,38,0.01469177681600187,True
 2569,RedBox Italian Infantry (Set 3 - Pike) (72101),RedBox,Italian,1501,1599,36,0.01469177681600187,True
 405,IMEX Lewis and Clark (523),IMEX,USA,1804,1806,48,0.014662122638844142,True
 492,Strelets Russian and Prussian Chiefs of Staff (002),Strelets,German,1804,1815,44,0.014583604911563361,True
-969,Odemars Iberian Infantry (PF13),Odemars,CeltIberian,-300,-150,18,0.014580391739191258,True
 2493,RedBox Russian Grenadiers (72130),RedBox,Russian,1804,1808,42,0.014575810012272036,True
 2646,RedBox Russian Guard Infantry (72129),RedBox,Russian,1804,1807,41,0.014575810012272036,True
 316,Revell French Mounted Guard Chasseurs (02576),Revell,French,1804,1815,49,0.014540427818036303,True
@@ -1310,34 +1314,32 @@ ID,header,manufacturer,nationality,years_from,years_to,aggregate_rating,max_comp
 40,Airfix Waterloo French Cavalry (Cuirassiers) (01736),Airfix,French,1804,1815,32,0.014540427818036303,True
 505,HaT French Dragoons (8009),HaT,French,1804,1813,31,0.014540427818036303,True
 1643,Strelets Dacians Before Battle (M040),Strelets,Dacian,50,105,47,0.014537684496548093,True
-1040,Zvezda Carthaginian Infantry (8010),Zvezda,Carthaginian,-300,-146,47,0.014525009939687552,True
-399,HaT Carthaginian Command and Cavalry (8056),HaT,Algerian,-300,-200,44,0.014525009939687552,True
+2756,Linear-A Seleucid Infantry Phalanx Set 1 (033),Linear-A,Persian,-250,-170,40,0.014525629872242525,True
+1556,Strelets Sarmatian Cavalry (020),Strelets,Sarmatian,-100,100,38,0.014524980944694505,True
 1829,HaT El Cid Andalusian Heavy Cavalry (8215),HaT,Andalusian,1100,1100,42,0.014514773169107143,True
-521,HaT Italian Ally Cavalry (8054),HaT,Italian,-300,-140,41,0.014504170528266915,True
-138,HaT Roman Cavalry (8021),HaT,Italian,-270,-140,38,0.014504170528266915,True
 2918,Strelets Bavarian Infantry in Square (274),Strelets,Bavarian,1809,1815,46,0.01444288883113043,True
-2756,Linear-A Seleucid Infantry Phalanx Set 1 (033),Linear-A,Persian,-250,-170,40,0.014398033773562087,True
-1556,Strelets Sarmatian Cavalry (020),Strelets,Sarmatian,-100,100,38,0.014360391382514581,True
+573,HaT War Elephants (8023),HaT,Algerian,-290,-205,41,0.014351105599585712,True
 2567,RedBox Spanish Infantry (Set 3 - Pike) (72098),RedBox,Spanish,1540,1590,37,0.014285930746361815,True
-573,HaT War Elephants (8023),HaT,Algerian,-290,-205,41,0.014180392164806844,True
-2715,Linear-A Tarentine Horsemen of Magna Graecia (030),Linear-A,Greek,-299,-201,44,0.014014129115574803,True
-143,HaT Roman Catapults (8035),HaT,Italian,-300,-150,46,0.013962391622565025,True
-2358,Strelets Roman Senate 1 (137),Strelets,Italian,-100,-30,41,0.013285574731357863,True
-137,HaT Republican Romans Hastati & Velites (8018),HaT,Italian,-265,-150,39,0.013285574731357863,True
-136,HaT Republican Romans Princeps & Triari (8017),HaT,Italian,-265,-150,37,0.013285574731357863,True
-2269,Strelets Caesar Army in Defence (M090),Strelets,Italian,-100,-30,36,0.013285574731357863,True
-2176,Strelets Spartacus Army (M077),Strelets,French,-73,-71,43,0.013219618179153975,True
-2459,Linear-A Legions of Gnaeus Pompeius Magnus (Set 1) (065),Linear-A,Italian,-90,-40,45,0.01312392426850258,True
+2715,Linear-A Tarentine Horsemen of Magna Graecia (030),Linear-A,Greek,-299,-201,44,0.01419131466964083,True
+143,HaT Roman Catapults (8035),HaT,Italian,-300,-150,46,0.014139577176631052,True
+2358,Strelets Roman Senate 1 (137),Strelets,Italian,-100,-30,41,0.013450164293537787,True
+137,HaT Republican Romans Hastati & Velites (8018),HaT,Italian,-265,-150,39,0.013450164293537787,True
+136,HaT Republican Romans Princeps & Triari (8017),HaT,Italian,-265,-150,37,0.013450164293537787,True
+2269,Strelets Caesar Army in Defence (M090),Strelets,Italian,-100,-30,36,0.013450164293537787,True
+2176,Strelets Spartacus Army (M077),Strelets,French,-73,-71,43,0.013360349170345632,True
+2459,Linear-A Legions of Gnaeus Pompeius Magnus (Set 1) (065),Linear-A,Italian,-90,-40,45,0.013285574731357863,True
+2514,Linear-A Roman Legion Set 1 (017),Linear-A,Italian,-40,40,44,0.01296513487578633,True
+2978,Linear-A Roman Artillery (Set 1) Ballista (089),Linear-A,Italian,-50,100,36,0.01296513487578633,True
+228,LW Cavalry of Imperial Rome (29),LW,Italian,-50,100,10,0.01296513487578633,True
 311,Revell Swedish Cavalry (02567),Revell,Swedish,1625,1650,49,0.012924852776890209,False
+2974,Ultima Ratio Carthaginian Army: Libyan Infantry (UR021),Ultima Ratio,Carthaginian,-250,-150,40,0.01291973910797826,True
 2583,Strelets Serbian Infantry in Winter Uniform (M126),Strelets,Serbian,1916,1918,40,0.012914568029026852,False
-2514,Linear-A Roman Legion Set 1 (017),Linear-A,Italian,-40,40,44,0.012809131261889662,True
-2978,Linear-A Roman Artillery (Set 1) Ballista (089),Linear-A,Italian,-50,100,36,0.012809131261889662,True
-228,LW Cavalry of Imperial Rome (29),LW,Italian,-50,100,10,0.012809131261889662,True
 2566,RedBox Spanish Infantry (Set 2) (72097),RedBox,Spanish,1540,1580,38,0.012802194324052397,True
 1603,LW Spanish Army 1500-1600 (2016),LW,Spanish,1501,1580,25,0.012802194324052397,True
-2974,Ultima Ratio Carthaginian Army: Libyan Infantry (UR021),Ultima Ratio,Carthaginian,-250,-150,40,0.012774176413916483,True
-2530,Linear-A Hannibal Crosses the Alps Set 2 (013),Linear-A,Algerian,-250,-150,41,0.012624963778717815,True
-1754,Strelets Spartacus Army Before Battle (M110),Strelets,Celtic,-75,-73,45,0.01258235487994969,True
+2530,Linear-A Hannibal Crosses the Alps Set 2 (013),Linear-A,Algerian,-250,-150,41,0.012770526472779592,True
+1754,Strelets Spartacus Army Before Battle (M110),Strelets,Celtic,-75,-73,45,0.012730427275633218,True
+1250,Strelets Roman Legion before Battle (M019),Strelets,Italian,0,0,44,0.012655840754321634,True
+2500,Linear-A Roman Legion Set 2 (018),Linear-A,Italian,-10,30,44,0.012655840754321634,True
 20,A Call To Arms Royalist Artillery (59),A Call To Arms,British,1642,1650,43,0.012564850486019838,True
 23,A Call To Arms English Civil War Command Set (62),A Call To Arms,British,1642,1650,42,0.012564850486019838,True
 22,A Call To Arms Royalist Infantry (61),A Call To Arms,British,1642,1650,40,0.012564850486019838,True
@@ -1351,14 +1353,16 @@ ID,header,manufacturer,nationality,years_from,years_to,aggregate_rating,max_comp
 608,HaT Austrian Chevauxleger (8031),HaT,Austrian,1805,1814,38,0.012513336072036401,True
 1314,Mars Austrian Uhlans (72021),Mars,Austrian,1805,1815,38,0.012513336072036401,True
 2699,Strelets Austrian Grenadiers in Winter Dress on the March (209),Strelets,Austrian,1805,1815,38,0.012513336072036401,True
-1250,Strelets Roman Legion before Battle (M019),Strelets,Italian,0,0,44,0.012505193186539261,True
-2500,Linear-A Roman Legion Set 2 (018),Linear-A,Italian,-10,30,44,0.012505193186539261,True
+2310,Linear-B Spartacus Uprising Defeat (006),Linear-B,Celtic,-73,-71,46,0.012293675923659108,True
+1193,Caesar Ancient Germans (H040),Caesar,German,1,99,44,0.012290992480090402,True
+2664,Linear-A Germanic Warriors Set 2 (Command) (010),Linear-A,German,1,50,44,0.012290992480090402,True
+2515,Linear-A German Warriors Set 1 (009),Linear-A,German,1,40,41,0.012290992480090402,True
+2782,Linear-A Publius Quinctilius Varus 'Disaster' (012s),Linear-A,Italian,1,20,37,0.012211558096793956,True
 1828,Mars Scots Mercenaries (72034),Mars,British,1618,1648,36,0.012165365680474419,True
-2310,Linear-B Spartacus Uprising Defeat (006),Linear-B,Celtic,-73,-71,46,0.012152944932467451,True
-1193,Caesar Ancient Germans (H040),Caesar,German,1,99,44,0.012147876217861597,True
-2664,Linear-A Germanic Warriors Set 2 (Command) (010),Linear-A,German,1,50,44,0.012147876217861597,True
-2515,Linear-A German Warriors Set 1 (009),Linear-A,German,1,40,41,0.012147876217861597,True
-2782,Linear-A Publius Quinctilius Varus 'Disaster' (012s),Linear-A,Italian,1,20,37,0.01206844183456515,True
+2460,Linear-A Roman Legion of Antonius in Egyptian Service (066),Linear-A,Italian,-40,-31,42,0.01206844183456515,True
+2175,Linear-B Roman Tavern (003),Linear-B,Italian,1,1,41,0.01206844183456515,True
+2221,Strelets Caesar Army on the March (M087),Strelets,Italian,-40,-30,38,0.01206844183456515,True
+2161,Linear-B Spartacus Uprising (073),Linear-B,Italian,-73,-71,32,0.01206844183456515,True
 1296,LW Jewish Infantry (2008),LW,Israeli,65,75,27,0.012025596972235897,True
 1898,Mars Imperial Siege Artillery (72038),Mars,German,1618,1648,39,0.011998736864759819,False
 2399,Mars Imperial Mercenary Infantry in Winter Dress (72049),Mars,Austrian,1618,1648,37,0.011998736864759819,True
@@ -1367,14 +1371,19 @@ ID,header,manufacturer,nationality,years_from,years_to,aggregate_rating,max_comp
 1520,Mars Arquebusiers (72027),Mars,Austrian,1618,1648,33,0.011998736864759819,True
 2003,Mars Imperial Light Infantry (72043),Mars,Austrian,1618,1648,32,0.011998736864759819,True
 1819,Mars Imperial Army (72032),Mars,Austrian,1618,1648,26,0.011998736864759819,True
-2460,Linear-A Roman Legion of Antonius in Egyptian Service (066),Linear-A,Italian,-40,-31,42,0.011927710843373494,True
-2175,Linear-B Roman Tavern (003),Linear-B,Italian,1,1,41,0.011927710843373494,True
-2221,Strelets Caesar Army on the March (M087),Strelets,Italian,-40,-30,38,0.011927710843373494,True
-2161,Linear-B Spartacus Uprising (073),Linear-B,Italian,-73,-71,32,0.011927710843373494,True
 1565,Strelets Austro-Hungarian Honved (074),Strelets,Austrian,1917,1918,42,0.011875112445824234,True
 1912,Strelets Austro-Hungarian Infantry in Gas Masks (M059),Strelets,Austrian,1916,1918,39,0.011875112445824234,True
-2740,Linear-A Hannibal vs Scipio (010s),Linear-A,Carthaginian,-215,-170,43,0.011692853543743295,True
+2740,Linear-A Hannibal vs Scipio (010s),Linear-A,Carthaginian,-215,-170,43,0.011820449642423733,True
 2272,HaT Napoleonic Spanish Command (8303),HaT,Spanish,1805,1809,48,0.011665601292328472,False
+2563,Linear-A Legions of Marcus Licinius Crassus (Set 1) (067),Linear-A,Italian,-60,-40,47,0.011653170057278294,True
+2991,Linear-A Legions of Marcus Licinius Crassus (Set 2) (094),Linear-A,Italian,-60,-40,47,0.011653170057278294,True
+2960,Linear-A Legions of Gaius Julius Caesar (Set 1) (063),Linear-A,Italian,-60,-40,46,0.011653170057278294,True
+2961,Linear-A Legions of Gaius Julius Caesar (Set 2) (064),Linear-A,Italian,-60,-40,45,0.011653170057278294,True
+2177,Strelets Roman Republican Legion on the March (M078),Strelets,Italian,-100,-100,44,0.011653170057278294,True
+2981,Linear-A Gnaeus Pompeius Magnus with General Staff (018s),Linear-A,Italian,-50,-40,42,0.011653170057278294,True
+2222,Strelets Caesar Army Before Battle (M088),Strelets,Italian,-60,-45,40,0.011653170057278294,True
+2223,Strelets Caesar Army in Battle I (M089),Strelets,Italian,-60,-45,39,0.011653170057278294,True
+2178,Strelets Roman Republican Legion in Battle (M079),Strelets,Italian,-100,-100,37,0.011653170057278294,True
 2492,RedBox Russian Line Infantry (72131),RedBox,Russian,1805,1808,45,0.01159088720660283,True
 437,HaT 1805 Russian Line Infantry (8072),HaT,Russian,1805,1809,41,0.01159088720660283,True
 2002,Zvezda French Napoleonic HQ Staff (8080),Zvezda,French,1805,1814,46,0.011555505012367098,True
@@ -1383,28 +1392,19 @@ ID,header,manufacturer,nationality,years_from,years_to,aggregate_rating,max_comp
 1740,HaT 1805 French Artillery (8229),HaT,French,1805,1805,43,0.011555505012367098,True
 1227,HaT 1805-1812 French Line Grenadiers (8166),HaT,French,1805,1812,42,0.011555505012367098,True
 1101,Italeri French Light Cavalry (6080),Italeri,French,1805,1810,38,0.011555505012367098,True
-2563,Linear-A Legions of Marcus Licinius Crassus (Set 1) (067),Linear-A,Italian,-60,-40,47,0.011519247722597709,True
-2991,Linear-A Legions of Marcus Licinius Crassus (Set 2) (094),Linear-A,Italian,-60,-40,47,0.011519247722597709,True
-2960,Linear-A Legions of Gaius Julius Caesar (Set 1) (063),Linear-A,Italian,-60,-40,46,0.011519247722597709,True
-2961,Linear-A Legions of Gaius Julius Caesar (Set 2) (064),Linear-A,Italian,-60,-40,45,0.011519247722597709,True
-2177,Strelets Roman Republican Legion on the March (M078),Strelets,Italian,-100,-100,44,0.011519247722597709,True
-2981,Linear-A Gnaeus Pompeius Magnus with General Staff (018s),Linear-A,Italian,-50,-40,42,0.011519247722597709,True
-2222,Strelets Caesar Army Before Battle (M088),Strelets,Italian,-60,-45,40,0.011519247722597709,True
-2223,Strelets Caesar Army in Battle I (M089),Strelets,Italian,-60,-45,39,0.011519247722597709,True
-2178,Strelets Roman Republican Legion in Battle (M079),Strelets,Italian,-100,-100,37,0.011519247722597709,True
+2989,Linear-A Gaius Julius Caesar at Alesia (008s),Linear-A,Italian,-55,-45,43,0.011519247722597709,True
 2381,Mars Eastern Mercenaries in Winter Dress (72075),Mars,Hungarian,1618,1648,37,0.011447084197090571,False
 1524,Mars Swedish Army with Culverin (72031),Mars,Swedish,1618,1648,39,0.011424308105672075,True
 1896,Mars Swedish Heavy Cavalry (72036),Mars,Swedish,1618,1648,33,0.011424308105672075,True
-2989,Linear-A Gaius Julius Caesar at Alesia (008s),Linear-A,Italian,-55,-45,43,0.01138748542557326,True
 2401,Mars Polish Infantry (Early) (72073),Mars,Polish,1618,1630,41,0.011356637247262859,True
 2375,Mars Polish Pahioki (72074),Mars,Polish,1618,1648,35,0.011356637247262859,True
 2764,RedBox Moscow Noble Cavalry (Battle of Orsha) Set 1 (72135),RedBox,Russian,1501,1540,42,0.011329470809306326,True
+2847,Linear-A Ptolemaic Infantry Phalanx Set 2 (050),Linear-A,Egyptian,-220,-180,43,0.011209406467544704,True
+2757,Linear-A Ptolemaic Infantry Phalanx Set 1 (034),Linear-A,Egyptian,-230,-180,41,0.011209406467544704,True
 2117,Mars Spanish Tertio (72042),Mars,Spanish,1618,1648,30,0.01115100208505189,True
 2611,Strelets Arab Uprising (172),Strelets,Arab,1916,1918,40,0.011147616679281214,True
 2581,Strelets Arab Revolt Foot Rebels (M127),Strelets,Arab,1916,1918,39,0.011147616679281214,True
 2398,Mars Imperial Mercenary Infantry in Summer Dress (72048),Mars,French,1618,1648,35,0.011084082898617573,True
-2847,Linear-A Ptolemaic Infantry Phalanx Set 2 (050),Linear-A,Egyptian,-220,-180,43,0.011083819756245063,True
-2757,Linear-A Ptolemaic Infantry Phalanx Set 1 (034),Linear-A,Egyptian,-230,-180,41,0.011083819756245063,True
 2018,Mars Swedish Mercenary Dragoons (72040),Mars,Swedish,1620,1635,25,0.011059140591277734,True
 877,Emhar American Infantry (7209),Emhar,USA,1917,1918,44,0.011038976206962769,True
 2024,Strelets 8 Inch Mk VII Howitzer (A002),Strelets,USA,1917,1918,40,0.011038976206962769,True
@@ -1439,6 +1439,8 @@ ID,header,manufacturer,nationality,years_from,years_to,aggregate_rating,max_comp
 2454,HaT WWI Italian Infantry (8223),HaT,Italian,1916,1918,37,0.010881024096385541,True
 1122,Waterloo 1815 Italian Infantry (019),Waterloo 1815,Italian,1916,1918,34,0.010881024096385541,True
 809,Dark Dream Studio Landsknechts (Pikemen) (72004),Dark Dream Studio,German,1501,1525,35,0.01083875071840432,True
+2499,Linear-A Hannibal Makes a Triumphal Entry in Italy (023),Linear-A,Carthaginian,-230,-200,46,0.01074064385209825,True
+796,Caesar Ch'in Dynasty Army (H004),Caesar,Chinese,-225,-200,44,0.010714127039813835,False
 3,Accurate Union Infantry (7202),Accurate,USA,1861,1865,48,0.010679427324409655,True
 372,Italeri Union Cavalry (6013),Italeri,USA,1861,1865,48,0.010679427324409655,True
 2686,HaT American Civil War Marching (1) (8319),HaT,USA,1861,1865,47,0.010679427324409655,True
@@ -1470,21 +1472,19 @@ ID,header,manufacturer,nationality,years_from,years_to,aggregate_rating,max_comp
 30,Airfix Union Infantry (01712),Airfix,USA,1861,1865,28,0.010679427324409655,True
 375,LW Ancient Artillery Part 3 - Scorpion (42),LW,Italian,30,70,20,0.010639481000926786,True
 748,LW Imperial Rome Legionary Artillery (7),LW,Italian,30,70,15,0.010639481000926786,True
-2499,Linear-A Hannibal Makes a Triumphal Entry in Italy (023),Linear-A,Carthaginian,-230,-200,46,0.01062955272140633,True
-796,Caesar Ch'in Dynasty Army (H004),Caesar,Chinese,-225,-200,44,0.010604669602220323,False
 2333,Mars Algerian Pirates (72072),Mars,Algerian,1550,1550,34,0.010480340086207662,True
 2577,Mars Swedish Leather Guns (72100),Mars,Swedish,1625,1635,29,0.010377136557041238,True
 1823,Strelets Dacian Light Infantry (M022(2)),Strelets,Dacian,100,100,43,0.010331911392171728,True
 1576,Strelets Dacian Heavy Infantry (M021),Strelets,Dacian,100,100,29,0.010331911392171728,True
 1747,Emhar Portuguese Infantry and Cazadores (7217),Emhar,Portuguese,1806,1812,46,0.010246409827760494,False
 2329,Mars French Mounted Guards Royal Musketeers (72045),Mars,French,1622,1646,37,0.010103191694053191,True
+2490,Linear-A Hannibal Crosses the Alps Set 3 (Elephants) (016),Linear-A,Carthaginian,-220,-200,47,0.010097902310237845,True
 2480,Mars Swedish Dragoons (Set 2) (72095),Mars,Swedish,1630,1635,24,0.010058213807218419,True
-2490,Linear-A Hannibal Crosses the Alps Set 3 (Elephants) (016),Linear-A,Carthaginian,-220,-200,47,0.009996096912354518,True
 2690,RedBox Guards of Cardinal Richelieu (72147),RedBox,French,1626,1642,44,0.009993734256459679,True
 1449,HaT 1806 Saxon Infantry (8187),HaT,German,1806,1810,42,0.009942367676973821,True
 1899,Mars French Infantry and Guard (72039),Mars,French,1635,1648,34,0.009885874737663154,True
 2138,Mars French Dismounted Dragoons (72078),Mars,French,1635,1648,34,0.009885874737663154,True
-1787,Ultima Ratio Carthaginian Army: Hannibal's Veterans (UR019),Ultima Ratio,Carthaginian,-217,-200,42,0.009699164501861483,True
+1787,Ultima Ratio Carthaginian Army: Hannibal's Veterans (UR019),Ultima Ratio,Carthaginian,-217,-200,42,0.00979675767174381,True
 2330,Mars French Mounted Guards of Cardinal Richelieu (72046),Mars,French,1640,1640,36,0.00967481150663686,True
 1738,HaT Austrian Ammunition Wagon (8225),HaT,Austrian,1806,1814,46,0.009572401602450742,True
 1739,HaT Austrian Cavalry Artillery (8226),HaT,Austrian,1806,1814,45,0.009572401602450742,True
@@ -1514,7 +1514,7 @@ ID,header,manufacturer,nationality,years_from,years_to,aggregate_rating,max_comp
 102,Esci French Line Infantry (227),Esci,French,1806,1813,36,0.008614570542781438,True
 2688,Strelets French Line Infantry on the March 2 (220),Strelets,French,1806,1815,36,0.008614570542781438,True
 1703,Preiser Refugees (72531),Preiser,Belgian,1939,1945,42,0.008492775493161592,True
-2592,Linear-A Hannibal Crosses the Alps Set 1 (011),Linear-A,Spanish,-200,-200,43,0.008292486488502624,False
+2592,Linear-A Hannibal Crosses the Alps Set 1 (011),Linear-A,Spanish,-200,-200,43,0.008376677462705259,False
 1476,HaT Swedish Artillery (8231),HaT,Swedish,1807,1813,42,0.00800555874251516,False
 2534,Strelets Polish Infantry on the March (142),Strelets,Polish,1807,1815,48,0.007937887884105944,False
 2035,Strelets Polish Troops in Attack (144),Strelets,Polish,1807,1814,46,0.007937887884105944,True
