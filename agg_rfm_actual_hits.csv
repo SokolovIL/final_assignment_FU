@@ -1,7 +1,7 @@
 manufacturer,nationality,Recency,Frequency,Magnitude
 Linear-A,Macedonian,0,1,48.0
-Linear-A,Bulgarian,0,1,45.0
 Linear-A,Goth,0,1,45.0
+Linear-A,Thracian,0,1,45.0
 Linear-A,French,0,5,44.4
 Ultima Ratio,French,0,4,43.5
 Linear-A,Italian,0,37,42.648648648648646
@@ -16,7 +16,6 @@ Linear-A,Syrian,1,4,45.25
 Linear-A,Egyptian,1,3,44.0
 Linear-A,Seleucid,1,2,44.0
 Orion,Finnish,1,1,44.0
-Ultima Ratio,Bulgarian,1,1,44.0
 Ultima Ratio,Greek,1,1,44.0
 Ultima Ratio,Thracian,1,1,44.0
 Linear-A,Albanian,1,3,43.666666666666664

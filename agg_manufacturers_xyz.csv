@@ -1,0 +1,668 @@
+manufacturer,nationality,kit_count,first_year,last_year,unique_years,span,regularity,has_enough_data,XYZ_Category
+Strelets,British,87,2003,2025,23,23,1.0,True,X
+Strelets,French,86,2001,2026,22,26,0.8461538461538461,True,X
+HaT,German,62,1996,2026,21,31,0.6774193548387096,True,X
+Strelets,Russian,60,2003,2023,16,21,0.7619047619047619,True,X
+Zvezda,Russian,57,2000,2021,18,22,0.8181818181818182,True,X
+Caesar,German,47,2004,2018,14,15,0.9333333333333333,True,X
+Strelets,Italian,47,2007,2021,13,15,0.8666666666666667,True,X
+Strelets,German,41,2002,2025,17,24,0.7083333333333334,True,X
+Linear-A,Italian,39,2016,2026,9,11,0.8181818181818182,True,X
+Strelets,USA,36,2005,2026,12,22,0.5454545454545454,True,X
+Zvezda,German,34,1999,2021,14,23,0.6086956521739131,True,X
+Mars,German,30,2008,2026,14,19,0.7368421052631579,True,X
+Atlantic,Italian,25,1971,1978,6,8,0.75,True,X
+RedBox,British,24,2006,2025,11,20,0.55,True,X
+IMEX,USA,22,1993,2008,12,16,0.75,True,X
+Italeri,French,19,1984,2007,12,24,0.5,True,X
+Orion,Russian,19,2001,2015,9,15,0.6,True,X
+Revell,German,19,1989,2012,14,24,0.5833333333333334,True,X
+Zvezda,French,17,1995,2015,11,21,0.5238095238095238,True,X
+Atlantic,USA,16,1975,1977,3,3,1.0,True,X
+RedBox,French,16,2009,2021,8,13,0.6153846153846154,True,X
+Esci,British,14,1982,1989,6,8,0.75,True,X
+First To Fight,Polish,14,2014,2025,7,12,0.5833333333333334,True,X
+Linear-A,Greek,14,2020,2025,5,6,0.8333333333333334,True,X
+BUM,USA,13,2011,2013,3,3,1.0,True,X
+RedBox,German,13,2009,2016,5,8,0.625,True,X
+Mars,French,12,2006,2017,8,12,0.6666666666666666,True,X
+Strelets,Turkish,12,2007,2018,9,12,0.75,True,X
+Linear-B,Italian,11,2011,2014,4,4,1.0,True,X
+Mars,Austrian,11,2008,2017,8,10,0.8,True,X
+Mars,Polish,11,2009,2016,6,8,0.75,True,X
+Mars,Russian,11,2009,2023,8,15,0.5333333333333333,True,X
+Plastic Soldier,German,11,2010,2022,7,13,0.5384615384615384,True,X
+Strelets,Japanese,11,2015,2025,8,11,0.7272727272727273,True,X
+Caesar,Italian,10,2005,2013,7,9,0.7777777777777778,True,X
+Esci,French,10,1982,1989,6,8,0.75,True,X
+GerMan,Spanish,10,2007,2010,4,4,1.0,True,X
+Strelets,Norman,10,2004,2016,7,13,0.5384615384615384,True,X
+Esci,German,9,1982,1989,4,8,0.5,True,X
+RedBox,Spanish,9,2015,2017,3,3,1.0,True,X
+Valiant,German,9,2007,2018,6,12,0.5,True,X
+BUM,Spanish,8,2004,2010,6,7,0.8571428571428571,True,X
+Caesar,USA,8,2006,2018,8,13,0.6153846153846154,True,X
+Esci,USA,8,1977,1989,7,13,0.5384615384615384,True,X
+Mars,Swedish,8,2008,2017,6,10,0.6,True,X
+Orion,Ukrainian,8,2006,2010,5,5,1.0,True,X
+Pegasus,German,8,2004,2013,5,10,0.5,True,X
+Pegasus,Russian,8,2008,2013,3,6,0.5,True,X
+RedBox,Ukrainian,8,2018,2023,3,6,0.5,True,X
+Caesar,British,7,2004,2013,5,10,0.5,True,X
+HaT,South African,7,2008,2019,6,12,0.5,True,X
+Italeri,Italian,7,2000,2010,6,11,0.5454545454545454,True,X
+Mars,Lithuanian,7,2012,2014,3,3,1.0,True,X
+Mars,Turkish,7,2015,2017,3,3,1.0,True,X
+Mars,USA,7,2020,2026,4,7,0.5714285714285714,True,X
+Strelets,Bavarian,7,2020,2024,3,5,0.6,True,X
+Strelets,Romanian,7,2008,2011,4,4,1.0,True,X
+Caesar,Egyptian,6,2005,2012,4,8,0.5,True,X
+Orion,Vietnamese,6,2019,2021,3,3,1.0,True,X
+Strelets,Dacian,6,2008,2010,3,3,1.0,True,X
+Ultima Ratio,Italian,6,2018,2025,6,8,0.75,True,X
+Evolution,Russian,5,2004,2006,2,3,0.6666666666666666,True,X
+First To Fight,German,5,2014,2018,3,5,0.6,True,X
+GerMan,French,5,2007,2010,4,4,1.0,True,X
+HaT,Syrian,5,2003,2006,2,4,0.5,True,X
+LW,Russian,5,2002,2008,4,7,0.5714285714285714,True,X
+Linear-A,French,5,2020,2026,4,7,0.5714285714285714,True,X
+Linear-A,Turkish,5,2023,2026,3,4,0.75,True,X
+MiniArt,French,5,2002,2005,3,4,0.75,True,X
+RedBox,Swiss,5,2012,2015,3,4,0.75,True,X
+RedBox,USA,5,2008,2010,3,3,1.0,True,X
+Revell,Austrian,5,1990,1994,5,5,1.0,True,X
+Zvezda,Italian,5,2000,2007,4,8,0.5,True,X
+Coates & Shine,Indian,4,2006,2008,3,3,1.0,True,X
+Esci,Russian,4,1982,1988,4,7,0.5714285714285714,True,X
+Evolution,Ukrainian,4,2004,2006,2,3,0.6666666666666666,True,X
+HaT,Algerian,4,1999,2001,2,3,0.6666666666666666,True,X
+HaT,Andalusian,4,2009,2012,2,4,0.5,True,X
+HaT,Assyrian,4,2006,2006,1,1,1.0,True,X
+Linear-A,Assyrian,4,2024,2025,2,2,1.0,True,X
+Linear-A,Egyptian,4,2021,2026,4,6,0.6666666666666666,True,X
+Linear-A,Syrian,4,2021,2025,3,5,0.6,True,X
+Lucky Toys,Italian,4,2004,2008,3,5,0.6,True,X
+Mars,Greek,4,2013,2014,2,2,1.0,True,X
+Mars,Teutonic,4,2011,2013,3,3,1.0,True,X
+Pegasus,USA,4,2005,2009,3,5,0.6,True,X
+Plastic Soldier,Russian,4,2010,2012,3,3,1.0,True,X
+Strelets,Moroccan,4,2018,2021,3,4,0.75,True,X
+Zvezda,Swedish,4,2006,2010,4,5,0.8,True,X
+A Call To Arms,French,3,1999,2002,3,4,0.75,True,X
+Atlantic,Egyptian,3,1976,1976,1,1,1.0,True,X
+Atlantic,German,3,1972,1977,3,6,0.5,True,X
+Atlantic,Greek,3,1977,1977,1,1,1.0,True,X
+BUM,British,3,2011,2011,1,1,1.0,True,X
+Caesar,Turkish,3,2006,2006,1,1,1.0,True,X
+GerMan,British,3,2007,2010,3,4,0.75,True,X
+HaT,CeltIberian,3,1999,2003,3,5,0.6,True,X
+HaT,Hessian,3,2026,2026,1,1,1.0,True,X
+HaT,Indian,3,2009,2014,3,6,0.5,True,X
+HaT,Tunisian,3,1999,2001,2,3,0.6666666666666666,True,X
+HaT,W&uuml;rttemberg,3,2007,2012,3,6,0.5,True,X
+IMEX,Confederate,3,1993,1995,3,3,1.0,True,X
+Italeri,Confederate,3,1998,2000,2,3,0.6666666666666666,True,X
+LW,Italian,3,2002,2006,3,5,0.6,True,X
+LW,Ukrainian,3,2002,2006,3,5,0.6,True,X
+Linear-A,British,3,2021,2023,2,3,0.6666666666666666,True,X
+Linear-A,Carthaginian,3,2020,2023,2,4,0.5,True,X
+Linear-A,German,3,2018,2021,3,4,0.75,True,X
+Linear-A,Persian,3,2018,2022,3,5,0.6,True,X
+MiniArt,Italian,3,2005,2007,2,3,0.6666666666666666,True,X
+Odemars,French,3,2004,2008,3,5,0.6,True,X
+Odemars,Italian,3,2003,2005,3,3,1.0,True,X
+Orion,South Vietnamese,3,2020,2020,1,1,1.0,True,X
+Panzer vs Tanks,German,3,2015,2016,2,2,1.0,True,X
+Preiser,USA,3,1999,2002,2,4,0.5,True,X
+RedBox,Burgundian,3,2017,2018,2,2,1.0,True,X
+RedBox,Irish,3,2012,2015,3,4,0.75,True,X
+RedBox,North Korean,3,2007,2008,2,2,1.0,True,X
+RedBox,South Korean,3,2007,2008,2,2,1.0,True,X
+Ultima Ratio,Carthaginian,3,2023,2024,2,2,1.0,True,X
+Ultima Ratio,Russian,3,2015,2015,1,1,1.0,True,X
+Ykreol,French,3,2008,2013,3,6,0.5,True,X
+HaT,French,52,1972,2024,16,53,0.3018867924528302,True,Y
+HaT,British,43,1964,2025,19,62,0.3064516129032258,True,Y
+HaT,Italian,29,1967,2021,12,55,0.21818181818181817,True,Y
+Airfix,British,24,1958,2011,15,54,0.2777777777777778,True,Y
+HaT,Austrian,22,1998,2020,9,23,0.391304347826087,True,Y
+HaT,Spanish,21,1999,2019,9,21,0.42857142857142855,True,Y
+RedBox,Russian,20,2008,2020,6,13,0.46153846153846156,True,Y
+RedBox,Turkish,19,2014,2024,4,11,0.36363636363636365,True,Y
+Airfix,USA,18,1960,1982,11,23,0.4782608695652174,True,Y
+Italeri,British,18,1982,2010,13,29,0.4482758620689655,True,Y
+Waterloo 1815,Italian,18,1980,2020,12,41,0.2926829268292683,True,Y
+HaT,Russian,16,1997,2025,9,29,0.3103448275862069,True,Y
+Italeri,USA,16,1977,2010,12,34,0.35294117647058826,True,Y
+Italeri,German,15,1982,2014,12,33,0.36363636363636365,True,Y
+Zvezda,Japanese,14,2003,2013,5,11,0.45454545454545453,True,Y
+RedBox,Italian,13,2009,2023,5,15,0.3333333333333333,True,Y
+RedBox,Japanese,13,2006,2016,5,11,0.45454545454545453,True,Y
+HaT,USA,12,1997,2025,7,29,0.2413793103448276,True,Y
+Revell,British,12,1989,2012,9,24,0.375,True,Y
+Strelets,Austrian,12,2005,2025,10,21,0.47619047619047616,True,Y
+HaT,Persian,11,2002,2017,5,16,0.3125,True,Y
+Zvezda,British,11,2007,2021,7,15,0.4666666666666667,True,Y
+Airfix,German,10,1960,1981,9,22,0.4090909090909091,True,Y
+Caesar,Chinese,10,2005,2022,7,18,0.3888888888888889,True,Y
+Revell,USA,10,1986,2012,7,27,0.25925925925925924,True,Y
+A Call To Arms,British,9,1998,2013,7,16,0.4375,True,Y
+Caesar,French,9,2005,2017,5,13,0.38461538461538464,True,Y
+HaT,Iraqi,9,2006,2017,4,12,0.3333333333333333,True,Y
+HaT,Greek,8,2001,2009,3,9,0.3333333333333333,True,Y
+Orion,German,8,2006,2023,7,18,0.3888888888888889,True,Y
+RedBox,Greek,8,2015,2024,2,10,0.2,True,Y
+Strelets,Arab,8,2007,2021,6,15,0.4,True,Y
+Strelets,Confederate,8,2006,2018,3,13,0.23076923076923078,True,Y
+Strelets,Swedish,8,2002,2016,6,15,0.4,True,Y
+Heller,British,7,1965,1983,5,19,0.2631578947368421,True,Y
+RedBox,Korean,7,2007,2018,3,12,0.25,True,Y
+Revell,French,7,1989,2012,6,24,0.25,True,Y
+Strelets,Polish,7,2002,2017,6,16,0.375,True,Y
+Strelets,Scottish,7,2003,2021,5,19,0.2631578947368421,True,Y
+Strelets,South African,7,2006,2019,4,14,0.2857142857142857,True,Y
+Waterloo 1815,British,7,2005,2015,5,11,0.45454545454545453,True,Y
+Waterloo 1815,German,7,1993,2018,6,26,0.23076923076923078,True,Y
+Waterloo 1815,USA,7,1999,2012,4,14,0.2857142857142857,True,Y
+Airfix,French,6,1961,1975,6,15,0.4,True,Y
+Caesar,Syrian,6,2005,2018,3,14,0.21428571428571427,True,Y
+Emhar,British,6,2000,2014,3,15,0.2,True,Y
+HaT,Belgian,6,2000,2018,5,19,0.2631578947368421,True,Y
+Italeri,Russian,6,1997,2009,6,13,0.46153846153846156,True,Y
+Mars,British,6,2006,2024,5,19,0.2631578947368421,True,Y
+Orion,Polish,6,2003,2023,5,21,0.23809523809523808,True,Y
+RedBox,Chinese,6,2008,2018,3,11,0.2727272727272727,True,Y
+Strelets,Boer,6,2006,2019,3,14,0.21428571428571427,True,Y
+Waterloo 1815,French,6,2009,2017,4,9,0.4444444444444444,True,Y
+Zvezda,USA,6,2013,2021,3,9,0.3333333333333333,True,Y
+Armourfast,German,5,2004,2012,3,9,0.3333333333333333,True,Y
+HaT,Carthaginian,5,1999,2013,3,15,0.2,True,Y
+Hasegawa,USA,5,1984,1998,4,15,0.26666666666666666,True,Y
+Mars,Spanish,5,2006,2015,4,10,0.4,True,Y
+Mars,Ukrainian,5,2015,2024,4,10,0.4,True,Y
+Matchbox,British,5,1976,1992,5,17,0.29411764705882354,True,Y
+Orion,British,5,2001,2023,5,23,0.21739130434782608,True,Y
+Orion,Italian,5,2002,2023,5,22,0.22727272727272727,True,Y
+Orion,Turkish,5,2004,2019,4,16,0.25,True,Y
+Orion,USA,5,2016,2025,4,10,0.4,True,Y
+Plastic Soldier,British,5,2011,2022,4,12,0.3333333333333333,True,Y
+RedBox,Scottish,5,2012,2021,4,10,0.4,True,Y
+Dark Dream Studio,German,4,2003,2009,3,7,0.42857142857142855,True,Y
+Esci,Italian,4,1983,1989,3,7,0.42857142857142855,True,Y
+HaT,Bavarian,4,2000,2009,3,10,0.3,True,Y
+HaT,Macedonian,4,2001,2009,3,9,0.3333333333333333,True,Y
+HaT,Sassanian,4,2013,2017,2,5,0.4,True,Y
+HaT,Sudanese,4,2004,2011,3,8,0.375,True,Y
+HaT,Turkish,4,2001,2013,4,13,0.3076923076923077,True,Y
+Hasegawa,German,4,1991,1998,2,8,0.25,True,Y
+Heller,German,4,1962,1977,4,16,0.25,True,Y
+IMEX,British,4,2000,2006,3,7,0.42857142857142855,True,Y
+IMEX,Mexican,4,2002,2006,2,5,0.4,True,Y
+Mars,Tatar,4,2013,2023,4,11,0.36363636363636365,True,Y
+Matchbox,German,4,1976,1992,4,17,0.23529411764705882,True,Y
+Plastic Soldier,USA,4,2013,2022,4,10,0.4,True,Y
+RedBox,Cossack,4,2018,2023,2,6,0.3333333333333333,True,Y
+Revell,Russian,4,1988,1995,3,8,0.375,True,Y
+Strelets,Anglo-Saxon,4,2004,2016,4,13,0.3076923076923077,True,Y
+Strelets,Finnish,4,2011,2020,3,10,0.3,True,Y
+Ultima Ratio,French,4,2018,2026,3,9,0.3333333333333333,True,Y
+Airfix,Italian,3,1967,1981,3,15,0.2,True,Y
+Caesar,Frankish,3,2005,2013,2,9,0.2222222222222222,True,Y
+Caesar,Greek,3,2006,2012,3,7,0.42857142857142855,True,Y
+Caesar,Iraqi,3,2005,2018,3,14,0.21428571428571427,True,Y
+Caesar,Israeli,3,2006,2018,3,13,0.23076923076923078,True,Y
+Emhar,French,3,2007,2014,2,8,0.25,True,Y
+Emhar,German,3,2000,2008,2,9,0.2222222222222222,True,Y
+HaT,Almoravid,3,2008,2012,2,5,0.4,True,Y
+HaT,Dutch,3,2000,2004,2,5,0.4,True,Y
+HaT,Romanian,3,2004,2016,3,13,0.23076923076923078,True,Y
+HaT,Swedish,3,2004,2010,3,7,0.42857142857142855,True,Y
+HaT,Zulu,3,2011,2018,3,8,0.375,True,Y
+Italeri,Austrian,3,1996,2007,3,12,0.25,True,Y
+Linear-A,Albanian,3,2021,2025,2,5,0.4,True,Y
+Linear-A,Epirote,3,2021,2025,2,5,0.4,True,Y
+Odemars,German,3,2003,2009,3,7,0.42857142857142855,True,Y
+Orion,Greek,3,2008,2012,2,5,0.4,True,Y
+RedBox,Dutch,3,2009,2016,3,8,0.375,True,Y
+Strelets,Danish,3,2002,2016,3,15,0.2,True,Y
+Strelets,Frankish,3,2002,2013,3,12,0.25,True,Y
+Strelets,Hungarian,3,2011,2017,3,7,0.42857142857142855,True,Y
+Strelets,Indian,3,2006,2017,3,12,0.25,True,Y
+Strelets,Norwegian,3,2002,2016,3,15,0.2,True,Y
+Strelets,Viking,3,2002,2016,3,15,0.2,True,Y
+Preiser,German,20,1974,2016,8,43,0.18604651162790697,True,Z
+HaT,Celtic,7,1969,2008,5,40,0.125,True,Z
+Strelets,Australian,6,2006,2021,3,16,0.1875,True,Z
+HaT,Australian,4,1976,2009,3,34,0.08823529411764706,True,Z
+Heller,USA,4,1963,1983,3,21,0.14285714285714285,True,Z
+Strelets,Dutch,4,2007,2025,3,19,0.15789473684210525,True,Z
+HaT,Brunswick,3,1997,2012,3,16,0.1875,True,Z
+HaT,Hungarian,3,2011,2024,2,14,0.14285714285714285,True,Z
+Mars,Italian,3,2009,2026,3,18,0.16666666666666666,True,Z
+Mars,Japanese,3,2004,2018,2,15,0.13333333333333333,True,Z
+Mars,Persian,3,2008,2022,2,15,0.13333333333333333,True,Z
+Orion,Spanish,3,2006,2025,3,20,0.15,True,Z
+Revell,Italian,3,1989,2012,2,24,0.08333333333333333,True,Z
+Strelets,Syrian,3,2007,2020,2,14,0.14285714285714285,True,Z
+A Call To Arms,USA,2,2000,2002,2,3,0.6666666666666666,False,Недостаточно данных
+Accurate,British,2,1972,1972,1,1,1.0,False,Недостаточно данных
+Accurate,French,2,1969,1971,2,3,0.6666666666666666,False,Недостаточно данных
+Accurate,USA,2,1991,1991,1,1,1.0,False,Недостаточно данных
+Airfix,Confederate,2,1962,1962,1,1,1.0,False,Недостаточно данных
+Airfix,Russian,2,1964,1982,2,19,0.10526315789473684,False,Недостаточно данных
+Almark,British,2,1972,1972,1,1,1.0,False,Недостаточно данных
+Atlantic,Russian,2,1972,1976,2,5,0.4,False,Недостаточно данных
+Caesar,Anatolian,2,2006,2006,1,1,1.0,False,Недостаточно данных
+Caesar,Assyrian,2,2006,2006,1,1,1.0,False,Недостаточно данных
+Caesar,Belgian,2,2005,2008,2,4,0.5,False,Недостаточно данных
+Caesar,Czech,2,2005,2008,2,4,0.5,False,Недостаточно данных
+Caesar,Dutch,2,2005,2008,2,4,0.5,False,Недостаточно данных
+Caesar,Hittite,2,2006,2006,1,1,1.0,False,Недостаточно данных
+Caesar,Mexican,2,2006,2012,2,7,0.2857142857142857,False,Недостаточно данных
+Caesar,Polish,2,2005,2008,2,4,0.5,False,Недостаточно данных
+Caesar,Sea People,2,2006,2006,1,1,1.0,False,Недостаточно данных
+Caesar,Spanish,2,2007,2013,2,7,0.2857142857142857,False,Недостаточно данных
+Caesar,Yugoslavian,2,2005,2008,2,4,0.5,False,Недостаточно данных
+Dark Dream Studio,British,2,2003,2009,2,7,0.2857142857142857,False,Недостаточно данных
+Dark Dream Studio,French,2,2003,2009,2,7,0.2857142857142857,False,Недостаточно данных
+Emhar,Danish,2,2004,2008,2,5,0.4,False,Недостаточно данных
+Emhar,Norwegian,2,2004,2008,2,5,0.4,False,Недостаточно данных
+Emhar,Swedish,2,2004,2008,2,5,0.4,False,Недостаточно данных
+Emhar,Viking,2,2004,2008,2,5,0.4,False,Недостаточно данных
+Esci,Indian,2,1986,1987,2,2,1.0,False,Недостаточно данных
+Esci,Polish,2,1985,1989,2,5,0.4,False,Недостаточно данных
+Evolution,Sarmatian,2,2006,2006,1,1,1.0,False,Недостаточно данных
+Fujimi,USA,2,1988,1989,2,2,1.0,False,Недостаточно данных
+HaT,Canadian,2,2007,2011,2,5,0.4,False,Недостаточно данных
+HaT,Egyptian,2,2004,2008,2,5,0.4,False,Недостаточно данных
+HaT,Libyan,2,1999,2001,2,3,0.6666666666666666,False,Недостаточно данных
+HaT,Moroccan,2,2008,2012,2,5,0.4,False,Недостаточно данных
+HaT,Nassau,2,2004,2007,2,4,0.5,False,Недостаточно данных
+HaT,New Zealand,2,2003,2009,2,7,0.2857142857142857,False,Недостаточно данных
+HaT,Parthian,2,2007,2007,1,1,1.0,False,Недостаточно данных
+HaT,Polish,2,2005,2016,2,12,0.16666666666666666,False,Недостаточно данных
+HaT,Saxon,2,2002,2009,2,8,0.25,False,Недостаточно данных
+HaT,Sumerian,2,2006,2006,1,1,1.0,False,Недостаточно данных
+HaT,Tanzanian,2,2014,2014,1,1,1.0,False,Недостаточно данных
+Hasegawa,Japanese,2,1998,2018,2,21,0.09523809523809523,False,Недостаточно данных
+Hegemony,British,2,2018,2019,2,2,1.0,False,Недостаточно данных
+Italeri,Arab,2,1998,2008,2,11,0.18181818181818182,False,Недостаточно данных
+Italeri,Egyptian,2,1998,2008,2,11,0.18181818181818182,False,Недостаточно данных
+Italeri,Iraqi,2,1998,2008,2,11,0.18181818181818182,False,Недостаточно данных
+Italeri,Japanese,2,1982,2009,2,28,0.07142857142857142,False,Недостаточно данных
+Italeri,Mongolian,2,1999,2008,2,10,0.2,False,Недостаточно данных
+Italeri,Syrian,2,1998,2008,2,11,0.18181818181818182,False,Недостаточно данных
+LW,German,2,2003,2004,2,2,1.0,False,Недостаточно данных
+LW,Spanish,2,2002,2008,2,7,0.2857142857142857,False,Недостаточно данных
+Linear-A,Celtic,2,2020,2021,2,2,1.0,False,Недостаточно данных
+Linear-A,Iraqi,2,2021,2024,2,4,0.5,False,Недостаточно данных
+Linear-A,Israeli,2,2016,2025,2,10,0.2,False,Недостаточно данных
+Linear-A,Romanian,2,2025,2026,2,2,1.0,False,Недостаточно данных
+Linear-A,Seleucid,2,2021,2025,2,5,0.4,False,Недостаточно данных
+Linear-A,Spanish,2,2018,2020,2,3,0.6666666666666666,False,Недостаточно данных
+Linear-A,Tunisian,2,2020,2020,1,1,1.0,False,Недостаточно данных
+Lucky Toys,USA,2,2004,2004,1,1,1.0,False,Недостаточно данных
+Mars,Algerian,2,2013,2014,2,2,1.0,False,Недостаточно данных
+Mars,Dutch,2,2006,2015,2,10,0.2,False,Недостаточно данных
+Mars,Mycenaean,2,2013,2014,2,2,1.0,False,Недостаточно данных
+Matchbox,USA,2,1976,1990,2,15,0.13333333333333333,False,Недостаточно данных
+Metch,British,2,2010,2010,1,1,1.0,False,Недостаточно данных
+Metch,Japanese,2,2011,2011,1,1,1.0,False,Недостаточно данных
+MiniArt,Burgundian,2,2002,2005,2,4,0.5,False,Недостаточно данных
+MiniArt,German,2,2006,2007,2,2,1.0,False,Недостаточно данных
+Odemars,British,2,2005,2008,2,4,0.5,False,Недостаточно данных
+Odemars,Israeli,2,2006,2007,2,2,1.0,False,Недостаточно данных
+Orion,Albanian,2,2008,2009,2,2,1.0,False,Недостаточно данных
+Orion,Assyrian,2,2007,2007,1,1,1.0,False,Недостаточно данных
+Orion,French,2,2006,2023,2,18,0.1111111111111111,False,Недостаточно данных
+Orion,Iraqi,2,2007,2007,1,1,1.0,False,Недостаточно данных
+Orion,Israeli,2,2010,2011,2,2,1.0,False,Недостаточно данных
+Orion,Scythian,2,2008,2008,1,1,1.0,False,Недостаточно данных
+Panzer vs Tanks,Israeli,2,2015,2015,1,1,1.0,False,Недостаточно данных
+Pegasus,French,2,2010,2010,1,1,1.0,False,Недостаточно данных
+Pobeda,Finnish,2,2008,2010,2,3,0.6666666666666666,False,Недостаточно данных
+Pobeda,Russian,2,2010,2010,1,1,1.0,False,Недостаточно данных
+Preiser,Russian,2,2003,2004,2,2,1.0,False,Недостаточно данных
+RedBox,Albanian,2,2015,2015,1,1,1.0,False,Недостаточно данных
+RedBox,Czech,2,2010,2011,2,2,1.0,False,Недостаточно данных
+RedBox,Hussite,2,2010,2011,2,2,1.0,False,Недостаточно данных
+RedBox,Serbian,2,2015,2015,1,1,1.0,False,Недостаточно данных
+Revell,Swedish,2,1990,1991,2,2,1.0,False,Недостаточно данных
+Strelets,Egyptian,2,2007,2011,2,5,0.4,False,Недостаточно данных
+Strelets,Greek,2,2018,2018,1,1,1.0,False,Недостаточно данных
+Strelets,New Zealand,2,2016,2018,2,3,0.6666666666666666,False,Недостаточно данных
+Strelets,Rifian,2,2018,2019,2,2,1.0,False,Недостаточно данных
+Strelets,Saxon,2,2004,2016,2,13,0.15384615384615385,False,Недостаточно данных
+Strelets,Spanish,2,2007,2025,2,19,0.10526315789473684,False,Недостаточно данных
+Strelets,Ukrainian,2,2012,2013,2,2,1.0,False,Недостаточно данных
+Toxso,USA,2,2014,2014,1,1,1.0,False,Недостаточно данных
+Ultima Ratio,CeltIberian,2,2022,2024,2,3,0.6666666666666666,False,Недостаточно данных
+Ultima Ratio,Japanese,2,2017,2025,2,9,0.2222222222222222,False,Недостаточно данных
+Ultima Ratio,Spanish,2,2022,2024,2,3,0.6666666666666666,False,Недостаточно данных
+Ultima Ratio,Swiss,2,2017,2017,1,1,1.0,False,Недостаточно данных
+Ultima Ratio,USA,2,2021,2022,2,2,1.0,False,Недостаточно данных
+Valiant,British,2,2007,2013,2,7,0.2857142857142857,False,Недостаточно данных
+Waterloo 1815,Austrian,2,2006,2006,1,1,1.0,False,Недостаточно данных
+Waterloo 1815,Dutch,2,2002,2009,2,8,0.25,False,Недостаточно данных
+Waterloo 1815,Greek,2,1977,1977,1,1,1.0,False,Недостаточно данных
+Waterloo 1815,Japanese,2,2007,2009,2,3,0.6666666666666666,False,Недостаточно данных
+Waterloo 1815,Sudanese,2,2005,2005,1,1,1.0,False,Недостаточно данных
+Ykreol,German,2,2007,2009,2,3,0.6666666666666666,False,Недостаточно данных
+Zvezda,Polish,2,2008,2009,2,2,1.0,False,Недостаточно данных
+Zvezda,Tunisian,2,2006,2007,2,2,1.0,False,Недостаточно данных
+Zvezda,Turkish,2,2007,2008,2,2,1.0,False,Недостаточно данных
+A Call To Arms,Belgian,1,2005,2005,1,1,1.0,False,Недостаточно данных
+A Call To Arms,Dutch,1,2005,2005,1,1,1.0,False,Недостаточно данных
+A Call To Arms,South African,1,2001,2001,1,1,1.0,False,Недостаточно данных
+A Call To Arms,Zulu,1,2001,2001,1,1,1.0,False,Недостаточно данных
+Accurate,Confederate,1,1991,1991,1,1,1.0,False,Недостаточно данных
+Airfix,Arab,1,1964,1964,1,1,1.0,False,Недостаточно данных
+Airfix,Australian,1,1976,1976,1,1,1.0,False,Недостаточно данных
+Airfix,Celtic,1,1969,1969,1,1,1.0,False,Недостаточно данных
+Airfix,Japanese,1,1964,1964,1,1,1.0,False,Недостаточно данных
+Airfix,Nepalese,1,1976,1976,1,1,1.0,False,Недостаточно данных
+Airfix,Spanish,1,1981,1981,1,1,1.0,False,Недостаточно данных
+Atlantic,Anatolian,1,1977,1977,1,1,1.0,False,Недостаточно данных
+Atlantic,British,1,1975,1975,1,1,1.0,False,Недостаточно данных
+Atlantic,Chinese,1,1972,1972,1,1,1.0,False,Недостаточно данных
+Atlantic,French,1,1975,1975,1,1,1.0,False,Недостаточно данных
+Atlantic,Indian,1,1977,1977,1,1,1.0,False,Недостаточно данных
+Atlantic,Japanese,1,1976,1976,1,1,1.0,False,Недостаточно данных
+Atlantic,Turkish,1,1977,1977,1,1,1.0,False,Недостаточно данных
+BUM,Canadian,1,2011,2011,1,1,1.0,False,Недостаточно данных
+BUM,French,1,2011,2011,1,1,1.0,False,Недостаточно данных
+BUM,German,1,2004,2004,1,1,1.0,False,Недостаточно данных
+BUM,Italian,1,2004,2004,1,1,1.0,False,Недостаточно данных
+Caesar,Arab,1,2006,2006,1,1,1.0,False,Недостаточно данных
+Caesar,Aztec,1,2012,2012,1,1,1.0,False,Недостаточно данных
+Caesar,Belize,1,2006,2006,1,1,1.0,False,Недостаточно данных
+Caesar,Bosnian,1,2008,2008,1,1,1.0,False,Недостаточно данных
+Caesar,Celtic,1,2009,2009,1,1,1.0,False,Недостаточно данных
+Caesar,Croatian,1,2008,2008,1,1,1.0,False,Недостаточно данных
+Caesar,Guatamalan,1,2006,2006,1,1,1.0,False,Недостаточно данных
+Caesar,Incan,1,2006,2006,1,1,1.0,False,Недостаточно данных
+Caesar,Japanese,1,2004,2004,1,1,1.0,False,Недостаточно данных
+Caesar,Libyan,1,2006,2006,1,1,1.0,False,Недостаточно данных
+Caesar,Mayan,1,2006,2006,1,1,1.0,False,Недостаточно данных
+Caesar,Mitannian,1,2006,2006,1,1,1.0,False,Недостаточно данных
+Caesar,Mycenaean,1,2012,2012,1,1,1.0,False,Недостаточно данных
+Caesar,Norwegian,1,2008,2008,1,1,1.0,False,Недостаточно данных
+Caesar,Nubian,1,2007,2007,1,1,1.0,False,Недостаточно данных
+Caesar,Persian,1,2009,2009,1,1,1.0,False,Недостаточно данных
+Caesar,Peruvian,1,2006,2006,1,1,1.0,False,Недостаточно данных
+Caesar,Serbian,1,2008,2008,1,1,1.0,False,Недостаточно данных
+Caesar,Somalian,1,2009,2009,1,1,1.0,False,Недостаточно данных
+Caesar,Sudanese,1,2007,2007,1,1,1.0,False,Недостаточно данных
+Caesar,Trojan,1,2006,2006,1,1,1.0,False,Недостаточно данных
+Coates & Shine,Burundi,1,2006,2006,1,1,1.0,False,Недостаточно данных
+Coates & Shine,German,1,2007,2007,1,1,1.0,False,Недостаточно данных
+Coates & Shine,Goth,1,2007,2007,1,1,1.0,False,Недостаточно данных
+Coates & Shine,Greek,1,2007,2007,1,1,1.0,False,Недостаточно данных
+Coates & Shine,Macedonian,1,2007,2007,1,1,1.0,False,Недостаточно данных
+Coates & Shine,Polish,1,2007,2007,1,1,1.0,False,Недостаточно данных
+Coates & Shine,Rwandan,1,2006,2006,1,1,1.0,False,Недостаточно данных
+Coates & Shine,Serbian,1,2006,2006,1,1,1.0,False,Недостаточно данных
+Coates & Shine,Tanzanian,1,2006,2006,1,1,1.0,False,Недостаточно данных
+Dark Dream Studio,Italian,1,2009,2009,1,1,1.0,False,Недостаточно данных
+Dark Dream Studio,Russian,1,2003,2003,1,1,1.0,False,Недостаточно данных
+Dark Dream Studio,Spanish,1,2009,2009,1,1,1.0,False,Недостаточно данных
+Eagle Games,USA,1,2002,2002,1,1,1.0,False,Недостаточно данных
+Eduard,British,1,2008,2008,1,1,1.0,False,Недостаточно данных
+Eduard,Czech,1,2008,2008,1,1,1.0,False,Недостаточно данных
+Emhar,Portuguese,1,2014,2014,1,1,1.0,False,Недостаточно данных
+Emhar,Russian,1,2005,2005,1,1,1.0,False,Недостаточно данных
+Emhar,Saxon,1,2005,2005,1,1,1.0,False,Недостаточно данных
+Emhar,Spanish,1,2014,2014,1,1,1.0,False,Недостаточно данных
+Emhar,USA,1,2005,2005,1,1,1.0,False,Недостаточно данных
+Esci,Afghan,1,1987,1987,1,1,1.0,False,Недостаточно данных
+Esci,Australian,1,1986,1986,1,1,1.0,False,Недостаточно данных
+Esci,Austrian,1,1986,1986,1,1,1.0,False,Недостаточно данных
+Esci,Belgian,1,1989,1989,1,1,1.0,False,Недостаточно данных
+Esci,Confederate,1,1985,1985,1,1,1.0,False,Недостаточно данных
+Esci,Czech,1,1989,1989,1,1,1.0,False,Недостаточно данных
+Esci,Dutch,1,1989,1989,1,1,1.0,False,Недостаточно данных
+Esci,East German,1,1989,1989,1,1,1.0,False,Недостаточно данных
+Esci,Hungarian,1,1989,1989,1,1,1.0,False,Недостаточно данных
+Esci,Japanese,1,1982,1982,1,1,1.0,False,Недостаточно данных
+Esci,South African,1,1984,1984,1,1,1.0,False,Недостаточно данных
+Esci,Sudanese,1,1987,1987,1,1,1.0,False,Недостаточно данных
+Esci,Vietnamese,1,1986,1986,1,1,1.0,False,Недостаточно данных
+Esci,Zulu,1,1984,1984,1,1,1.0,False,Недостаточно данных
+Evolution,Afghan,1,2002,2002,1,1,1.0,False,Недостаточно данных
+Evolution,Carthaginian,1,2004,2004,1,1,1.0,False,Недостаточно данных
+Evolution,Dacian,1,2006,2006,1,1,1.0,False,Недостаточно данных
+Evolution,Italian,1,2006,2006,1,1,1.0,False,Недостаточно данных
+Evolution,Romanian,1,2006,2006,1,1,1.0,False,Недостаточно данных
+Evolution,Scythian,1,2002,2002,1,1,1.0,False,Недостаточно данных
+Evolution,Tajik,1,2002,2002,1,1,1.0,False,Недостаточно данных
+Evolution,Tunisian,1,2004,2004,1,1,1.0,False,Недостаточно данных
+Evolution,Uzbek,1,2002,2002,1,1,1.0,False,Недостаточно данных
+Fujimi,German,1,1992,1992,1,1,1.0,False,Недостаточно данных
+GerMan,Austrian,1,2008,2008,1,1,1.0,False,Недостаточно данных
+GerMan,Hungarian,1,2009,2009,1,1,1.0,False,Недостаточно данных
+GerMan,Indian,1,2010,2010,1,1,1.0,False,Недостаточно данных
+Gulliver,USA,1,1994,1994,1,1,1.0,False,Недостаточно данных
+HYTTY,Algerian,1,2002,2002,1,1,1.0,False,Недостаточно данных
+HYTTY,Greek,1,2002,2002,1,1,1.0,False,Недостаточно данных
+HYTTY,Libyan,1,2002,2002,1,1,1.0,False,Недостаточно данных
+HYTTY,Spanish,1,2002,2002,1,1,1.0,False,Недостаточно данных
+HYTTY,Tunisian,1,2002,2002,1,1,1.0,False,Недостаточно данных
+HaT,Arab,1,1964,1964,1,1,1.0,False,Недостаточно данных
+HaT,Cameroonian,1,2014,2014,1,1,1.0,False,Недостаточно данных
+HaT,Dacian,1,2004,2004,1,1,1.0,False,Недостаточно данных
+HaT,Gaul,1,2008,2008,1,1,1.0,False,Недостаточно данных
+HaT,Goth,1,2005,2005,1,1,1.0,False,Недостаточно данных
+HaT,Hun,1,2014,2014,1,1,1.0,False,Недостаточно данных
+HaT,Japanese,1,2014,2014,1,1,1.0,False,Недостаточно данных
+HaT,Kenyan,1,2014,2014,1,1,1.0,False,Недостаточно данных
+HaT,Nepalese,1,1976,1976,1,1,1.0,False,Недостаточно данных
+HaT,Nubian,1,2004,2004,1,1,1.0,False,Недостаточно данных
+HaT,Numidian,1,1999,1999,1,1,1.0,False,Недостаточно данных
+HaT,Pictish,1,2002,2002,1,1,1.0,False,Недостаточно данных
+HaT,Portuguese,1,2001,2001,1,1,1.0,False,Недостаточно данных
+HaT,Sea People,1,2004,2004,1,1,1.0,False,Недостаточно данных
+HaT,Thracian,1,2001,2001,1,1,1.0,False,Недостаточно данных
+HaT,Ukrainian,1,2005,2005,1,1,1.0,False,Недостаточно данных
+Hasegawa,British,1,1998,1998,1,1,1.0,False,Недостаточно данных
+Hegemony,Chinese,1,2018,2018,1,1,1.0,False,Недостаточно данных
+Hegemony,Indian,1,2022,2022,1,1,1.0,False,Недостаточно данных
+Hegemony,Persian,1,2022,2022,1,1,1.0,False,Недостаточно данных
+Hegemony,Phrygian,1,2022,2022,1,1,1.0,False,Недостаточно данных
+Hegemony,Turkish,1,2022,2022,1,1,1.0,False,Недостаточно данных
+Heller,Japanese,1,1964,1964,1,1,1.0,False,Недостаточно данных
+IMEX,Anglo-Saxon,1,2005,2005,1,1,1.0,False,Недостаточно данных
+IMEX,Chinese,1,2005,2005,1,1,1.0,False,Недостаточно данных
+IMEX,German,1,2007,2007,1,1,1.0,False,Недостаточно данных
+IMEX,North Korean,1,2005,2005,1,1,1.0,False,Недостаточно данных
+IMEX,Russian,1,2005,2005,1,1,1.0,False,Недостаточно данных
+IMEX,South Korean,1,2005,2005,1,1,1.0,False,Недостаточно данных
+IMEX,Texian,1,1997,1997,1,1,1.0,False,Недостаточно данных
+Italeri,Chinese,1,2009,2009,1,1,1.0,False,Недостаточно данных
+Italeri,Frankish,1,1998,1998,1,1,1.0,False,Недостаточно данных
+Italeri,Gaul,1,2000,2000,1,1,1.0,False,Недостаточно данных
+Italeri,Goth,1,2010,2010,1,1,1.0,False,Недостаточно данных
+Italeri,Indian,1,1986,1986,1,1,1.0,False,Недостаточно данных
+Italeri,South African,1,1984,1984,1,1,1.0,False,Недостаточно данных
+Italeri,Turkish,1,2008,2008,1,1,1.0,False,Недостаточно данных
+Italeri,Vietnamese,1,1986,1986,1,1,1.0,False,Недостаточно данных
+Italeri,Zulu,1,1984,1984,1,1,1.0,False,Недостаточно данных
+LW,Afghan,1,2002,2002,1,1,1.0,False,Недостаточно данных
+LW,Cossack,1,2004,2004,1,1,1.0,False,Недостаточно данных
+LW,Dacian,1,2007,2007,1,1,1.0,False,Недостаточно данных
+LW,French,1,2010,2010,1,1,1.0,False,Недостаточно данных
+LW,Israeli,1,2008,2008,1,1,1.0,False,Недостаточно данных
+LW,Japanese,1,2004,2004,1,1,1.0,False,Недостаточно данных
+LW,Persian,1,2006,2006,1,1,1.0,False,Недостаточно данных
+LW,Polish,1,2002,2002,1,1,1.0,False,Недостаточно данных
+LW,Portuguese,1,2005,2005,1,1,1.0,False,Недостаточно данных
+LW,Romanian,1,2007,2007,1,1,1.0,False,Недостаточно данных
+LW,Sarmatian,1,2006,2006,1,1,1.0,False,Недостаточно данных
+LW,Scythian,1,2002,2002,1,1,1.0,False,Недостаточно данных
+LW,Swiss,1,2005,2005,1,1,1.0,False,Недостаточно данных
+LW,Tajik,1,2002,2002,1,1,1.0,False,Недостаточно данных
+LW,Uzbek,1,2002,2002,1,1,1.0,False,Недостаточно данных
+Legio,French,1,2009,2009,1,1,1.0,False,Недостаточно данных
+Linear-A,Algerian,1,2020,2020,1,1,1.0,False,Недостаточно данных
+Linear-A,Dacian,1,2025,2025,1,1,1.0,False,Недостаточно данных
+Linear-A,Emirati,1,2026,2026,1,1,1.0,False,Недостаточно данных
+Linear-A,Etruscan,1,2018,2018,1,1,1.0,False,Недостаточно данных
+Linear-A,Goth,1,2026,2026,1,1,1.0,False,Недостаточно данных
+Linear-A,Harappan,1,2024,2024,1,1,1.0,False,Недостаточно данных
+Linear-A,Hittite,1,2026,2026,1,1,1.0,False,Недостаточно данных
+Linear-A,Indian,1,2024,2024,1,1,1.0,False,Недостаточно данных
+Linear-A,Macedonian,1,2026,2026,1,1,1.0,False,Недостаточно данных
+Linear-A,Minoan,1,2021,2021,1,1,1.0,False,Недостаточно данных
+Linear-A,Omani,1,2026,2026,1,1,1.0,False,Недостаточно данных
+Linear-A,Pakistani,1,2024,2024,1,1,1.0,False,Недостаточно данных
+Linear-A,Palestinian,1,2016,2016,1,1,1.0,False,Недостаточно данных
+Linear-A,Thracian,1,2026,2026,1,1,1.0,False,Недостаточно данных
+Linear-A,Trojan,1,2026,2026,1,1,1.0,False,Недостаточно данных
+Linear-B,British,1,2013,2013,1,1,1.0,False,Недостаточно данных
+Linear-B,Celtic,1,2013,2013,1,1,1.0,False,Недостаточно данных
+Linear-B,Pontic,1,2015,2015,1,1,1.0,False,Недостаточно данных
+Linear-B,Turkish,1,2015,2015,1,1,1.0,False,Недостаточно данных
+Lucky Toys,Austrian,1,2004,2004,1,1,1.0,False,Недостаточно данных
+Lucky Toys,Hun,1,2003,2003,1,1,1.0,False,Недостаточно данных
+Lucky Toys,Indian,1,2006,2006,1,1,1.0,False,Недостаточно данных
+Lucky Toys,Romanian,1,2009,2009,1,1,1.0,False,Недостаточно данных
+Lucky Toys,Turkish,1,2009,2009,1,1,1.0,False,Недостаточно данных
+Lucky Toys,Wallacian,1,2009,2009,1,1,1.0,False,Недостаточно данных
+MM,Italian,1,2012,2012,1,1,1.0,False,Недостаточно данных
+MM,Swiss,1,2012,2012,1,1,1.0,False,Недостаточно данных
+Mars,Australian,1,2022,2022,1,1,1.0,False,Недостаточно данных
+Mars,Burgundian,1,2017,2017,1,1,1.0,False,Недостаточно данных
+Mars,Canadian,1,2022,2022,1,1,1.0,False,Недостаточно данных
+Mars,Crimean,1,2015,2015,1,1,1.0,False,Недостаточно данных
+Mars,Finnish,1,2019,2019,1,1,1.0,False,Недостаточно данных
+Mars,Hungarian,1,2013,2013,1,1,1.0,False,Недостаточно данных
+Mars,Romanian,1,2014,2014,1,1,1.0,False,Недостаточно данных
+Mars,Saxon,1,2009,2009,1,1,1.0,False,Недостаточно данных
+Mars,Scottish,1,2009,2009,1,1,1.0,False,Недостаточно данных
+Mars,Scythian,1,2022,2022,1,1,1.0,False,Недостаточно данных
+Mars,Sea People,1,2014,2014,1,1,1.0,False,Недостаточно данных
+Mars,Swiss,1,2005,2005,1,1,1.0,False,Недостаточно данных
+Mars,Tunisian,1,2014,2014,1,1,1.0,False,Недостаточно данных
+Mars,Wallacian,1,2014,2014,1,1,1.0,False,Недостаточно данных
+Matchbox,Australian,1,1980,1980,1,1,1.0,False,Недостаточно данных
+Matchbox,New Zealand,1,1980,1980,1,1,1.0,False,Недостаточно данных
+MiniArt,Czech,1,2007,2007,1,1,1.0,False,Недостаточно данных
+MiniArt,Hussite,1,2007,2007,1,1,1.0,False,Недостаточно данных
+MiniArt,Swiss,1,2006,2006,1,1,1.0,False,Недостаточно данных
+Model Kasten,Japanese,1,2016,2016,1,1,1.0,False,Недостаточно данных
+Nexus,Greek,1,1977,1977,1,1,1.0,False,Недостаточно данных
+Odemars,Bosnian,1,2006,2006,1,1,1.0,False,Недостаточно данных
+Odemars,Portuguese,1,2005,2005,1,1,1.0,False,Недостаточно данных
+Odemars,Spanish,1,2005,2005,1,1,1.0,False,Недостаточно данных
+Orion,Bohemian,1,2011,2011,1,1,1.0,False,Недостаточно данных
+Orion,Bosnian,1,2009,2009,1,1,1.0,False,Недостаточно данных
+Orion,CeltIberian,1,2010,2010,1,1,1.0,False,Недостаточно данных
+Orion,Chinese,1,2004,2004,1,1,1.0,False,Недостаточно данных
+Orion,Cuman,1,2010,2010,1,1,1.0,False,Недостаточно данных
+Orion,Czech,1,2011,2011,1,1,1.0,False,Недостаточно данных
+Orion,Danish,1,2002,2002,1,1,1.0,False,Недостаточно данных
+Orion,Finnish,1,2025,2025,1,1,1.0,False,Недостаточно данных
+Orion,Georgian,1,2009,2009,1,1,1.0,False,Недостаточно данных
+Orion,Hungarian,1,2024,2024,1,1,1.0,False,Недостаточно данных
+Orion,Japanese,1,2024,2024,1,1,1.0,False,Недостаточно данных
+Orion,Kazakhstani,1,2008,2008,1,1,1.0,False,Недостаточно данных
+Orion,Khazar,1,2009,2009,1,1,1.0,False,Недостаточно данных
+Orion,Kyrgyzstani,1,2008,2008,1,1,1.0,False,Недостаточно данных
+Orion,Norwegian,1,2002,2002,1,1,1.0,False,Недостаточно данных
+Orion,Parthian,1,2006,2006,1,1,1.0,False,Недостаточно данных
+Orion,Pecheneg,1,2010,2010,1,1,1.0,False,Недостаточно данных
+Orion,Persian,1,2006,2006,1,1,1.0,False,Недостаточно данных
+Orion,Portuguese,1,2010,2010,1,1,1.0,False,Недостаточно данных
+Orion,Scottish,1,2006,2006,1,1,1.0,False,Недостаточно данных
+Orion,Serbian,1,2009,2009,1,1,1.0,False,Недостаточно данных
+Orion,Slav,1,2009,2009,1,1,1.0,False,Недостаточно данных
+Orion,Swedish,1,2002,2002,1,1,1.0,False,Недостаточно данных
+Orion,Syrian,1,2007,2007,1,1,1.0,False,Недостаточно данных
+Orion,Tajikistani,1,2008,2008,1,1,1.0,False,Недостаточно данных
+Orion,Thracian,1,2008,2008,1,1,1.0,False,Недостаточно данных
+Orion,Turkmenistani,1,2008,2008,1,1,1.0,False,Недостаточно данных
+Orion,Uzbek,1,2008,2008,1,1,1.0,False,Недостаточно данных
+Orion,Viking,1,2002,2002,1,1,1.0,False,Недостаточно данных
+Panzer vs Tanks,USA,1,2016,2016,1,1,1.0,False,Недостаточно данных
+Pegasus,Italian,1,2008,2008,1,1,1.0,False,Недостаточно данных
+Pegasus,Mexican,1,2005,2005,1,1,1.0,False,Недостаточно данных
+Preiser,Spanish,1,1992,1992,1,1,1.0,False,Недостаточно данных
+RedBox,Afghan,1,2006,2006,1,1,1.0,False,Недостаточно данных
+RedBox,Austrian,1,2010,2010,1,1,1.0,False,Недостаточно данных
+RedBox,Indian,1,2008,2008,1,1,1.0,False,Недостаточно данных
+RedBox,Nepalese,1,2010,2010,1,1,1.0,False,Недостаточно данных
+RedBox,Pictish,1,2006,2006,1,1,1.0,False,Недостаточно данных
+Revell,Anglo-Saxon,1,1989,1989,1,1,1.0,False,Недостаточно данных
+Revell,Australian,1,1989,1989,1,1,1.0,False,Недостаточно данных
+Revell,Aztec,1,1991,1991,1,1,1.0,False,Недостаточно данных
+Revell,Belgian,1,2012,2012,1,1,1.0,False,Недостаточно данных
+Revell,Celtic,1,1989,1989,1,1,1.0,False,Недостаточно данных
+Revell,Confederate,1,1991,1991,1,1,1.0,False,Недостаточно данных
+Revell,Japanese,1,1993,1993,1,1,1.0,False,Недостаточно данных
+Revell,Mexican,1,1991,1991,1,1,1.0,False,Недостаточно данных
+Revell,Norman,1,1989,1989,1,1,1.0,False,Недостаточно данных
+Revell,Spanish,1,1991,1991,1,1,1.0,False,Недостаточно данных
+Revell,Vietnamese,1,1986,1986,1,1,1.0,False,Недостаточно данных
+Strelets,Breton,1,2007,2007,1,1,1.0,False,Недостаточно данных
+Strelets,Brunswick,1,2019,2019,1,1,1.0,False,Недостаточно данных
+Strelets,Celtic,1,2018,2018,1,1,1.0,False,Недостаточно данных
+Strelets,Cossack,1,2006,2006,1,1,1.0,False,Недостаточно данных
+Strelets,Estonian,1,2013,2013,1,1,1.0,False,Недостаточно данных
+Strelets,Gaul,1,2018,2018,1,1,1.0,False,Недостаточно данных
+Strelets,Iraqi,1,2020,2020,1,1,1.0,False,Недостаточно данных
+Strelets,Latvian,1,2013,2013,1,1,1.0,False,Недостаточно данных
+Strelets,Lithuanian,1,2013,2013,1,1,1.0,False,Недостаточно данных
+Strelets,Mongolian,1,2009,2009,1,1,1.0,False,Недостаточно данных
+Strelets,Pakistani,1,2016,2016,1,1,1.0,False,Недостаточно данных
+Strelets,Sarmatian,1,2012,2012,1,1,1.0,False,Недостаточно данных
+Strelets,Serbian,1,2017,2017,1,1,1.0,False,Недостаточно данных
+Strelets,Texian,1,2025,2025,1,1,1.0,False,Недостаточно данных
+T-Model,Afghan,1,2021,2021,1,1,1.0,False,Недостаточно данных
+T-Model,Iraqi,1,2021,2021,1,1,1.0,False,Недостаточно данных
+T-Model,Pakistani,1,2021,2021,1,1,1.0,False,Недостаточно данных
+T-Model,Syrian,1,2021,2021,1,1,1.0,False,Недостаточно данных
+Toxso,German,1,2015,2015,1,1,1.0,False,Недостаточно данных
+Tragik,French,1,2008,2008,1,1,1.0,False,Недостаточно данных
+Tragik,German,1,2008,2008,1,1,1.0,False,Недостаточно данных
+Ultima Ratio,Afghan,1,2014,2014,1,1,1.0,False,Недостаточно данных
+Ultima Ratio,British,1,2017,2017,1,1,1.0,False,Недостаточно данных
+Ultima Ratio,Burgundian,1,2024,2024,1,1,1.0,False,Недостаточно данных
+Ultima Ratio,Confederate,1,2022,2022,1,1,1.0,False,Недостаточно данных
+Ultima Ratio,Greek,1,2025,2025,1,1,1.0,False,Недостаточно данных
+Ultima Ratio,Libyan,1,2023,2023,1,1,1.0,False,Недостаточно данных
+Ultima Ratio,Polish,1,2015,2015,1,1,1.0,False,Недостаточно данных
+Ultima Ratio,Thracian,1,2025,2025,1,1,1.0,False,Недостаточно данных
+Ultima Ratio,Tunisian,1,2023,2023,1,1,1.0,False,Недостаточно данных
+Valdemar,Croatian,1,2009,2009,1,1,1.0,False,Недостаточно данных
+Valdemar,Cuman,1,2009,2009,1,1,1.0,False,Недостаточно данных
+Valdemar,German,1,2009,2009,1,1,1.0,False,Недостаточно данных
+Valdemar,Russian,1,2009,2009,1,1,1.0,False,Недостаточно данных
+Valdemar,Ukrainian,1,2009,2009,1,1,1.0,False,Недостаточно данных
+Valdemar,Welsh,1,2009,2009,1,1,1.0,False,Недостаточно данных
+Valiant,USA,1,2008,2008,1,1,1.0,False,Недостаточно данных
+Waterloo 1815,Belgian,1,2002,2002,1,1,1.0,False,Недостаточно данных
+Waterloo 1815,Brunswick,1,2009,2009,1,1,1.0,False,Недостаточно данных
+Waterloo 1815,Confederate,1,1999,1999,1,1,1.0,False,Недостаточно данных
+Waterloo 1815,Egyptian,1,2005,2005,1,1,1.0,False,Недостаточно данных
+Waterloo 1815,Nassau,1,2009,2009,1,1,1.0,False,Недостаточно данных
+Waterloo 1815,Polish,1,2002,2002,1,1,1.0,False,Недостаточно данных
+Ykreol,Bosnian,1,2006,2006,1,1,1.0,False,Недостаточно данных
+Ykreol,Portuguese,1,2005,2005,1,1,1.0,False,Недостаточно данных
+Ykreol,Spanish,1,2005,2005,1,1,1.0,False,Недостаточно данных
+Zvezda,Algerian,1,2007,2007,1,1,1.0,False,Недостаточно данных
+Zvezda,Austrian,1,2008,2008,1,1,1.0,False,Недостаточно данных
+Zvezda,Carthaginian,1,2006,2006,1,1,1.0,False,Недостаточно данных
+Zvezda,Celtic,1,2000,2000,1,1,1.0,False,Недостаточно данных
+Zvezda,Danish,1,2007,2007,1,1,1.0,False,Недостаточно данных
+Zvezda,Egyptian,1,2007,2007,1,1,1.0,False,Недостаточно данных
+Zvezda,Greek,1,2011,2011,1,1,1.0,False,Недостаточно данных
+Zvezda,Kazak,1,2009,2009,1,1,1.0,False,Недостаточно данных
+Zvezda,Macedonian,1,2002,2002,1,1,1.0,False,Недостаточно данных
+Zvezda,Mongolian,1,2011,2011,1,1,1.0,False,Недостаточно данных
+Zvezda,Norwegian,1,2007,2007,1,1,1.0,False,Недостаточно данных
+Zvezda,Romanian,1,2015,2015,1,1,1.0,False,Недостаточно данных
+Zvezda,Saxon,1,2005,2005,1,1,1.0,False,Недостаточно данных
+Zvezda,Scythian,1,2009,2009,1,1,1.0,False,Недостаточно данных
+Zvezda,Seleucid,1,2003,2003,1,1,1.0,False,Недостаточно данных
+Zvezda,Syrian,1,2003,2003,1,1,1.0,False,Недостаточно данных
+Zvezda,Ukrainian,1,2009,2009,1,1,1.0,False,Недостаточно данных
+Zvezda,Viking,1,2007,2007,1,1,1.0,False,Недостаточно данных
